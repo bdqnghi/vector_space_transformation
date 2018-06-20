@@ -1,0 +1,1 @@
+Spring.Context.Attributes System using Spring.Core.IO using Spring.Objects.Factory.Support using Spring.Objects.Factory.Xml using Spring.Util using class attribute Spring.Context.Attributes.ImportResourceAttribute super super Attribute Type decl string return if ! typeof throw new = return =

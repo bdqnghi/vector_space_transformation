@@ -1,0 +1,1 @@
+AntlrUnitTests Microsoft.VisualStudio.TestTools.UnitTesting using class attribute AntlrUnitTests.DebugTestRewriteAST super super TestRewriteAST

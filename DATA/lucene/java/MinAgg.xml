@@ -1,0 +1,1 @@
+org.apache.solr.search.facet java.io.IOException import org.apache.lucene.queries.function.ValueSource import class org.apache.solr.search.facet.MinAgg super super extends public public throws return new public public return new double public public decl_stmt double = if < || = protected protected return

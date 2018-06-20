@@ -1,0 +1,1 @@
+org.springframework.context.annotation org.springframework.beans.factory.config.BeanFactoryPostProcessor import org.springframework.core.type.AnnotatedTypeMetadata import interface org.springframework.context.annotation.Condition

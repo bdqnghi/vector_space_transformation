@@ -1,0 +1,1 @@
+org.apache.solr.response.transform org.apache.solr.common.SolrDocument import class org.apache.solr.response.transform.ScoreAugmenter super super extends String public public return public public if != &&

@@ -1,0 +1,1 @@
+org.springframework.jdbc.datasource java.sql.Connection import interface org.springframework.jdbc.datasource.ConnectionHandle

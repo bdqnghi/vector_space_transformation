@@ -1,0 +1,1 @@
+Lucene.Net.Analysis System.IO using class Lucene.Net.Analysis.CharFilter super super TextReader TextReader public override public override call System.IO.TextReader.Close() call System.IO.TextReader.Close() call System.IO.TextReader.Close() call System.IO.TextReader.Close() call System.IO.TextReader.Close() int public public decl_stmt int = return is :

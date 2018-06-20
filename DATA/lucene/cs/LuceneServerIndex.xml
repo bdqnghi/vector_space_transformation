@@ -1,0 +1,1 @@
+Lucene.Net.Distributed.Configuration System using System.Collections using System.Configuration using System.IO using System.Xml using class Lucene.Net.Distributed.Configuration.LuceneServerIndex string decl DirectoryInfo int decl DirectoryInfo decl DirectoryInfo return return return return public public = if == = else if == = return

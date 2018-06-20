@@ -1,0 +1,1 @@
+org.springframework.orm.jdo javax.jdo.JDOFatalUserException import javax.jdo.JDOUserException import org.springframework.dao.InvalidDataAccessApiUsageException import class annotation org.springframework.orm.jdo.JdoUsageException super super extends

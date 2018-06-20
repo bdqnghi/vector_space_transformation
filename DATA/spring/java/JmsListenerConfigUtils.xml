@@ -1,0 +1,1 @@
+org.springframework.jms.config class org.springframework.jms.config.JmsListenerConfigUtils String String

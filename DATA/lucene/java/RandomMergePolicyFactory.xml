@@ -1,0 +1,1 @@
+org.apache.solr.util org.apache.lucene.index.MergePolicy import org.apache.solr.index.MergePolicyFactory import org.apache.solr.index.MergePolicyFactoryArgs import class org.apache.solr.util.RandomMergePolicyFactory super super extends public public return new

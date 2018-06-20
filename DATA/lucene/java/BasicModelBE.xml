@@ -1,0 +1,1 @@
+org.apache.lucene.search.similarities static static org.apache.lucene.search.similarities.SimilarityBase.log2 import class org.apache.lucene.search.similarities.BasicModelBE super super extends double double public final public final decl_stmt double = + + decl_stmt double = + return - - * + + - + - - - - private final private final return + * / + - * public public return

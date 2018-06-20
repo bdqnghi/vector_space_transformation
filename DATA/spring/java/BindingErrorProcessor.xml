@@ -1,0 +1,1 @@
+org.springframework.validation org.springframework.beans.PropertyAccessException import interface org.springframework.validation.BindingErrorProcessor

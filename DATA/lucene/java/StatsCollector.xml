@@ -1,0 +1,1 @@
+org.apache.solr.analytics.statistics java.io.IOException import java.util.Set import org.apache.lucene.index.LeafReaderContext import org.apache.lucene.queries.function.FunctionValues import org.apache.lucene.util.mutable.MutableValue import interface org.apache.solr.analytics.statistics.StatsCollector

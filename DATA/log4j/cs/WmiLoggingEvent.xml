@@ -1,0 +1,1 @@
+log4net.Appender System using log4net.Core using System.Management.Instrumentation using class log4net.Appender.WmiLoggingEvent super super BaseEvent string string DateTime string string string string

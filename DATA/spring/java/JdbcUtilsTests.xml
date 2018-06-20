@@ -1,0 +1,1 @@
+org.springframework.jdbc.support org.junit.Test import static static org.junit.Assert.* import class org.springframework.jdbc.support.JdbcUtilsTests public public public public

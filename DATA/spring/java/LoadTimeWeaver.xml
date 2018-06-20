@@ -1,0 +1,1 @@
+org.springframework.instrument.classloading java.lang.instrument.ClassFileTransformer import interface org.springframework.instrument.classloading.LoadTimeWeaver

@@ -1,0 +1,1 @@
+Lucene.Net.Index System.Diagnostics using Lucene.Net.Util using class Lucene.Net.Index.AllDeletedFilterReader super super FilterAtomicReader Bits return return

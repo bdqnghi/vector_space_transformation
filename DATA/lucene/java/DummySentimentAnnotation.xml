@@ -1,0 +1,1 @@
+org.apache.solr.uima.ts org.apache.uima.jcas.JCas import org.apache.uima.jcas.JCasRegistry import org.apache.uima.jcas.cas.TOP_Type import org.apache.uima.jcas.tcas.Annotation import class org.apache.solr.uima.ts.DummySentimentAnnotation super super extends int int public public return private private public public if && == return public public if && ==

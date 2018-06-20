@@ -1,0 +1,1 @@
+org.apache.solr.request org.apache.solr.common.util.NamedList import org.apache.solr.core.SolrInfoMBean import org.apache.solr.response.SolrQueryResponse import interface org.apache.solr.request.SolrRequestHandler super super extends String

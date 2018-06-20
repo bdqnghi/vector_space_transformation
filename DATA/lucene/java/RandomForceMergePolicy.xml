@@ -1,0 +1,1 @@
+org.apache.solr.util org.apache.lucene.index.ForceMergePolicy import org.apache.lucene.index.MergePolicy import org.apache.lucene.util.LuceneTestCase import class org.apache.solr.util.RandomForceMergePolicy super super extends

@@ -1,0 +1,1 @@
+org.springframework.remoting.jaxws javax.jws.WebService import javax.jws.soap.SOAPBinding import interface annotation annotation org.springframework.remoting.jaxws.OrderService

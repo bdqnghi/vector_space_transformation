@@ -1,0 +1,1 @@
+Spring.DataQuickStart.Dao.Template System.Collections using System.Data using Spring.Data using Spring.Data.Core using class Spring.DataQuickStart.Dao.Template.RowCallbackDao super super AdoDaoSupport string PostalCodeRowCallback public virtual public virtual decl_stmt PostalCodeRowCallback = new return

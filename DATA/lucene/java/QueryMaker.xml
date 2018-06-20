@@ -1,0 +1,1 @@
+org.apache.lucene.benchmark.byTask.feeds org.apache.lucene.benchmark.byTask.utils.Config import org.apache.lucene.search.Query import interface org.apache.lucene.benchmark.byTask.feeds.QueryMaker

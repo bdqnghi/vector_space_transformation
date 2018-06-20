@@ -1,0 +1,1 @@
+org.springframework.util java.util.UUID import java.util.concurrent.atomic.AtomicLong import class org.springframework.util.SimpleIdGenerator super super implements AtomicLong AtomicLong long public public decl_stmt long = if == return new

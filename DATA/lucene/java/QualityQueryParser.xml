@@ -1,0 +1,1 @@
+org.apache.lucene.benchmark.quality org.apache.lucene.queryparser.classic.ParseException import org.apache.lucene.search.Query import interface org.apache.lucene.benchmark.quality.QualityQueryParser

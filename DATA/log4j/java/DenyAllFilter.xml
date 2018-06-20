@@ -1,0 +1,1 @@
+org.apache.log4j.varia org.apache.log4j.spi.Filter import org.apache.log4j.spi.LoggingEvent import class org.apache.log4j.varia.DenyAllFilter super super extends public public return public public public public return

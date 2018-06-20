@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.cn System using System.Collections.Generic using org.apache.lucene.analysis.util.TokenizerFactory org.apache.lucene.util.AttributeSource.AttributeFactory class attribute org.apache.lucene.analysis.cn.ChineseTokenizerFactory super super TokenizerFactory public override public override return new

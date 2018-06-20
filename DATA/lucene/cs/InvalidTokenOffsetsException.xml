@@ -1,0 +1,1 @@
+Lucene.Net.Search.Highlight System using System.Collections.Generic using System.Linq using System.Runtime.Serialization using System.Text using class attribute Lucene.Net.Search.Highlight.InvalidTokenOffsetsException super super Exception

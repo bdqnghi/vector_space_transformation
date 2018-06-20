@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.spr9799 org.junit.Test import org.junit.runner.RunWith import org.springframework.test.context.ContextConfiguration import org.springframework.test.context.junit4.SpringJUnit4ClassRunner import class annotation annotation org.springframework.test.context.junit4.spr9799.Spr9799XmlConfigTests public public

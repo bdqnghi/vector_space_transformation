@@ -1,0 +1,1 @@
+log4net.Appender System.Runtime.InteropServices using log4net.Layout using log4net.Core using class log4net.Appender.OutputDebugStringAppender super super AppenderSkeleton elif ! = endif override protected elif ! = endif override protected return

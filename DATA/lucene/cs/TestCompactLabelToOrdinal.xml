@@ -1,0 +1,1 @@
+Lucene.Net.Facet.Taxonomy.WriterCache System using System.Collections.Generic using Lucene.Net.Support using NUnit.Framework using Lucene.Net.Util.TestUtil class attribute Lucene.Net.Facet.Taxonomy.WriterCache.TestCompactLabelToOrdinal super super FacetTestCase

@@ -1,0 +1,1 @@
+org.apache.solr.cloud org.apache.solr.client.solrj.SolrResponse import org.apache.solr.common.util.NamedList import class org.apache.solr.cloud.OverseerSolrResponse super super extends long NamedList public public return public public < = public public = public < public < return

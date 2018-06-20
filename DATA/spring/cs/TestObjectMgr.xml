@@ -1,0 +1,1 @@
+Spring.Data System using Common.Logging using Spring.Objects using Spring.Transaction using Spring.Transaction.Interceptor using Spring.Transaction.Support using using IsolationLevel===System.Data.IsolationLevel class Spring.Data.TestObjectMgr super super ITestObjectMgr ILog public public call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() +

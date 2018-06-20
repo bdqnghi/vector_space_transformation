@@ -1,0 +1,1 @@
+org.apache.lucene.document org.apache.lucene.index.IndexReader import org.apache.lucene.search.IndexSearcher import org.apache.lucene.util.BytesRef import class org.apache.lucene.document.StoredField super super extends FieldType

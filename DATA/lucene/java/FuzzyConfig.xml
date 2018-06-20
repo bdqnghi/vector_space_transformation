@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.flexible.standard.config org.apache.lucene.search.FuzzyQuery import class org.apache.lucene.queryparser.flexible.standard.config.FuzzyConfig float int public public return public public = public public return public public =

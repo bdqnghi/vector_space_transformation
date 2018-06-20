@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.request.schema java.io.IOException import java.util.Collection import org.apache.solr.client.solrj.SolrRequest import org.apache.solr.client.solrj.SolrResponse import org.apache.solr.common.params.SolrParams import org.apache.solr.common.util.ContentStream import class super super extends SolrParams public public return public < public < throws return

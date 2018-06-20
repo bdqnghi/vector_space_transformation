@@ -1,0 +1,1 @@
+log4net.ObjectRenderer System using System.IO using interface log4net.ObjectRenderer.IObjectRenderer

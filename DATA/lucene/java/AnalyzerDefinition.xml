@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.request.schema java.util.List import java.util.Map import class org.apache.solr.client.solrj.request.schema.AnalyzerDefinition decl Map decl List decl Map decl List public < public < return public public < = public < < public < < return public public < < = public < public < return public public < = public < < public < < return public public < < =

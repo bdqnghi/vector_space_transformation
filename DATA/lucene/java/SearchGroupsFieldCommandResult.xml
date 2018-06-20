@@ -1,0 +1,1 @@
+org.apache.solr.search.grouping.distributed.command java.util.Collection import org.apache.lucene.search.grouping.SearchGroup import org.apache.lucene.util.BytesRef import class org.apache.solr.search.grouping.distributed.command.SearchGroupsFieldCommandResult decl Collection Integer public public return public < < public < < return

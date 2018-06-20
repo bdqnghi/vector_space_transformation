@@ -1,0 +1,1 @@
+org.apache.solr.search.grouping.distributed org.apache.solr.handler.component.ResponseBuilder import org.apache.solr.handler.component.ShardRequest import interface org.apache.solr.search.grouping.distributed.ShardResponseProcessor

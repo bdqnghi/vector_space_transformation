@@ -1,0 +1,1 @@
+SampleAppendersApp.Appender System using log4net.Core using class SampleAppendersApp.Appender.MessageLoggedEventArgs super super EventArgs LoggingEvent return

@@ -1,0 +1,1 @@
+org.apache.solr.search org.apache.lucene.search.IndexSearcher import interface org.apache.solr.search.PostFilter super super extends

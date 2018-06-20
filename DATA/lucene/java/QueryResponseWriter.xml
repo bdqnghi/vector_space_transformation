@@ -1,0 +1,1 @@
+org.apache.solr.response java.io.Writer import java.io.IOException import org.apache.solr.common.util.NamedList import org.apache.solr.request.SolrQueryRequest import org.apache.solr.util.plugin.NamedListInitializedPlugin import interface org.apache.solr.response.QueryResponseWriter super super extends String String String

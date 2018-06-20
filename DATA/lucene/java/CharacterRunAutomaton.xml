@@ -1,0 +1,1 @@
+org.apache.lucene.util.automaton class org.apache.lucene.util.automaton.CharacterRunAutomaton super super extends int int public public decl_stmt int = decl_stmt int = for = = < += = = if == - return return int int public public decl_stmt int = decl_stmt int = + for = = < += = = if == - return return

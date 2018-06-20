@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.response java.util.LinkedList import java.util.List import org.apache.solr.common.util.NamedList import class org.apache.solr.client.solrj.response.ClusteringResponse decl List String String String public < public < return

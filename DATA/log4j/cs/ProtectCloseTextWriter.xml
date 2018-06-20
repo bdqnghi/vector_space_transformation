@@ -1,0 +1,1 @@
+log4net.Util System using System.IO using System.Text using log4net.Core using class log4net.Util.ProtectCloseTextWriter super super TextWriterAdapter public public = override public override public

@@ -1,0 +1,1 @@
+org.apache.lucene org.apache.lucene.analysis.TokenStream import org.apache.lucene.util.LuceneTestCase import class org.apache.lucene.TestAssertions super super extends public final public final return public public return public public return public public new new try new if catch

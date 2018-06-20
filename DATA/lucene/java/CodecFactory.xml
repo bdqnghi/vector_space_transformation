@@ -1,0 +1,1 @@
+org.apache.solr.core org.apache.lucene.codecs.Codec import org.apache.solr.common.util.NamedList import org.apache.solr.util.plugin.NamedListInitializedPlugin import class org.apache.solr.core.CodecFactory super super implements public public

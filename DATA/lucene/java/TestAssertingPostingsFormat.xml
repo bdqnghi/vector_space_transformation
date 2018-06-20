@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.asserting org.apache.lucene.codecs.Codec import org.apache.lucene.index.BasePostingsFormatTestCase import class org.apache.lucene.codecs.asserting.TestAssertingPostingsFormat super super extends Codec protected protected return protected protected return

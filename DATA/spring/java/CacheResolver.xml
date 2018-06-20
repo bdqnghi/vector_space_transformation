@@ -1,0 +1,1 @@
+org.springframework.cache.interceptor java.util.Collection import org.springframework.cache.Cache import interface org.springframework.cache.interceptor.CacheResolver

@@ -1,0 +1,1 @@
+NetMQ.Core.Utils System using System.Diagnostics using JetBrains.Annotations using class Chunk Chunk int int Chunk int int Chunk int T public public decl_stmt T = = default ++ if == = = = return Chunk public public ref ref = = = ++ if != return decl_stmt Chunk = if != = = = else = new += = = = T public public if > -- else = - = if > -- else = - = = decl_stmt T = = default return

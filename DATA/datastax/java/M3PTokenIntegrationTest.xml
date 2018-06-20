@@ -1,0 +1,1 @@
+com.datastax.driver.core com.datastax.driver.core.Token.M3PToken import class com.datastax.driver.core.M3PTokenIntegrationTest super super extends protected protected return

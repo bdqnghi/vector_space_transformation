@@ -1,0 +1,1 @@
+Spring.Northwind.IntegrationTests System using System.Collections using NUnit.Framework using Spring.Testing.NUnit using class attribute Spring.Northwind.IntegrationTests.AbstractDaoIntegrationTests super super AbstractTransactionalDbProviderSpringContextTests return new

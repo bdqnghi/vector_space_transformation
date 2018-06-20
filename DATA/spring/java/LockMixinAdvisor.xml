@@ -1,0 +1,1 @@
+test.mixin org.springframework.aop.support.DefaultIntroductionAdvisor import class annotation test.mixin.LockMixinAdvisor super super extends

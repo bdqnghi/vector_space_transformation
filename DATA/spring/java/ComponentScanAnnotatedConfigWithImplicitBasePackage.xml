@@ -1,0 +1,1 @@
+example.scannable_implicitbasepackage org.springframework.context.annotation.Bean import org.springframework.context.annotation.ComponentScan import org.springframework.context.annotation.Configuration import class annotation annotation example.scannable_implicitbasepackage.ComponentScanAnnotatedConfigWithImplicitBasePackage public public return new

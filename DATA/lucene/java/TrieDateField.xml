@@ -1,0 +1,1 @@
+org.apache.solr.schema java.util.Date import org.apache.lucene.index.IndexableField import org.apache.solr.update.processor.TimestampUpdateProcessorFactory import org.apache.solr.util.DateMathParser import class org.apache.solr.schema.TrieDateField super super extends super implements public public return public public if instanceof return return

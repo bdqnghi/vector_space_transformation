@@ -1,0 +1,1 @@
+org.apache.solr.hadoop.hack java.io.IOException import org.apache.hadoop.conf.Configuration import interface org.apache.solr.hadoop.hack.MiniMRClientCluster

@@ -1,0 +1,1 @@
+org.springframework.ejb.config org.springframework.beans.factory.xml.NamespaceHandlerSupport import class org.springframework.ejb.config.JeeNamespaceHandler super super extends public public new new new

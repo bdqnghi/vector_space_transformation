@@ -1,0 +1,1 @@
+Spring.Objects.Factory.Xml Spring.Objects.Factory.Support using Spring.Util using class Spring.Objects.Factory.Xml.WebObjectDefinitionDocumentReader super super DefaultObjectDefinitionDocumentReader IWebObjectNameGenerator protected override protected override return new

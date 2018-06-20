@@ -1,0 +1,1 @@
+org.springframework.cache java.util.Collection import interface org.springframework.cache.CacheManager

@@ -1,0 +1,1 @@
+Spring.Messaging.Ems.Jndi System using Spring.Objects.Factory using Spring.Util using class Spring.Messaging.Ems.Jndi.JndiObjectLocator super super JndiLocatorSupport Type string return = return = public override public override if ! throw new protected virtual protected virtual return

@@ -1,0 +1,1 @@
+org.apache.log4j.gui.examples javax.swing.* import java.awt.* import java.awt.event.* import org.apache.log4j.* import org.apache.log4j.gui.TextPanelAppender import class org.apache.log4j.gui.examples.LogTextPanelExample String boolean LogTextPanelExample public static public static try catch decl_stmt org.apache.log4j.gui.examples.LogTextPanelExample = new new

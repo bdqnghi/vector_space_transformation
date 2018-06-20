@@ -1,0 +1,1 @@
+Spring.DataQuickStart.Dao.Template System.Data using Spring.Data.Core using Spring.DataQuickStart.Domain using class Spring.DataQuickStart.Dao.Template.QueryForObjectDao super super AdoDaoSupport string public public return new

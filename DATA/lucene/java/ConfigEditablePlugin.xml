@@ -1,0 +1,1 @@
+org.apache.solr.security java.util.List import java.util.Map import org.apache.solr.util.CommandOperation import interface org.apache.solr.security.ConfigEditablePlugin

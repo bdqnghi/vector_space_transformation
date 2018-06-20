@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.surround.query java.util.List import org.apache.lucene.search.Query import org.apache.lucene.search.BooleanClause import class org.apache.lucene.queryparser.surround.query.AndQuery super super extends public public return

@@ -1,0 +1,1 @@
+org.springframework.jms.listener.adapter javax.jms.BytesMessage import javax.jms.MapMessage import javax.jms.ObjectMessage import javax.jms.TextMessage import interface org.springframework.jms.listener.adapter.MessageDelegate

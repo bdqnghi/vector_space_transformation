@@ -1,0 +1,1 @@
+org.springframework.context.config org.w3c.dom.Element import org.springframework.beans.factory.config.PropertyOverrideConfigurer import org.springframework.beans.factory.support.BeanDefinitionBuilder import class org.springframework.context.config.PropertyOverrideBeanDefinitionParser super super extends protected < protected < return protected protected

@@ -1,0 +1,1 @@
+org.springframework.orm.jdo javax.jdo.JDOHelper import javax.jdo.JDOOptimisticVerificationException import org.springframework.orm.ObjectOptimisticLockingFailureException import class annotation org.springframework.orm.jdo.JdoOptimisticLockingFailureException super super extends

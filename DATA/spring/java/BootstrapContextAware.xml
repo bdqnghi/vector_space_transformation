@@ -1,0 +1,1 @@
+org.springframework.jca.context javax.resource.spi.BootstrapContext import org.springframework.beans.factory.Aware import interface org.springframework.jca.context.BootstrapContextAware super super extends

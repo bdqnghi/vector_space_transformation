@@ -1,0 +1,1 @@
+org.springframework.jdbc.datasource.init org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType import class org.springframework.jdbc.datasource.init.HsqlDatabasePopulatorTests super super extends protected protected return

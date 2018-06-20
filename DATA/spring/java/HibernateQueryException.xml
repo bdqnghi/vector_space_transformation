@@ -1,0 +1,1 @@
+org.springframework.orm.hibernate3 org.hibernate.QueryException import org.springframework.dao.InvalidDataAccessResourceUsageException import class annotation annotation org.springframework.orm.hibernate3.HibernateQueryException super super extends public public return

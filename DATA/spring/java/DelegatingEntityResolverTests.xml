@@ -1,0 +1,1 @@
+org.springframework.beans.factory.xml org.junit.Test import org.xml.sax.EntityResolver import org.xml.sax.InputSource import class org.springframework.beans.factory.xml.DelegatingEntityResolverTests = public = public throws new new = public = public throws new new = public = public throws new public public return

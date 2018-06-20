@@ -1,0 +1,1 @@
+org.apache.solr.util.plugin java.util.Map import org.apache.solr.util.DOMUtil import org.w3c.dom.Node import class super super extends decl Map protected protected throws protected protected throws if != return call decl Map.put() call decl Map.put() call decl Map.put() call decl Map.put() call decl Map.put() return

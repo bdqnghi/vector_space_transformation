@@ -1,0 +1,1 @@
+org.apache.lucene.search.similarities static static org.apache.lucene.search.similarities.SimilarityBase.log2 import class org.apache.lucene.search.similarities.NormalizationH2 super super extends float public final public final return * + * / public public return public public return

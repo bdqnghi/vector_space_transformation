@@ -1,0 +1,1 @@
+org.apache.lucene.index org.apache.lucene.analysis.Analyzer import interface org.apache.lucene.index.IndexableFieldType

@@ -1,0 +1,1 @@
+Spring.Transaction System using System.Data using interface Spring.Transaction.ITransactionStatus super super ISavepointManager

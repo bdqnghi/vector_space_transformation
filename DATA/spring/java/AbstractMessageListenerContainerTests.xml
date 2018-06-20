@@ -1,0 +1,1 @@
+org.springframework.jms.listener org.junit.Test import class org.springframework.jms.listener.AbstractMessageListenerContainerTests = public = public throws = public = public throws

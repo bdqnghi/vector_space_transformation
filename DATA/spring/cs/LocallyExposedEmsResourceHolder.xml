@@ -1,0 +1,1 @@
+Spring.Messaging.Ems.Listener Spring.Messaging.Ems.Common using Spring.Messaging.Ems.Connections using class Spring.Messaging.Ems.Listener.LocallyExposedEmsResourceHolder super super EmsResourceHolder

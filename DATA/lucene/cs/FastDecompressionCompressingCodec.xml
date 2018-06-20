@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Compressing Lucene.Net.Codecs.Lucene42.Lucene42NormsFormat Lucene.Net.Util.Packed.PackedInts class Lucene.Net.Codecs.Compressing.FastDecompressionCompressingCodec super super CompressingCodec public override public override return new

@@ -1,0 +1,1 @@
+org.springframework.jdbc.datasource.embedded javax.sql.DataSource import interface org.springframework.jdbc.datasource.embedded.DataSourceFactory

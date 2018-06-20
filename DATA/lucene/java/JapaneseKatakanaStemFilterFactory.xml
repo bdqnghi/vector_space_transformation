@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.ja org.apache.lucene.analysis.TokenStream import org.apache.lucene.analysis.ja.JapaneseKatakanaStemFilter import org.apache.lucene.analysis.util.TokenFilterFactory import java.util.Map import class org.apache.lucene.analysis.ja.JapaneseKatakanaStemFilterFactory super super extends String int public public return new

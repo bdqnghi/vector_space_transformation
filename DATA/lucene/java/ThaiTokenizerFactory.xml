@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.th java.util.Map import org.apache.lucene.analysis.Tokenizer import org.apache.lucene.analysis.util.TokenizerFactory import org.apache.lucene.util.AttributeFactory import class org.apache.lucene.analysis.th.ThaiTokenizerFactory super super extends public public return new

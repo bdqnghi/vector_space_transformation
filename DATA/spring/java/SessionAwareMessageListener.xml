@@ -1,0 +1,1 @@
+org.springframework.jms.listener javax.jms.JMSException import javax.jms.Message import javax.jms.Session import interface

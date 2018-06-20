@@ -1,0 +1,1 @@
+Spring.Transaction.Interceptor System using Spring.Aop using Spring.Aop.Support using class Spring.Transaction.Interceptor.ObjectFactoryTransactionAttributeSourceAdvisor super super AbstractObjectFactoryPointcutAdvisor IPointcut ITransactionAttributeSource return = return =

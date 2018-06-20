@@ -1,0 +1,1 @@
+Spring.Dao.Attributes System using AopAlliance.Aop using Spring.Aop using Spring.Aop.Support using Spring.Dao.Support using Spring.Objects.Factory using class Spring.Dao.Attributes.PersistenceExceptionTranslationAdvisor super super AbstractPointcutAdvisor PersistenceExceptionTranslationInterceptor AttributeMatchingPointcut return return

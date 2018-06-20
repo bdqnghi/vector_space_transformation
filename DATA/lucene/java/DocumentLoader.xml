@@ -1,0 +1,1 @@
+org.apache.solr.morphlines.solr java.io.IOException import org.apache.solr.client.solrj.SolrServerException import org.apache.solr.client.solrj.response.SolrPingResponse import org.apache.solr.client.solrj.response.UpdateResponse import org.apache.solr.common.SolrInputDocument import interface org.apache.solr.morphlines.solr.DocumentLoader

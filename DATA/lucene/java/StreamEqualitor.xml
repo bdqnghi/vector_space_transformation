@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.io.eq java.io.Serializable import org.apache.solr.client.solrj.io.Tuple import org.apache.solr.client.solrj.io.comp.StreamComparator import org.apache.solr.client.solrj.io.stream.expr.Expressible import interface org.apache.solr.client.solrj.io.eq.StreamEqualitor super super extends

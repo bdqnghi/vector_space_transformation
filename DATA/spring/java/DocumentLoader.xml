@@ -1,0 +1,1 @@
+org.springframework.beans.factory.xml org.w3c.dom.Document import org.xml.sax.EntityResolver import org.xml.sax.ErrorHandler import org.xml.sax.InputSource import interface org.springframework.beans.factory.xml.DocumentLoader

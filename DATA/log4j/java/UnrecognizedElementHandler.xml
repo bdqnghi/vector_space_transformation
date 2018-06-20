@@ -1,0 +1,1 @@
+org.apache.log4j.xml org.w3c.dom.Element import java.util.Properties import interface org.apache.log4j.xml.UnrecognizedElementHandler

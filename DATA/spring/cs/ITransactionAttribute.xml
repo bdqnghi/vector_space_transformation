@@ -1,0 +1,1 @@
+Spring.Transaction.Interceptor System using System.ComponentModel using interface attribute Spring.Transaction.Interceptor.ITransactionAttribute super super ITransactionDefinition

@@ -1,0 +1,1 @@
+org.springframework.http.client java.net.URI import java.util.Collections import java.util.List import org.springframework.http.HttpMethod import class org.springframework.http.client.InterceptingAsyncClientHttpRequestFactory super super implements decl List AsyncClientHttpRequestFactory public public return new

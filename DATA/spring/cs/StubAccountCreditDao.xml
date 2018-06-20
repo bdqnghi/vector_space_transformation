@@ -1,0 +1,1 @@
+Spring.TxQuickStart.Services Spring.TxQuickStart.Dao using class Spring.TxQuickStart.Services.StubAccountCreditDao super super IAccountCreditDao public public

@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.tokenattributes org.apache.lucene.util.BytesRef import interface org.apache.lucene.analysis.tokenattributes.BytesTermAttribute super super extends

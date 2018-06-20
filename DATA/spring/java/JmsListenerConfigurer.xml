@@ -1,0 +1,1 @@
+org.springframework.jms.annotation org.springframework.jms.config.JmsListenerEndpointRegistrar import interface org.springframework.jms.annotation.JmsListenerConfigurer

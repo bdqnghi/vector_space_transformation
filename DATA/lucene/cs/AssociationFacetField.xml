@@ -1,0 +1,1 @@
+Lucene.Net.Facet.Taxonomy Lucene.Net.Facet using Lucene.Net.Support using Lucene.Net.Documents.Document Lucene.Net.Documents.Field Lucene.Net.Documents.FieldType Lucene.Net.Util.BytesRef class Lucene.Net.Facet.Taxonomy.AssociationFacetField super super Field string FieldType BytesRef decl string public override public override return + + + + + +

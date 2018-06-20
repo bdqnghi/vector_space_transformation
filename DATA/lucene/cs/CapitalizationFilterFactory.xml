@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Miscellaneous System.Collections.Generic using Lucene.Net.Analysis.Util using Lucene.Net.Support using class Lucene.Net.Analysis.Miscellaneous.CapitalizationFilterFactory super super TokenFilterFactory string string int int string bool string string string int bool string decl ICollection string CharArraySet public override public override return new

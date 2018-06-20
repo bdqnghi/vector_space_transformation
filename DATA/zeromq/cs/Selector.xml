@@ -1,0 +1,1 @@
+NetMQ.Core.Utils System using System.Collections.Generic using System.Diagnostics using System.Net.Sockets using JetBrains.Annotations using class NetMQ.Core.Utils.SelectItem

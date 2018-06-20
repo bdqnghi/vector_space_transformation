@@ -1,0 +1,1 @@
+log4net.Ext.Trace System using log4net using interface log4net.Ext.Trace.ITraceLog super super ILog

@@ -1,0 +1,1 @@
+Lucene.Net.Index Lucene.Net.Store.Directory Lucene.Net.Store.IOContext Lucene.Net.Codecs.Perfield.PerFieldPostingsFormat Lucene.Net.Codecs.PostingsFormat class Lucene.Net.Index.SegmentReadState FieldInfos SegmentInfo IOContext Directory int string

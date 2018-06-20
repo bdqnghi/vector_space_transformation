@@ -1,0 +1,1 @@
+log4net.Util.PatternStringConverters System using System.Text using System.IO using log4net.Util using log4net.DateFormatter using log4net.Core using class log4net.Util.PatternStringConverters.EnvironmentPatternConverter super super PatternConverter Type string override protected override protected try if != && > decl_stmt string = if if == = if == = endif if != && > catch catch

@@ -1,0 +1,1 @@
+org.apache.lucene.index java.util.Collections import java.util.List import class org.apache.lucene.index.LeafReaderContext super super extends int decl List int LeafReader public < public < if ! throw new assert != return public < public < return public public return public public return + + + + + +

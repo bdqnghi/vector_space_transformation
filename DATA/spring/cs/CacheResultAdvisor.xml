@@ -1,0 +1,1 @@
+Spring.Aspects.Cache System using Spring.Aop.Support using Spring.Caching using Spring.Context using class Spring.Aspects.Cache.CacheResultAdvisor super super AttributeMatchMethodPointcutAdvisor super IApplicationContextAware = public override public override return typeof || typeof

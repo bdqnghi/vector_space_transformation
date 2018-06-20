@@ -1,0 +1,1 @@
+org.springframework.transaction interface org.springframework.transaction.PlatformTransactionManager

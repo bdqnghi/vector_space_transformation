@@ -1,0 +1,1 @@
+org.apache.solr.handler.dataimport org.apache.solr.core.SolrCore import java.util.List import java.util.Map import class org.apache.solr.handler.dataimport.Context String String String String String

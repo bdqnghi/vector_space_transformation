@@ -1,0 +1,1 @@
+org.apache.log4j.pattern org.apache.log4j.Layout import org.apache.log4j.spi.LoggingEvent import class org.apache.log4j.pattern.LineSeparatorPatternConverter super super extends LineSeparatorPatternConverter String public static public static final final final return public public final final public public final final final final

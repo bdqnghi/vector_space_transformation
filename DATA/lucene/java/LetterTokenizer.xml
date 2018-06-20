@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.core org.apache.lucene.analysis.Tokenizer import org.apache.lucene.analysis.util.CharTokenizer import org.apache.lucene.util.AttributeFactory import class org.apache.lucene.analysis.core.LetterTokenizer super super extends protected protected return

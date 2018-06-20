@@ -1,0 +1,1 @@
+org.springframework.cache.config org.springframework.context.ConfigurableApplicationContext import org.springframework.context.support.GenericXmlApplicationContext import class org.springframework.cache.config.AnnotationDrivenCacheConfigTests super super extends protected protected return new

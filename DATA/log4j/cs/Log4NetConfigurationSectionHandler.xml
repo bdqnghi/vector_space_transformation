@@ -1,0 +1,1 @@
+log4net.Config System.Configuration using System.Xml using class log4net.Config.Log4NetConfigurationSectionHandler super super IConfigurationSectionHandler public public return

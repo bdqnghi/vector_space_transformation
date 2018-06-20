@@ -1,0 +1,1 @@
+org.apache.solr.schema org.apache.lucene.search.Query import org.apache.solr.search.QParser import class org.apache.solr.schema.TrieIntPrefixActsAsRangeQueryFieldType super super extends public public return new +

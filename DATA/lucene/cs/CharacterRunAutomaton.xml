@@ -1,0 +1,1 @@
+Lucene.Net.Util.Automaton Lucene.Net.Support using class Lucene.Net.Util.Automaton.CharacterRunAutomaton super super RunAutomaton int int public virtual public virtual decl_stmt int = decl_stmt int = for = = < += = = if == - return return int int public virtual public virtual decl_stmt int = decl_stmt int = + for = = < += = = if == - return return

@@ -1,0 +1,1 @@
+org.apache.lucene.search.similarities static static org.apache.lucene.search.similarities.SimilarityBase.log2 import class org.apache.lucene.search.similarities.BasicModelIne super super extends long double long public final public final decl_stmt long = decl_stmt long = decl_stmt double = * - - / double return * + / + public public return

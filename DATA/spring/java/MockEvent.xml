@@ -1,0 +1,1 @@
+org.springframework.mock.web.portlet java.io.Serializable import javax.portlet.Event import javax.xml.namespace.QName import class org.springframework.mock.web.portlet.MockEvent super super implements QName Serializable public public return public public return public public return

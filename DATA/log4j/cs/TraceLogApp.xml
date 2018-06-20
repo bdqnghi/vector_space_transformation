@@ -1,0 +1,1 @@
+TraceLogApp System using log4net.Ext.Trace using class TraceLogApp.TraceLogApp ITraceLog static static for = < ++ call log4net.Ext.Trace.ITraceLog.Trace(object) call log4net.Ext.Trace.ITraceLog.Trace(object) call log4net.Ext.Trace.ITraceLog.Trace(object) call log4net.Ext.Trace.ITraceLog.Trace(object) call log4net.Ext.Trace.ITraceLog.Trace(object) + new

@@ -1,0 +1,1 @@
+com.datastax.driver.core org.assertj.core.api.AbstractAssert import static static org.assertj.core.api.Assertions.assertThat import class com.datastax.driver.core.SessionAssert super super extends Host public public decl_stmt com.datastax.driver.core.Host = return Host public public decl_stmt com.datastax.driver.core.Host = return

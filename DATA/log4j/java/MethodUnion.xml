@@ -1,0 +1,1 @@
+org.apache.log4j.jmx java.lang.reflect.Method import class org.apache.log4j.jmx.MethodUnion Method Method

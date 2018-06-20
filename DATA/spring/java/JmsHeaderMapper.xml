@@ -1,0 +1,1 @@
+org.springframework.jms.support javax.jms.Message import org.springframework.messaging.support.HeaderMapper import interface org.springframework.jms.support.JmsHeaderMapper super super extends String

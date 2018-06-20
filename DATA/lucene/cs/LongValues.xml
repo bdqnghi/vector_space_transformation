@@ -1,0 +1,1 @@
+Lucene.Net.Util Lucene.Net.Index.NumericDocValues Lucene.Net.Util.Packed.PackedInts class Lucene.Net.Util.LongValues super super NumericDocValues public override public override return long

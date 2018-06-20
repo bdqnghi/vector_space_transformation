@@ -1,0 +1,1 @@
+org.apache.lucene.index java.io.IOException import class org.apache.lucene.index.LogDocMergePolicy super super extends int protected protected throws return public public = public public return int

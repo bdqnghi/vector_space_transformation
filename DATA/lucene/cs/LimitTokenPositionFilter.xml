@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Miscellaneous Lucene.Net.Analysis.Tokenattributes using class Lucene.Net.Analysis.Miscellaneous.LimitTokenPositionFilter super super TokenFilter int bool bool int IPositionIncrementAttribute public override public override if return if += if <= return else while && = return else = return public override public override = =

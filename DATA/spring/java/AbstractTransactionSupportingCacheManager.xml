@@ -1,0 +1,1 @@
+org.springframework.cache.transaction org.springframework.cache.Cache import org.springframework.cache.support.AbstractCacheManager import class org.springframework.cache.transaction.AbstractTransactionSupportingCacheManager super super extends boolean public public = public public return protected protected return new :

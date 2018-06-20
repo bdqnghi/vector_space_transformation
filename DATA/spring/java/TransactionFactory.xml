@@ -1,0 +1,1 @@
+org.springframework.transaction.jta javax.transaction.NotSupportedException import javax.transaction.SystemException import javax.transaction.Transaction import interface org.springframework.transaction.jta.TransactionFactory

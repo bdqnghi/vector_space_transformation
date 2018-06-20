@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.response.schema java.util.List import org.apache.solr.client.solrj.request.schema.FieldTypeDefinition import class org.apache.solr.client.solrj.response.schema.FieldTypeRepresentation super super extends decl List decl List public < public < return public public < = public < public < return public public < =

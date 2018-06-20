@@ -1,0 +1,1 @@
+org.springframework.util.xml javax.xml.stream.XMLEventReader import javax.xml.stream.XMLStreamReader import javax.xml.transform.sax.SAXSource import org.xml.sax.InputSource import org.xml.sax.XMLReader import class org.springframework.util.xml.StaxSource super super extends XMLEventReader XMLStreamReader return return public public throw new public public throw new

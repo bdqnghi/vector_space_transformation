@@ -1,0 +1,1 @@
+Spring.Core.TypeConversion System using System.ComponentModel using System.Globalization using System.IO using class Spring.Core.TypeConversion.FileInfoConverter super super TypeConverter public override public override if == typeof string return return public override public override if is string return new as string return

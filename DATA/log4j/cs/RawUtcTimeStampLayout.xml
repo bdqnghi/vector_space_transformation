@@ -1,0 +1,1 @@
+log4net.Layout System using System.Text using log4net.Core using log4net.Util using class log4net.Layout.RawUtcTimeStampLayout super super IRawLayout public virtual public virtual return

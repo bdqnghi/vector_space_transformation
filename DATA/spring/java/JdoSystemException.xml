@@ -1,0 +1,1 @@
+org.springframework.orm.jdo javax.jdo.JDOException import org.springframework.dao.UncategorizedDataAccessException import class annotation org.springframework.orm.jdo.JdoSystemException super super extends

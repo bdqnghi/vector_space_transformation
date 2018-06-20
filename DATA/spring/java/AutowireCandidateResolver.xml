@@ -1,0 +1,1 @@
+org.springframework.beans.factory.support org.springframework.beans.factory.config.BeanDefinitionHolder import org.springframework.beans.factory.config.DependencyDescriptor import interface org.springframework.beans.factory.support.AutowireCandidateResolver

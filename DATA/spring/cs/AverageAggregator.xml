@@ -1,0 +1,1 @@
+Spring.Expressions.Processors System using System.Collections using Spring.Util using class Spring.Expressions.Processors.AverageAggregator super super ICollectionProcessor object int public public decl_stmt int = decl_stmt object = foreach in if != if = ++ else throw new return

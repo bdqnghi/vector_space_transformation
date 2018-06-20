@@ -1,0 +1,1 @@
+org.springframework.scheduling.annotation org.springframework.context.annotation.AdviceMode import org.springframework.context.annotation.AdviceModeImportSelector import class org.springframework.scheduling.annotation.AsyncConfigurationSelector super super extends String public public switch case return new case return new default: return

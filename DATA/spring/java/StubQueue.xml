@@ -1,0 +1,1 @@
+org.springframework.jms javax.jms.Queue import class org.springframework.jms.StubQueue super super implements String String public public return

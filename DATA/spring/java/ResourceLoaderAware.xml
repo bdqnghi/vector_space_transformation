@@ -1,0 +1,1 @@
+org.springframework.context org.springframework.beans.factory.Aware import org.springframework.core.io.ResourceLoader import interface org.springframework.context.ResourceLoaderAware super super extends

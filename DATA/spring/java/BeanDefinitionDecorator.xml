@@ -1,0 +1,1 @@
+org.springframework.beans.factory.xml org.w3c.dom.Node import org.springframework.beans.factory.config.BeanDefinitionHolder import interface org.springframework.beans.factory.xml.BeanDefinitionDecorator

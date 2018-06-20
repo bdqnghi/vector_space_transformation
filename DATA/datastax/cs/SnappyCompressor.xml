@@ -1,0 +1,1 @@
+Cassandra.Compression System using System.IO using class Cassandra.Compression.SnappyCompressor super super IFrameCompressor var var public public decl_stmt var = decl_stmt var = return new

@@ -1,0 +1,1 @@
+org.springframework.test.context.env.subpackage org.springframework.test.context.TestPropertySource import org.springframework.test.context.env.ExplicitPropertiesFileTestPropertySourceTests import class org.springframework.test.context.env.subpackage.SubpackageInheritedRelativePathPropertiesFileTestPropertySourceTests super super extends

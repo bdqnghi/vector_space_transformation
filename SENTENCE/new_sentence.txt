@@ -1,0 +1,23 @@
+More generally, f is a function that describes a probabilistic model. By simply varying f, we can define
+trivial models such as n-gram models, or much deeper and interesting models and combinations.
+In this work, we draw f from a domain-specific language (DSL) that resembles a standard programming
+language: it includes if statements, limited use of variables and one iterator over the text, but
+overall that language can be further extended to handle specific tasks depending on the nature of the
+data. The learning process now includes finding f from the DSL such that the model P(xt|f(t, x))
+performs best on a validation set and we show that we can effectively learn such functions using
+Markov chain Monte Carlo (MCMC) search techniques combined with decision tree learning.
+Advantages An advantage of having a function f drawn from a DSL is that f becomes humanly
+readable, in contrast to neural networks that generally provide non-human readable matrices (Li
+et al., 2016). Further, the training procedure is two-fold: first, we synthesize f from the DSL, and
+then for a given f, we estimate probabilities for P(xt|f(t, x)) by counting in the training data. This
+gives us additional advantages such as the ability to synthesize f and learn the probability distribution
+P on different datasets: e.g., we can easily add and remove samples from the dataset used for
+computing the probability estimate P. Finally, because the final model is based on counting, estimating
+probabilities P(xt|f(t, x)) is efficient: applying f and looking up in a hashtable to determine
+how frequently in the training data, xt appears in the resulting context of f(t, x).
+Before we continue, we note an important point about DSL-based models. In contrast to deep neural
+networks that can theoretically encode all continuous functions (Hornik, 1991), a DSL by definition
+targets a particular application domain, and thus comes with restricted expressiveness. Increasing
+the expressibility of the DSL (e.g., by adding new instructions) can in theory make the synthesis
+problem intractable or even undecidable. Overall, this means that a DSL should balance between
+expressibility and efficiency of synthesizing functions in it (Gulwani, 2010)

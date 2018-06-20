@@ -1,0 +1,1 @@
+org.apache.log4j org.apache.log4j.util.Filter import class org.apache.log4j.MDCOrderFilter super super implements decl String decl String int public public final final if == return for = < ++ decl_stmt int = if >= return + + + return

@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene45 Lucene.Net.Index.SegmentReadState Lucene.Net.Index.SegmentWriteState class Lucene.Net.Codecs.Lucene45.Lucene45DocValuesFormat super super DocValuesFormat string int int sbyte sbyte int sbyte string sbyte string int string public override public override return new public override public override return new

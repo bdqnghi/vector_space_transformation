@@ -1,0 +1,1 @@
+Spring.Data System using System.Data using Spring.Data.Core using Spring.Data.Support using class Spring.Data.SimpleAccountDebitDao super super AdoDaoSupport public public

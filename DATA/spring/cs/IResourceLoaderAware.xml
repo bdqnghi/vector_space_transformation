@@ -1,0 +1,1 @@
+Spring.Context Spring.Core.IO using interface Spring.Context.IResourceLoaderAware

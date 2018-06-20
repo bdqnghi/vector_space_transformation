@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Ngram System.Collections.Generic using Lucene.Net.Analysis.Util using class Lucene.Net.Analysis.Ngram.EdgeNGramFilterFactory super super TokenFilterFactory int int string public override public override return new

@@ -1,0 +1,1 @@
+Spring.Core.TypeConversion System using System.ComponentModel using System.Globalization using System.Text.RegularExpressions using class Spring.Core.TypeConversion.RegexConverter super super TypeConverter public override public override return == typeof string public override public override if is string return new as string else return

@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene42 Lucene.Net.Util.LuceneTestCase class Lucene.Net.Codecs.Lucene42.Lucene42RWCodec super super Lucene42Codec DocValuesFormat NormsFormat FieldInfosFormat if ! return else return new public override public override return public override public override return public override public override return

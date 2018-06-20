@@ -1,0 +1,1 @@
+Spring.Transaction.Interceptor System using System.Reflection using AopAlliance.Intercept using class attribute Spring.Transaction.Interceptor.TransactionInterceptor super super TransactionAspectSupport super IMethodInterceptor Type TransactionInfo object public public decl_stmt System.Type = != : decl_stmt TransactionInfo = decl_stmt object = try = catch throw finally return

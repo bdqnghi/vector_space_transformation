@@ -1,0 +1,1 @@
+org.springframework.oxm.config org.springframework.beans.factory.xml.NamespaceHandler import org.springframework.beans.factory.xml.NamespaceHandlerSupport import class org.springframework.oxm.config.OxmNamespaceHandler super super extends public public new new new new

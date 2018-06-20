@@ -1,0 +1,1 @@
+Lucene.Net.Search.Vectorhighlight System using System.Collections.Generic using System.Text using interface Lucene.Net.Search.Vectorhighlight.FragListBuilder

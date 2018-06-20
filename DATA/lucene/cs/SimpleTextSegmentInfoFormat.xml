@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.SimpleText class Lucene.Net.Codecs.SimpleText.SimpleTextSegmentInfoFormat super super SegmentInfoFormat SegmentInfoWriter string SegmentInfoReader return return

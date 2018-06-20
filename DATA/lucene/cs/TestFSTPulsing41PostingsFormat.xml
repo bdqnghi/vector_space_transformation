@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.memory org.apache.lucene.index.BasePostingsFormatTestCase org.apache.lucene.util.TestUtil class org.apache.lucene.codecs.memory.TestFSTPulsing41PostingsFormat super super BasePostingsFormatTestCase Codec return

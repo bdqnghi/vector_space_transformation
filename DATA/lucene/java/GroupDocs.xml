@@ -1,0 +1,1 @@
+org.apache.lucene.search.grouping org.apache.lucene.search.ScoreDoc import class int decl ScoreDoc GROUP_VALUE_TYPE float decl Object float

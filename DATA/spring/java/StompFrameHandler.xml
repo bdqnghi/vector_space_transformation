@@ -1,0 +1,1 @@
+org.springframework.messaging.simp.stomp java.lang.reflect.Type import interface org.springframework.messaging.simp.stomp.StompFrameHandler

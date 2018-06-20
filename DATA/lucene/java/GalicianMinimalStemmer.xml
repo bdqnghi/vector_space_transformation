@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.gl org.apache.lucene.analysis.pt.RSLPStemmerBase import class org.apache.lucene.analysis.gl.GalicianMinimalStemmer super super extends Step public public return call Step.apply() call Step.apply() call Step.apply() call Step.apply() call Step.apply()

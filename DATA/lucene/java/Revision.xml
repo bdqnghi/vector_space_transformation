@@ -1,0 +1,1 @@
+org.apache.lucene.replicator java.io.IOException import java.io.InputStream import java.util.List import java.util.Map import org.apache.lucene.store.IndexInput import interface org.apache.lucene.replicator.Revision super super extends

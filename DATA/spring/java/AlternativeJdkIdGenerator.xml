@@ -1,0 +1,1 @@
+org.springframework.util java.math.BigInteger import java.security.SecureRandom import java.util.Random import java.util.UUID import class org.springframework.util.AlternativeJdkIdGenerator super super implements Random long decl byte long public public decl_stmt byte = new decl_stmt long = for = < ++ = << | & decl_stmt long = for = < ++ = << | & return new

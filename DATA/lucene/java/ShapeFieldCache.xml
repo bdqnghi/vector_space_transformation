@@ -1,0 +1,1 @@
+org.apache.lucene.spatial.util org.locationtech.spatial4j.shape.Shape import java.util.ArrayList import java.util.List import class int decl List public public decl_stmt java.util.List < = if == = = new <> call decl List.add() call decl List.add() call decl List.add() call decl List.add() call decl List.add() public < public < return

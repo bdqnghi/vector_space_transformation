@@ -1,0 +1,1 @@
+Lucene.Net.Documents System using System.Linq using System.Collections.Generic using Lucene.Net.Support using class attribute Lucene.Net.Documents.MapFieldSelector super super FieldSelector decl IDictionary FieldSelectorResult public virtual public virtual decl_stmt FieldSelectorResult = return != :

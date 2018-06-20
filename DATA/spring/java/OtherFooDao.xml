@@ -1,0 +1,1 @@
+org.springframework.context.annotation5 example.scannable.FooDao import class annotation org.springframework.context.annotation5.OtherFooDao super super implements public public return

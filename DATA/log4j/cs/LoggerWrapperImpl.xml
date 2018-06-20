@@ -1,0 +1,1 @@
+log4net.Core class log4net.Core.LoggerWrapperImpl super super ILoggerWrapper ILogger return

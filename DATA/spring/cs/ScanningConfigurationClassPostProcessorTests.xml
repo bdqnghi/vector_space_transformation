@@ -1,0 +1,1 @@
+Spring.Context.Attributes NUnit.Framework using Spring.Context.Config using Spring.Context.Support using Spring.Objects.Factory.Xml using class attribute Spring.Context.Attributes.ScanningConfigurationClassPostProcessorTests super super AbstractConfigurationClassPostProcessorTests protected override protected override = new public public

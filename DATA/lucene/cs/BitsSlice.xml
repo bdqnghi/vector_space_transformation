@@ -1,0 +1,1 @@
+Lucene.Net.Index System using System.Diagnostics using Lucene.Net.Util.Bits class Lucene.Net.Index.BitsSlice super super Bits int int Bits public public if >= throw new + + + - < + + + return call Bits.Get() call Bits.Get() call Bits.Get() call Bits.Get() call Bits.Get() + public public return

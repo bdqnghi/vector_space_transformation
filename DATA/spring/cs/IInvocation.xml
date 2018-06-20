@@ -1,0 +1,1 @@
+AopAlliance.Intercept interface AopAlliance.Intercept.IInvocation super super IJoinpoint

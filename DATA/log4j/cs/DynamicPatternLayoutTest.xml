@@ -1,0 +1,1 @@
+log4net.Tests.Layout log4net.Layout using NUnit.Framework using class log4net.Tests.Layout.DynamicPatternLayoutTest super super PatternLayoutTest protected override protected override return new protected override protected override return new

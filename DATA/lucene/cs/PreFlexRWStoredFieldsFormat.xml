@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene3x Lucene.Net.Store.Directory Lucene.Net.Store.IOContext Lucene.Net.Index.SegmentInfo class Lucene.Net.Codecs.Lucene3x.PreFlexRWStoredFieldsFormat super super Lucene3xStoredFieldsFormat public override public override return new

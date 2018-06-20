@@ -1,0 +1,1 @@
+Spring.Context.Config Spring.Objects.Factory.Xml using class attribute Spring.Context.Config.ContextNamespaceParser super super NamespaceParserSupport public override public override new new

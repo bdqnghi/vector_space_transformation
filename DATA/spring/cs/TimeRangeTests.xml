@@ -1,0 +1,1 @@
+SpringAir.Domain System using System.ComponentModel using NUnit.Framework using class attribute SpringAir.Domain.TimeRangeTests TypeConverter public public decl_stmt System.ComponentModel.TypeConverter = typeof typeof call TypeConverter.GetType() call TypeConverter.GetType() call TypeConverter.GetType() call TypeConverter.GetType() call TypeConverter.GetType()

@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Ru System using System.IO using Lucene.Net.Analysis using Lucene.Net.Util using class Lucene.Net.Analysis.Ru.RussianLetterTokenizer super super CharTokenizer protected override protected override if || >= && <= return else return

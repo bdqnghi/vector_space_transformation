@@ -1,0 +1,1 @@
+org.springframework.context.annotation.componentscan.cycle.left org.springframework.context.annotation.ComponentScan import org.springframework.context.annotation.Configuration import class annotation annotation org.springframework.context.annotation.componentscan.cycle.left.LeftConfig

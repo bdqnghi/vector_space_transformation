@@ -1,0 +1,1 @@
+org.springframework.jdbc.datasource.lookup javax.naming.NamingException import javax.sql.DataSource import org.springframework.jndi.JndiLocatorSupport import class org.springframework.jdbc.datasource.lookup.JndiDataSourceLookup super super extends super implements public public throws try return catch throw new + +

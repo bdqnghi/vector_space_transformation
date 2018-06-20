@@ -1,0 +1,1 @@
+Spring.Messaging.Ems.Support.Destinations Spring.Messaging.Ems.Common using Spring.Util using TIBCO.EMS using class Spring.Messaging.Ems.Support.Destinations.EmsDestinationAccessor super super EmsAccessor bool IDestinationResolver return = return = public virtual public virtual return

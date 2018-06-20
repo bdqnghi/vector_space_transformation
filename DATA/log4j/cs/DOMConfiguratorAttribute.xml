@@ -1,0 +1,1 @@
+log4net.Config System using System.Reflection using System.IO using log4net.Util using log4net.Repository using log4net.Repository.Hierarchy using class attribute attribute attribute log4net.Config.DOMConfiguratorAttribute super super XmlConfiguratorAttribute

@@ -1,0 +1,1 @@
+SimpleModule class SimpleModule.Math decl log4net int public public decl_stmt int = + if call decl log4net.Info() call decl log4net.Info() call decl log4net.Info() call decl log4net.Info() call decl log4net.Info() + + + + + return

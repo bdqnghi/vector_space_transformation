@@ -1,0 +1,1 @@
+Spring.DataQuickStart.Dao.Template System.Data using Spring.Data using Spring.Data.Core using class Spring.DataQuickStart.Dao.Template.CommandCallbackDao super super AdoDaoSupport public virtual public virtual return int new IDbDataParameter public public = decl_stmt System.Data.IDbDataParameter = = = return

@@ -1,0 +1,1 @@
+com.datastax.driver.core com.google.common.collect.ImmutableList import com.google.common.collect.ImmutableMap import org.testng.annotations.Test import static static org.testng.Assert.assertEquals import class com.datastax.driver.core.SimpleJSONParserTest = public = public throws

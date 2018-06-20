@@ -1,0 +1,1 @@
+Cassandra.IntegrationTests.Linq.Structures System using Cassandra.Data.Linq using System.Diagnostics using class Cassandra.IntegrationTests.Linq.Structures.CassandraLog string DateTimeOffset string public public + + call DateTimeOffset.ToString() call DateTimeOffset.ToString() call DateTimeOffset.ToString() call DateTimeOffset.ToString() call DateTimeOffset.ToString() + + +

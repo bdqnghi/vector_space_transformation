@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.CharFilters System.Collections.Generic using org.apache.lucene.analysis.util using class Lucene.Net.Analysis.CharFilters.HTMLStripCharFilterFactory super super CharFilterFactory Pattern decl HashSet HTMLStripCharFilter public override public override decl_stmt HTMLStripCharFilter if == = new else = new return

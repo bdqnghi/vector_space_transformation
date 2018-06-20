@@ -1,0 +1,1 @@
+org.springframework.orm.hibernate3 javax.sql.DataSource import org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy import class annotation org.springframework.orm.hibernate3.TransactionAwareDataSourceConnectionProvider super super extends protected protected if instanceof return return new public public return

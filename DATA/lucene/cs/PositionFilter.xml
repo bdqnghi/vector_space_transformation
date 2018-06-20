@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Position System using System.Collections.Generic using System.Linq using System.Text using Lucene.Net.Analysis.Tokenattributes using class Lucene.Net.Analysis.Position.PositionFilter super super TokenFilter int IPositionIncrementAttribute bool public sealed override public sealed override if if = else = return else return public override public override =

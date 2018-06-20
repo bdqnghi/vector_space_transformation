@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.impl org.apache.lucene.util.LuceneTestCase import org.apache.solr.client.solrj.impl.ConcurrentUpdateSolrClient.Builder import org.junit.Test import class org.apache.solr.client.solrj.impl.ConcurrentUpdateSolrClientBuilderTest super super extends = public = public new

@@ -1,0 +1,1 @@
+org.apache.lucene.search org.apache.lucene.search.spans.Spans import class org.apache.lucene.search.DisiWrapper Spans DocIdSetIterator TwoPhaseIterator int DisiWrapper DocIdSetIterator long float Scorer int int

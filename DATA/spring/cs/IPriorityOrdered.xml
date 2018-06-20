@@ -1,0 +1,1 @@
+Spring.Core Spring.Context using Spring.Objects.Factory.Config using interface Spring.Core.IPriorityOrdered super super IOrdered

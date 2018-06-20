@@ -1,0 +1,1 @@
+example.scannable_implicitbasepackage org.springframework.stereotype.Component import class annotation example.scannable_implicitbasepackage.ScannedComponent

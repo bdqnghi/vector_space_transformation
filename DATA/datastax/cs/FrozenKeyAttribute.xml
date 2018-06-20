@@ -1,0 +1,1 @@
+Cassandra.Mapping.Attributes System using System.Collections.Generic using System.Linq using System.Text using class attribute Cassandra.Mapping.Attributes.FrozenKeyAttribute super super Attribute

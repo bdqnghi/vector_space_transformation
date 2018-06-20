@@ -1,0 +1,1 @@
+org.springframework.web.socket.adapter.jetty java.util.Map import org.eclipse.jetty.websocket.api.extensions.ExtensionConfig import org.springframework.web.socket.WebSocketExtension import class org.springframework.web.socket.adapter.jetty.WebSocketToJettyExtensionConfigAdapter super super extends

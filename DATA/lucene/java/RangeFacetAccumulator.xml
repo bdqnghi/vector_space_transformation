@@ -1,0 +1,1 @@
+org.apache.solr.analytics.accumulator.facet java.io.IOException import org.apache.lucene.index.LeafReaderContext import org.apache.solr.analytics.statistics.StatsCollector import class org.apache.solr.analytics.accumulator.facet.RangeFacetAccumulator super super extends public public throws protected protected throws

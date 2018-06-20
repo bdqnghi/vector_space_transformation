@@ -1,0 +1,1 @@
+org.springframework.messaging.support java.util.List import interface org.springframework.messaging.support.InterceptableChannel

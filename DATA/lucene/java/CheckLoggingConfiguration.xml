@@ -1,0 +1,1 @@
+org.apache.solr.servlet org.slf4j.LoggerFactory import class org.apache.solr.servlet.CheckLoggingConfiguration static static try catch throw new + + +

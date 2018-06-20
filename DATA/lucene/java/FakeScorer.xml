@@ -1,0 +1,1 @@
+org.apache.lucene.facet.taxonomy java.io.IOException import org.apache.lucene.search.DocIdSetIterator import org.apache.lucene.search.Scorer import class org.apache.lucene.facet.taxonomy.FakeScorer super super extends int int float public public return public public throw new public public throws return public public throws return

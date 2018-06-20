@@ -1,0 +1,1 @@
+Spring.Transaction Spring.Transaction.Support using class Spring.Transaction.CallCountingTransactionManager super super AbstractPlatformTransactionManager int int int int protected override protected override return new protected override protected override ++ ++ protected override protected override ++ -- protected override protected override ++ -- public public = = = =

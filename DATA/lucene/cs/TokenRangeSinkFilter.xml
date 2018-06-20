@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Sinks System using System.Collections.Generic using System.Linq using System.Text using Lucene.Net.Util using class Lucene.Net.Analysis.Sinks.TokenRangeSinkFilter super int int int public override public override try if >= && < return return finally ++ public override public override =

@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Ngram System.Collections.Generic using Lucene.Net.Analysis.Util using Lucene.Net.Util using System.IO.TextReader Lucene.Net.Util.LuceneVersion class Lucene.Net.Analysis.Ngram.NGramTokenizerFactory super super TokenizerFactory int int public override public override if return new else return new

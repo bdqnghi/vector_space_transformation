@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.intblock org.apache.lucene.codecs.mockintblock.MockVariableIntBlockPostingsFormat org.apache.lucene.index.BasePostingsFormatTestCase org.apache.lucene.util.TestUtil org.apache.lucene.util.TestUtil class org.apache.lucene.codecs.intblock.TestVariableIntBlockPostingsFormat super super BasePostingsFormatTestCase Codec return

@@ -1,0 +1,1 @@
+org.apache.solr.search java.util.Objects import org.apache.lucene.search.DocIdSet import org.apache.lucene.util.Bits import class org.apache.solr.search.BitsFilteredDocIdSet super super extends Bits public static public static return == || == : new protected protected return call Bits.get() call Bits.get() call Bits.get() call Bits.get() call Bits.get()

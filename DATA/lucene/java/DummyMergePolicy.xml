@@ -1,0 +1,1 @@
+org.apache.solr.update org.apache.lucene.index.IndexWriter import org.apache.lucene.index.LogByteSizeMergePolicy import class org.apache.solr.update.DummyMergePolicy super super extends

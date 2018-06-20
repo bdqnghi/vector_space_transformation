@@ -1,0 +1,1 @@
+log4net.Layout System using log4net using log4net.Core using log4net.Util.TypeConverters using class log4net.Layout.RawLayoutConverter super super IConvertFrom public public return typeof ILayout public public decl_stmt log4net.Layout.ILayout = as if != return new throw typeof

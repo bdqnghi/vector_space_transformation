@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Tokenattributes Lucene.Net.Util using Lucene.Net.Util.BytesRef interface Lucene.Net.Analysis.Tokenattributes.IPayloadAttribute super super IAttribute

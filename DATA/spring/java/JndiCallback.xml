@@ -1,0 +1,1 @@
+org.springframework.jndi javax.naming.Context import javax.naming.NamingException import interface

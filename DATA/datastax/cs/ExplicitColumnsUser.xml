@@ -1,0 +1,1 @@
+Cassandra.Tests.Mapping.Pocos System using Cassandra.Mapping using Cassandra.Mapping.Attributes using class attribute Cassandra.Tests.Mapping.Pocos.ExplicitColumnsUser

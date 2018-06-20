@@ -1,0 +1,1 @@
+System using Spring.Web.Conversation using NHibernate using class .RedirectErrorNoPauseConversation super IConversationState return = ISession protected protected if if decl_stmt Spring.Messaging.Ems.Common.ISession = else if else if decl_stmt Spring.Messaging.Ems.Common.ISession = throw new else if else if

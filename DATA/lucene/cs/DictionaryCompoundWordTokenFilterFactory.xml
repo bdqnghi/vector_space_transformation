@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Compound System.Collections.Generic using Lucene.Net.Analysis.Util using class Lucene.Net.Analysis.Compound.DictionaryCompoundWordTokenFilterFactory super super TokenFilterFactory super ResourceLoaderAware int CharArraySet string int int bool public virtual public virtual = public override public override return == : new

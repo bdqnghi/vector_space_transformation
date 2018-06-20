@@ -1,0 +1,1 @@
+example.scannable java.lang.annotation.Retention import java.lang.annotation.RetentionPolicy import class example.scannable.CustomAnnotations

@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.reverse System.Collections.Generic using Lucene.Net.Analysis.Util.TokenFilterFactory TokenFilterFactory class org.apache.lucene.analysis.reverse.ReverseStringFilterFactory super super TokenFilterFactory public override public override return new

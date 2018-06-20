@@ -1,0 +1,1 @@
+org.springframework.http.client org.junit.Test import org.springframework.http.HttpMethod import class org.springframework.http.client.OkHttp3AsyncClientHttpRequestFactoryTests super super extends protected protected return new public public throws

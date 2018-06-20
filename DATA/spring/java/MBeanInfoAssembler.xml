@@ -1,0 +1,1 @@
+org.springframework.jmx.export.assembler javax.management.JMException import javax.management.modelmbean.ModelMBeanInfo import interface org.springframework.jmx.export.assembler.MBeanInfoAssembler

@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.hunspell org.apache.lucene.analysis.util.BaseTokenStreamFactoryTestCase class org.apache.lucene.analysis.hunspell.TestHunspellStemFilterFactory super super BaseTokenStreamFactoryTestCase TokenStream Reader public virtual public virtual decl_stmt Reader = new decl_stmt Lucene.Net.Analysis.TokenStream = new = new public virtual public virtual try catch

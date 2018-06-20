@@ -1,0 +1,1 @@
+org.apache.lucene.collation java.text.Collator import org.apache.lucene.analysis.TokenStream import org.apache.lucene.collation.tokenattributes.CollatedTermAttributeImpl import org.apache.lucene.util.AttributeFactory import class org.apache.lucene.collation.CollationAttributeFactory super super extends Collator public public return new

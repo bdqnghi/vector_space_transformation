@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene42 Lucene.Net.Util.Packed.PackedInts Lucene.Net.Index.SegmentReadState Lucene.Net.Index.SegmentWriteState class Lucene.Net.Codecs.Lucene42.Lucene42NormsFormat super super NormsFormat string float string string string public override public override return new public override public override return new

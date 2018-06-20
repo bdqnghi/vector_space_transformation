@@ -1,0 +1,1 @@
+org.apache.solr.core java.io.IOException import org.apache.lucene.store.Directory import interface org.apache.solr.core.ShutdownAwareDirectory

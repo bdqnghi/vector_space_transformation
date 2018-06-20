@@ -1,0 +1,1 @@
+Spring.Objects.Factory.Config System using System.Collections.Generic using System.Reflection using interface Spring.Objects.Factory.Config.IInstantiationAwareObjectPostProcessor super super IObjectPostProcessor

@@ -1,0 +1,1 @@
+org.apache.solr.search org.apache.solr.SolrTestCaseJ4 import org.junit.BeforeClass import org.junit.Test import class org.apache.solr.search.TestElisionMultitermQuery super super extends public public return public static public static throws public public

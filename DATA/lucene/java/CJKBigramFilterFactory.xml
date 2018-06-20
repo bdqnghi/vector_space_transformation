@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.cjk java.util.Map import org.apache.lucene.analysis.TokenStream import org.apache.lucene.analysis.cjk.CJKBigramFilter import org.apache.lucene.analysis.util.TokenFilterFactory import class org.apache.lucene.analysis.cjk.CJKBigramFilterFactory super super extends int boolean public public return new

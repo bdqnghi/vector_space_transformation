@@ -1,0 +1,1 @@
+org.springframework.messaging.converter org.springframework.messaging.MessageHeaders import org.springframework.util.MimeType import interface org.springframework.messaging.converter.ContentTypeResolver

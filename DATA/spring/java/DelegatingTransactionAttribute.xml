@@ -1,0 +1,1 @@
+org.springframework.transaction.interceptor java.io.Serializable import org.springframework.transaction.support.DelegatingTransactionDefinition import class annotation org.springframework.transaction.interceptor.DelegatingTransactionAttribute super super extends super implements TransactionAttribute public public return public public return

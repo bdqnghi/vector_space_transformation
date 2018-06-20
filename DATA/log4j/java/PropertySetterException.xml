@@ -1,0 +1,1 @@
+org.apache.log4j.config class org.apache.log4j.config.PropertySetterException super super extends Throwable long String public public decl_stmt java.lang.String = if == && != = call java.lang.Throwable.getMessage() call java.lang.Throwable.getMessage() call java.lang.Throwable.getMessage() call java.lang.Throwable.getMessage() call java.lang.Throwable.getMessage() return

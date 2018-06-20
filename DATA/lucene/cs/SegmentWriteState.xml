@@ -1,0 +1,1 @@
+Lucene.Net.Index Lucene.Net.Store.Directory Lucene.Net.Util.InfoStream Lucene.Net.Store.IOContext Lucene.Net.Util.MutableBits Lucene.Net.Codecs.Perfield.PerFieldPostingsFormat Lucene.Net.Codecs.PostingsFormat class Lucene.Net.Index.SegmentWriteState int BufferedUpdates IOContext MutableBits int FieldInfos SegmentInfo InfoStream Directory string

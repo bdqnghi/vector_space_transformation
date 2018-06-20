@@ -1,0 +1,1 @@
+Spring.Data.NHibernate System using System.Runtime.Serialization using NHibernate using Spring.Dao using class attribute Spring.Data.NHibernate.HibernateAdoException super super UncategorizedDataAccessException

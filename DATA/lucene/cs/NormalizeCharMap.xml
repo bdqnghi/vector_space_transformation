@@ -1,0 +1,1 @@
+Lucene.Net.Analysis Lucene.Net.Support using class Lucene.Net.Analysis.NormalizeCharMap decl Generic decl System decl Collections var char NormalizeCharMap public virtual public virtual decl_stmt Lucene.Net.Analysis.CharFilters.NormalizeCharMap = for = < ++ decl_stmt char = if == = new < decl_stmt var = if == = new = = if != throw new + = = -

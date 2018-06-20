@@ -1,0 +1,1 @@
+org.apache.lucene.index org.apache.lucene.util.LuceneTestCase import class org.apache.lucene.index.IndexWriterMaxDocsChanger public static public static public static public static

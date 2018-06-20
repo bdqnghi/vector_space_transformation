@@ -1,0 +1,1 @@
+org.apache.lucene.search org.apache.lucene.index.IndexReader import org.apache.lucene.index.Terms import class org.apache.lucene.search.CollectionStatistics long String long long long public final public final return public final public final return public final public final return public final public final return public final public final return

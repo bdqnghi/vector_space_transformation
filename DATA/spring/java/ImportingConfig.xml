@@ -1,0 +1,1 @@
+org.springframework.context.annotation.componentscan.importing org.springframework.context.annotation.ComponentScanAndImportAnnotationInteractionTests import org.springframework.context.annotation.Configuration import org.springframework.context.annotation.Import import class annotation annotation org.springframework.context.annotation.componentscan.importing.ImportingConfig

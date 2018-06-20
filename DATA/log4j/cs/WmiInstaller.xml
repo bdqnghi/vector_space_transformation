@@ -1,0 +1,1 @@
+log4net.Appender System using System.Management.Instrumentation using class attribute log4net.Appender.WmiInstaller super super DefaultManagementProjectInstaller

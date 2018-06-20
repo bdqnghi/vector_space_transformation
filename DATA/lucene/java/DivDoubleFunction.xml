@@ -1,0 +1,1 @@
+org.apache.solr.analytics.util.valuesource org.apache.lucene.queries.function.FunctionValues import org.apache.lucene.queries.function.ValueSource import org.apache.solr.analytics.util.AnalyticsParams import class org.apache.solr.analytics.util.valuesource.DivDoubleFunction super super extends String protected protected return protected protected return /

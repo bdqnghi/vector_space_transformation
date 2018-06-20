@@ -1,0 +1,1 @@
+org.springframework.transaction.aspectj org.springframework.transaction.annotation.Transactional import class annotation org.springframework.transaction.aspectj.TransactionalAnnotationOnlyOnClassWithNoInterface public public throws if != throw return

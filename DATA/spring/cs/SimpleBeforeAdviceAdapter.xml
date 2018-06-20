@@ -1,0 +1,1 @@
+Spring.Aop System using AopAlliance.Aop using AopAlliance.Intercept using Spring.Aop.Framework.Adapter using class attribute Spring.Aop.SimpleBeforeAdviceAdapter super super IAdvisorAdapter public public return is ISimpleBeforeAdvice public public decl_stmt Spring.Aop.ISimpleBeforeAdvice = return new

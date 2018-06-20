@@ -1,0 +1,1 @@
+org.springframework.test.context.web org.junit.runner.RunWith import org.junit.runners.Suite import org.junit.runners.Suite.SuiteClasses import org.springframework.test.context.ContextLoader import org.springframework.web.context.WebApplicationContext import class annotation comment annotation org.springframework.test.context.web.WebContextLoaderTestSuite

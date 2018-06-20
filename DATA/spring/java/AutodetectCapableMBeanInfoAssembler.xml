@@ -1,0 +1,1 @@
+org.springframework.jmx.export.assembler interface org.springframework.jmx.export.assembler.AutodetectCapableMBeanInfoAssembler super super extends

@@ -1,0 +1,1 @@
+log4net.Repository System using System.Collections using log4net.Util using interface log4net.Repository.IXmlRepositoryConfigurator

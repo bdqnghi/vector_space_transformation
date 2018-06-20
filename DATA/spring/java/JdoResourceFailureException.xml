@@ -1,0 +1,1 @@
+org.springframework.orm.jdo javax.jdo.JDODataStoreException import javax.jdo.JDOFatalDataStoreException import org.springframework.dao.DataAccessResourceFailureException import class annotation org.springframework.orm.jdo.JdoResourceFailureException super super extends

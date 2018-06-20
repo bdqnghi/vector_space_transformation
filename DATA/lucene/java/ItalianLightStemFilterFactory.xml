@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.it java.util.Map import org.apache.lucene.analysis.TokenStream import org.apache.lucene.analysis.it.ItalianLightStemFilter import org.apache.lucene.analysis.util.TokenFilterFactory import class org.apache.lucene.analysis.it.ItalianLightStemFilterFactory super super extends public public return new

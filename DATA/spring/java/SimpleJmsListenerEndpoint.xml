@@ -1,0 +1,1 @@
+org.springframework.jms.config javax.jms.MessageListener import org.springframework.jms.listener.MessageListenerContainer import class org.springframework.jms.config.SimpleJmsListenerEndpoint super super extends MessageListener public public = public public return protected protected return protected protected return

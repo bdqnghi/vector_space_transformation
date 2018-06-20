@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.icu.segmentation com.ibm.icu.text.BreakIterator import class org.apache.lucene.analysis.icu.segmentation.ICUTokenizerConfig

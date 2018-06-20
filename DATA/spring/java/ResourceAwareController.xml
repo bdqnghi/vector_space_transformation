@@ -1,0 +1,1 @@
+org.springframework.web.portlet.mvc javax.portlet.ResourceRequest import javax.portlet.ResourceResponse import org.springframework.web.portlet.ModelAndView import interface org.springframework.web.portlet.mvc.ResourceAwareController

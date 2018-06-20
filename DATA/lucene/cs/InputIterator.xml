@@ -1,0 +1,1 @@
+Lucene.Net.Search.Suggest System.Collections.Generic using Lucene.Net.Search.Suggest.Analyzing using Lucene.Net.Util using interface Lucene.Net.Search.Suggest.InputIterator super super BytesRefIterator

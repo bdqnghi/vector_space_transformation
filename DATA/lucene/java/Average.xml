@@ -1,0 +1,1 @@
+org.apache.lucene.search.suggest java.util.List import java.util.Locale import class org.apache.lucene.search.suggest.Average double double public public return double double double static static < decl_stmt double = decl_stmt double = for : += += * decl_stmt double = / double return new / double / double - *

@@ -1,0 +1,1 @@
+Spring.Data.NHibernate.Support System using System.Web using class Spring.Data.NHibernate.Support.OpenSessionInViewModule super super SessionScope super IHttpModule public public += += public override public override private private private private

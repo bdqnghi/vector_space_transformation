@@ -1,0 +1,1 @@
+Spring.Messaging.Ems.Jndi System using Spring.Objects.Factory using TIBCO.EMS using class Spring.Messaging.Ems.Jndi.LookupContextFactoryObject super super JndiLocatorSupport super IFactoryObject public public return return typeof return

@@ -1,0 +1,1 @@
+com.datastax.driver.mapping.annotations com.datastax.driver.core.DataType import com.datastax.driver.core.TypeCodec import class com.datastax.driver.mapping.annotations.Defaults

@@ -1,0 +1,1 @@
+AopAlliance.Intercept AopAlliance.Aop using interface AopAlliance.Intercept.IInterceptor super super IAdvice

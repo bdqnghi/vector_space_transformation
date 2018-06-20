@@ -1,0 +1,1 @@
+org.apache.lucene.index org.apache.lucene.search.MultiTermQuery import org.apache.lucene.util.BytesRef import class org.apache.lucene.index.SingleTermsEnum super super extends BytesRef protected protected return :

@@ -1,0 +1,4 @@
+Lucene.Net.Search System using System.Collections.Generic using System.Linq using System.Text using class Lucene.Net.Search.Extensions decl IEnumerable public static < < public static < < public static < < < this this this < < decl_stmt System.Collections.Generic.IEnumerable < < = new < < return return new decl IEnumerable public static < < public static < < public static < < < this this this < < decl_stmt System.Collections.Generic.IEnumerable < < = new < < return return new decl IEnumerable static < < static < < static < < < this this this < < decl_stmt System.Collections.Generic.IEnumerable < < = new < return emptyProduct accumulator,sequence=>
+fromaccseqinaccumulator
+fromiteminsequence
+selectaccseqConcatnewitem

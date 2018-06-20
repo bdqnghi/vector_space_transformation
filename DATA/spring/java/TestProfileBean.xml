@@ -1,0 +1,1 @@
+org.springframework.context.annotation.spr12111 org.springframework.context.annotation.Profile import org.springframework.stereotype.Component import class annotation annotation org.springframework.context.annotation.spr12111.TestProfileBean

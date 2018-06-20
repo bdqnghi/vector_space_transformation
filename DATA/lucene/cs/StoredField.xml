@@ -1,0 +1,1 @@
+Lucene.Net.Documents Lucene.Net.Index using Lucene.Net.Util using class Lucene.Net.Documents.StoredField super super Field FieldType

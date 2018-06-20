@@ -1,0 +1,1 @@
+log4net.Appender log4net.Core using interface log4net.Appender.IBulkAppender super super IAppender

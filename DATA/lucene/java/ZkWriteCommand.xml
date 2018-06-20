@@ -1,0 +1,1 @@
+org.apache.solr.cloud.overseer org.apache.solr.common.cloud.DocCollection import class org.apache.solr.cloud.overseer.ZkWriteCommand boolean String DocCollection public static public static return new

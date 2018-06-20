@@ -1,0 +1,1 @@
+org.springframework.jdbc.core.metadata java.sql.DatabaseMetaData import java.sql.SQLException import class org.springframework.jdbc.core.metadata.HanaCallMetaDataProvider super super extends public public throws

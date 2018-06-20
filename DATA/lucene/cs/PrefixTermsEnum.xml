@@ -1,0 +1,1 @@
+Lucene.Net.Search Lucene.Net.Util.BytesRef Lucene.Net.Index.FilteredTermsEnum Lucene.Net.Util.StringHelper Lucene.Net.Index.TermsEnum class Lucene.Net.Search.PrefixTermsEnum super super FilteredTermsEnum BytesRef protected internal override protected internal override if return else return

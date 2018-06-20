@@ -1,0 +1,1 @@
+org.springframework.test.context.web java.lang.annotation.Retention import java.lang.annotation.RetentionPolicy import org.springframework.context.annotation.Bean import org.springframework.context.annotation.Configuration import org.springframework.test.context.ContextConfiguration import class annotation org.springframework.test.context.web.FooConfig public public return

@@ -1,0 +1,1 @@
+Spring.Context Spring.Objects.Factory.Config using interface Spring.Context.IConfigurableApplicationContext super super IApplicationContext super ILifecycle

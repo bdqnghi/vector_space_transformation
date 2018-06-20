@@ -1,0 +1,1 @@
+org.springframework.context.annotation org.junit.Test import org.springframework.beans.factory.support.DefaultBeanNameGenerator import org.springframework.context.annotation.ComponentScan.Filter import org.springframework.core.type.filter.TypeFilter import class org.springframework.context.annotation.ComponentScanAnnotationTests public public

@@ -1,0 +1,1 @@
+log4net.Appender log4net.Filter using log4net.Layout using log4net.Core using interface log4net.Appender.IAppender

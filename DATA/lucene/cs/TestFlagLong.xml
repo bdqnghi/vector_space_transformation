@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.hunspell org.junit.BeforeClass class org.apache.lucene.analysis.hunspell.TestFlagLong super super StemmerTestBase public static public static public virtual public virtual

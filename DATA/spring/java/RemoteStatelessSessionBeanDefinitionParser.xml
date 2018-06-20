@@ -1,0 +1,1 @@
+org.springframework.ejb.config org.w3c.dom.Element import org.springframework.ejb.access.SimpleRemoteStatelessSessionProxyFactoryBean import class org.springframework.ejb.config.RemoteStatelessSessionBeanDefinitionParser super super extends protected protected return

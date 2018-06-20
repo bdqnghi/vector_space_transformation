@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Pattern System.Collections.Generic using Lucene.Net.Analysis.Util using class Lucene.Net.Analysis.Pattern.PatternCaptureGroupFilterFactory super super TokenFilterFactory Pattern bool public override public override return new

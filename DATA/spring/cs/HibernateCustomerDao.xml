@@ -1,0 +1,1 @@
+Spring.Northwind.Dao.NHibernate System.Collections.Generic using Spring.Stereotype using Spring.Transaction.Interceptor using Spring.Northwind.Domain using class attribute Spring.Northwind.Dao.NHibernate.HibernateCustomerDao super super HibernateDao super ICustomerDao = public = public return < = public < = public < return < public public return string public public public public

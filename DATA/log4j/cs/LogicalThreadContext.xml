@@ -1,0 +1,1 @@
+log4net System using System.Collections using log4net.Util using class log4net.LogicalThreadContext LogicalThreadContextProperties LogicalThreadContextStacks return return

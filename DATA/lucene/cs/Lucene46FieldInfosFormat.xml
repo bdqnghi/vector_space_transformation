@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene46 class Lucene.Net.Codecs.Lucene46.Lucene46FieldInfosFormat super super FieldInfosFormat int sbyte string FieldInfosWriter sbyte sbyte sbyte sbyte sbyte int string FieldInfosReader int sbyte return return

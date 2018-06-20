@@ -1,0 +1,1 @@
+com.datastax.driver.mapping com.datastax.driver.core.BoundStatement import com.datastax.driver.core.PreparedStatement import class com.datastax.driver.mapping.MapperBoundStatement super super extends

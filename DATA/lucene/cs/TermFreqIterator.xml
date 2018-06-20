@@ -1,0 +1,1 @@
+Lucene.Net.Search.Spell System.Collections.Generic using Lucene.Net.Util using interface Lucene.Net.Search.Spell.TermFreqIterator super super BytesRefIterator

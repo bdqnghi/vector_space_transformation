@@ -1,0 +1,1 @@
+Spring.Data.NHibernate.Bytecode System using NHibernate.Bytecode using NHibernate.Properties using NHibernate.Type using Spring.Objects.Factory using class Spring.Data.NHibernate.Bytecode.BytecodeProvider super super IBytecodeProvider IObjectsFactory DefaultCollectionTypeFactory IListableObjectFactory IProxyFactoryFactory public public return new return return return

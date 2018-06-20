@@ -1,0 +1,1 @@
+org.apache.solr.handler.component org.apache.solr.search.SolrIndexSearcher import java.util.Comparator import java.io.IOException import interface org.apache.solr.handler.component.MergeStrategy Comparator

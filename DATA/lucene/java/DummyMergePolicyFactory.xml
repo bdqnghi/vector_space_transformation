@@ -1,0 +1,1 @@
+org.apache.solr.index org.apache.solr.core.SolrResourceLoader import org.apache.solr.schema.IndexSchema import class org.apache.solr.index.DummyMergePolicyFactory super super extends

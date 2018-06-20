@@ -1,0 +1,1 @@
+log4net.Util System using System.Text using System.IO using class log4net.Util.ReusableStringWriter super super StringWriter protected override protected override StringBuilder public public decl_stmt System.Text.StringBuilder = = if > =

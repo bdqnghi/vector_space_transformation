@@ -1,0 +1,1 @@
+org.apache.log4j.pattern java.util.Date import class org.apache.log4j.pattern.IntegerPatternConverter super super extends IntegerPatternConverter public static public static final final final return public public final final if instanceof if instanceof

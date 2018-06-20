@@ -1,0 +1,1 @@
+org.apache.solr.security java.io.Closeable import java.util.Map import interface org.apache.solr.security.AuthorizationPlugin super super extends

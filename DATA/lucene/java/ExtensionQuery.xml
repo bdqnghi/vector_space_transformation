@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.ext org.apache.lucene.queryparser.classic.QueryParser import class org.apache.lucene.queryparser.ext.ExtensionQuery String QueryParser String public public return public public return public public return

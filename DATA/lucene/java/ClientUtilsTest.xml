@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.util org.apache.lucene.util.LuceneTestCase import class org.apache.solr.client.solrj.util.ClientUtilsTest super super extends public public

@@ -1,0 +1,1 @@
+org.springframework.beans.factory.xml org.springframework.tests.sample.beans.TestBean import org.springframework.tests.sample.beans.factory.DummyFactory import class org.springframework.beans.factory.xml.DummyReferencer DummyFactory TestBean TestBean public public = public public return public public = public public return public public = public public return

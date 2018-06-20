@@ -1,0 +1,1 @@
+Cassandra.IntegrationTests.Policies.Util class Cassandra.IntegrationTests.Policies.Util.AlwaysIgnoreRetryPolicy super super IRetryPolicy AlwaysIgnoreRetryPolicy public public return public public return public public return

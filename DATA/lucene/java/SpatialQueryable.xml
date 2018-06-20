@@ -1,0 +1,1 @@
+org.apache.solr.schema org.apache.lucene.search.Query import org.apache.solr.search.QParser import org.apache.solr.search.SpatialOptions import interface org.apache.solr.schema.SpatialQueryable

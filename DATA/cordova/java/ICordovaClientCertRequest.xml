@@ -1,0 +1,1 @@
+org.apache.cordova java.security.Principal import java.security.PrivateKey import java.security.cert.X509Certificate import interface org.apache.cordova.ICordovaClientCertRequest

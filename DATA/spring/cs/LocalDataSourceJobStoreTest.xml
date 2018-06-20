@@ -1,0 +1,1 @@
+Spring.Scheduling.Quartz.Integration.Tests System.Threading using NUnit.Framework using Spring.Context using Spring.Context.Support using class attribute Spring.Scheduling.Quartz.Integration.Tests.LocalDataSourceJobStoreTest IApplicationContext public public = new public public

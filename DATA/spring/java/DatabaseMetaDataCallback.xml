@@ -1,0 +1,1 @@
+org.springframework.jdbc.support java.sql.DatabaseMetaData import java.sql.SQLException import interface org.springframework.jdbc.support.DatabaseMetaDataCallback

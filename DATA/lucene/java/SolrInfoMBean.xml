@@ -1,0 +1,1 @@
+org.apache.solr.core java.net.URL import org.apache.solr.common.util.NamedList import interface org.apache.solr.core.SolrInfoMBean

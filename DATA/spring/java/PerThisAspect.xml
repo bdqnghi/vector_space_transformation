@@ -1,0 +1,1 @@
+test.aspect org.aspectj.lang.ProceedingJoinPoint import org.aspectj.lang.annotation.Around import org.aspectj.lang.annotation.Aspect import class annotation test.aspect.PerThisAspect int public public return public public throws return ++

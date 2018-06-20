@@ -1,0 +1,1 @@
+org.springframework.scheduling.quartz org.quartz.SchedulerContext import org.springframework.beans.factory.Aware import interface org.springframework.scheduling.quartz.SchedulerContextAware super super extends

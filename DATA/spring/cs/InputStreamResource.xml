@@ -1,0 +1,1 @@
+Spring.Core.IO System using System.IO using Spring.Util using class Spring.Core.IO.InputStreamResource super super AbstractResource Stream string Stream if == throw new + + decl_stmt System.IO.Stream = = return return return return

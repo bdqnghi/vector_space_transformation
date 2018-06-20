@@ -1,0 +1,1 @@
+org.springframework.messaging.handler.annotation.support java.lang.reflect.Method import org.springframework.messaging.handler.invocation.InvocableHandlerMethod import interface org.springframework.messaging.handler.annotation.support.MessageHandlerMethodFactory

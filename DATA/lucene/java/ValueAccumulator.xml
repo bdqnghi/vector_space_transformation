@@ -1,0 +1,1 @@
+org.apache.solr.analytics.accumulator java.io.IOException import org.apache.lucene.search.SimpleCollector import org.apache.solr.common.util.NamedList import class org.apache.solr.analytics.accumulator.ValueAccumulator super super extends public public throws

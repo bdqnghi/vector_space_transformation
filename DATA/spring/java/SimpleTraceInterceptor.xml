@@ -1,0 +1,1 @@
+org.springframework.aop.interceptor org.aopalliance.intercept.MethodInvocation import org.apache.commons.logging.Log import class annotation org.springframework.aop.interceptor.SimpleTraceInterceptor super super extends Object String protected protected throws decl_stmt java.lang.String = + try decl_stmt java.lang.Object = + return catch + throw protected protected return + + + +

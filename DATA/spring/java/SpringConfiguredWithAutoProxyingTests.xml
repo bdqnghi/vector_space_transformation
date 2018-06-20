@@ -1,0 +1,1 @@
+org.springframework.beans.factory.aspectj org.junit.Test import org.springframework.context.support.ClassPathXmlApplicationContext import class org.springframework.beans.factory.aspectj.SpringConfiguredWithAutoProxyingTests public public new

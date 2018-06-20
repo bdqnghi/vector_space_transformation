@@ -1,0 +1,1 @@
+com.datastax.driver.core.exceptions class annotation com.datastax.driver.core.exceptions.QueryValidationException super super extends

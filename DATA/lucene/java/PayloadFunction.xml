@@ -1,0 +1,1 @@
+org.apache.lucene.queries.payloads org.apache.lucene.search.Explanation import org.apache.lucene.search.spans.Spans import class org.apache.lucene.queries.payloads.PayloadFunction public public return +

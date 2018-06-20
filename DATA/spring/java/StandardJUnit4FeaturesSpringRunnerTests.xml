@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4 org.junit.runner.RunWith import org.springframework.test.context.TestExecutionListeners import class annotation annotation org.springframework.test.context.junit4.StandardJUnit4FeaturesSpringRunnerTests super super extends

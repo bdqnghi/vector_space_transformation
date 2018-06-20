@@ -1,0 +1,1 @@
+Spring.Messaging.Ems.Common TIBCO.EMS using interface Spring.Messaging.Ems.Common.ITopicSubscriber super super IMessageConsumer

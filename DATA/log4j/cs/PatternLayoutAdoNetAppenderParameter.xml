@@ -1,0 +1,1 @@
+SampleAppendersApp.Appender log4net.Appender using class SampleAppendersApp.Appender.PatternLayoutAdoNetAppenderParameter super super AdoNetAppenderParameter string return =

@@ -1,0 +1,1 @@
+NetMQ.Sockets NetMQ.Core using class NetMQ.Sockets.DealerSocket super super NetMQSocket

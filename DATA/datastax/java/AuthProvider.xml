@@ -1,0 +1,1 @@
+com.datastax.driver.core com.datastax.driver.core.exceptions.AuthenticationException import java.net.InetSocketAddress import interface com.datastax.driver.core.AuthProvider AuthProvider public public throw new

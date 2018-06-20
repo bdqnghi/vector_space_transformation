@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.ext org.apache.lucene.queryparser.classic.ParseException import org.apache.lucene.search.Query import class org.apache.lucene.queryparser.ext.ParserExtension

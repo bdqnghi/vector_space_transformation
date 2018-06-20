@@ -1,0 +1,1 @@
+org.apache.lucene.facet.taxonomy.writercache org.apache.lucene.facet.taxonomy.FacetLabel import org.apache.lucene.facet.taxonomy.directory.DirectoryTaxonomyWriter import interface org.apache.lucene.facet.taxonomy.writercache.TaxonomyWriterCache

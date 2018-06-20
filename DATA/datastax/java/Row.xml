@@ -1,0 +1,1 @@
+com.datastax.driver.core com.datastax.driver.core.exceptions.InvalidTypeException import interface com.datastax.driver.core.Row super super extends

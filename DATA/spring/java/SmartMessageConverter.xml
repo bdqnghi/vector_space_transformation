@@ -1,0 +1,1 @@
+org.springframework.jms.support.converter javax.jms.JMSException import javax.jms.Message import javax.jms.Session import interface org.springframework.jms.support.converter.SmartMessageConverter super super extends

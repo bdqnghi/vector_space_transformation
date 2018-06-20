@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.pattern java.util.Map import java.util.regex.Pattern import org.apache.lucene.analysis.TokenStream import org.apache.lucene.analysis.util.TokenFilterFactory import class org.apache.lucene.analysis.pattern.PatternCaptureGroupFilterFactory super super extends Pattern boolean public public return new

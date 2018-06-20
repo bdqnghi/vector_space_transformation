@@ -1,0 +1,1 @@
+Spring.Aop.Framework.Adapter Spring.Objects.Factory.Config using class Spring.Aop.Framework.Adapter.AdvisorAdapterRegistrationManager super super IObjectPostProcessor public virtual public virtual return IAdvisorAdapter public virtual public virtual decl_stmt Spring.Aop.Framework.Adapter.IAdvisorAdapter = as if != return

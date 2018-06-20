@@ -1,0 +1,1 @@
+com.datastax.driver.core java.lang.annotation.Retention import java.lang.annotation.Target import static static java.lang.annotation.ElementType.METHOD import static static java.lang.annotation.ElementType.TYPE import static static java.lang.annotation.RetentionPolicy.RUNTIME import class com.datastax.driver.core.Undefined

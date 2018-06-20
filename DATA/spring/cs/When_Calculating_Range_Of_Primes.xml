@@ -1,0 +1,1 @@
+Tests.Generator NUnit.Framework using Primes using class attribute Tests.Generator.When_Calculating_Range_Of_Primes var string public public decl_stmt var = new new decl_stmt string = call var.GeneratePrimesUpTo() call var.GeneratePrimesUpTo() call var.GeneratePrimesUpTo() call var.GeneratePrimesUpTo() call var.GeneratePrimesUpTo()

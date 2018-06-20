@@ -1,0 +1,1 @@
+org.apache.lucene.index org.apache.lucene.util.Bits import class org.apache.lucene.index.BitsSlice super super implements int int Bits public public if >= throw new + + + - assert < : + + + return call Bits.get() call Bits.get() call Bits.get() call Bits.get() call Bits.get() + public public return

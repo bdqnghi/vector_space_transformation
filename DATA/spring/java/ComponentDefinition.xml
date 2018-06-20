@@ -1,0 +1,1 @@
+org.springframework.beans.factory.parsing org.springframework.beans.BeanMetadataElement import org.springframework.beans.factory.config.BeanDefinition import org.springframework.beans.factory.config.BeanReference import interface org.springframework.beans.factory.parsing.ComponentDefinition super super extends

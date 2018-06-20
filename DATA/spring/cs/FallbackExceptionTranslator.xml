@@ -1,0 +1,1 @@
+Spring.Data.Support System using Spring.Dao using class Spring.Data.Support.FallbackExceptionTranslator super super IAdoExceptionTranslator public public return new

@@ -1,0 +1,1 @@
+org.apache.solr.analytics.accumulator.facet java.io.IOException import org.apache.lucene.index.LeafReaderContext import interface org.apache.solr.analytics.accumulator.facet.FacetValueAccumulator

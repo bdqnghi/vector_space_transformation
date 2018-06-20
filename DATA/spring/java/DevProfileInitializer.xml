@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.aci org.springframework.context.ApplicationContextInitializer import org.springframework.context.support.GenericApplicationContext import class org.springframework.test.context.junit4.aci.DevProfileInitializer super super implements public public

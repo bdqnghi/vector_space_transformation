@@ -1,0 +1,1 @@
+Spring.Aop.Framework.AutoProxy System using Spring.Util using class Spring.Aop.Framework.AutoProxy.PointcutFilteringAutoProxyCreator super super AbstractFilteringAutoProxyCreator IPointcut = return bool protected override protected override decl_stmt bool = return

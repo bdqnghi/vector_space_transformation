@@ -1,0 +1,1 @@
+org.springframework.oxm.xmlbeans java.util.Map import org.apache.xmlbeans.XmlOptions import org.springframework.beans.factory.FactoryBean import class org.springframework.oxm.xmlbeans.XmlOptionsFactoryBean super super implements XmlOptions public public < = new if != for < : public public return public < extends extends public < extends extends return public public return

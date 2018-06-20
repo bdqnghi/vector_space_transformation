@@ -1,0 +1,1 @@
+Lucene.Net.Documents Lucene.Net.Util using class Lucene.Net.Documents.SortedBytesDocValuesField super super SortedDocValuesField FieldType FieldType

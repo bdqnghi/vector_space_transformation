@@ -1,0 +1,1 @@
+Spring.Core.TypeConversion System using System.ComponentModel using System.Globalization using class Spring.Core.TypeConversion.UriConverter super super TypeConverter public override public override if == typeof string return return public override public override if is string try return new as string catch throw new return

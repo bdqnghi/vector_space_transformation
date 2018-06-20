@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Memory Index.SegmentReadState Index.SegmentWriteState Util.ArrayUtil class Lucene.Net.Codecs.Memory.DirectDocValuesFormat super super DocValuesFormat string int string int string string public override public override return new public override public override return new

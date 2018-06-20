@@ -1,0 +1,1 @@
+org.springframework.beans java.beans.BeanInfo import java.beans.IntrospectionException import java.beans.Introspector import java.lang.reflect.Method import org.springframework.core.Ordered import class org.springframework.beans.ExtendedBeanInfoFactory super super implements public public < throws return new : private private < for : if return return public public return

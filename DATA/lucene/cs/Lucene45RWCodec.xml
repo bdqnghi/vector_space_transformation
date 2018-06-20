@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene45 Lucene.Net.Codecs.Lucene42.Lucene42FieldInfosFormat Lucene.Net.Codecs.Lucene42.Lucene42FieldInfosWriter Lucene.Net.Util.LuceneTestCase class Lucene.Net.Codecs.Lucene45.Lucene45RWCodec super super Lucene45Codec FieldInfosFormat if ! return else return new public override public override return

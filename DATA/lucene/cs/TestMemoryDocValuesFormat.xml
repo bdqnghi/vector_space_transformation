@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.memory org.apache.lucene.index.BaseCompressingDocValuesFormatTestCase org.apache.lucene.util.TestUtil class org.apache.lucene.codecs.memory.TestMemoryDocValuesFormat super super BaseCompressingDocValuesFormatTestCase Codec return protected internal override protected internal override return

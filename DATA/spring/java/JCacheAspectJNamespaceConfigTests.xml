@@ -1,0 +1,1 @@
+org.springframework.cache.aspectj org.springframework.cache.jcache.config.AbstractJCacheAnnotationTests import org.springframework.context.ApplicationContext import org.springframework.context.support.GenericXmlApplicationContext import class org.springframework.cache.aspectj.JCacheAspectJNamespaceConfigTests super super extends protected protected return new

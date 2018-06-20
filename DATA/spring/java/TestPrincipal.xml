@@ -1,0 +1,1 @@
+org.springframework.web.socket.handler java.security.Principal import class org.springframework.web.socket.handler.TestPrincipal super super implements String public public return TestPrincipal public public if == return if ! instanceof return decl_stmt org.springframework.messaging.simp.TestPrincipal = return public public return

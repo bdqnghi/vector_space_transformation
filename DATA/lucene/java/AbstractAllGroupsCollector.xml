@@ -1,0 +1,1 @@
+org.apache.lucene.search.grouping java.io.IOException import java.util.Collection import org.apache.lucene.search.Scorer import org.apache.lucene.search.SimpleCollector import org.apache.lucene.util.BytesRef import class super super extends public public return public public throws public public return

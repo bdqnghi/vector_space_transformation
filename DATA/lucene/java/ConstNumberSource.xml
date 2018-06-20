@@ -1,0 +1,1 @@
+org.apache.lucene.queries.function.valuesource org.apache.lucene.queries.function.ValueSource import class org.apache.lucene.queries.function.valuesource.ConstNumberSource super super extends

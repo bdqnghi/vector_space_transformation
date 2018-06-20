@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Path System.Collections.Generic using System.IO using Lucene.Net.Analysis.Util using Lucene.Net.Util using class Lucene.Net.Analysis.Path.PathHierarchyTokenizerFactory super super TokenizerFactory int char bool char public override public override if return new return new

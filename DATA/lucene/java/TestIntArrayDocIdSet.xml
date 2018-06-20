@@ -1,0 +1,1 @@
+org.apache.lucene.util java.io.IOException import java.util.BitSet import org.apache.lucene.search.DocIdSetIterator import class org.apache.lucene.util.TestIntArrayDocIdSet super super extends decl int int public public throws decl_stmt int = new decl_stmt int = for = != - = + = + ++ = = + = return new

@@ -1,0 +1,1 @@
+org.apache.log4j.rewrite org.apache.log4j.spi.LoggingEvent import interface org.apache.log4j.rewrite.RewritePolicy

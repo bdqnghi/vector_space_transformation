@@ -1,0 +1,1 @@
+Spring.AopQuickStart.Aspects System using System.Reflection using Spring.Aop using class Spring.AopQuickStart.Aspects.ConsoleLoggingBeforeAdvice super super IMethodBeforeAdvice public public + + if != foreach in +

@@ -1,0 +1,1 @@
+org.springframework.messaging.support org.springframework.messaging.Message import org.springframework.messaging.MessageChannel import interface org.springframework.messaging.support.ChannelInterceptor

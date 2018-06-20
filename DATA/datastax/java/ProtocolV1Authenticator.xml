@@ -1,0 +1,1 @@
+com.datastax.driver.core java.util.Map import class com.datastax.driver.core.ProtocolV1Authenticator

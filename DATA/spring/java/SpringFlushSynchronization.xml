@@ -1,0 +1,1 @@
+org.springframework.orm.hibernate4 org.hibernate.HibernateException import org.hibernate.Session import org.springframework.transaction.support.TransactionSynchronizationAdapter import class org.springframework.orm.hibernate4.SpringFlushSynchronization super super extends Session public public try catch throw public public return instanceof && == public public return

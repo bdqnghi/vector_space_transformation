@@ -1,0 +1,1 @@
+Spring.DataQuickStart.Dao.Template System.Collections using System.Data using Spring.Data.Core using class Spring.DataQuickStart.Dao.Template.RowMapperDao super super AdoDaoSupport string public virtual public virtual return new

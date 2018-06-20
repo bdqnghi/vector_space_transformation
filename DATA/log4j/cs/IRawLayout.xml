@@ -1,0 +1,1 @@
+log4net.Layout System using log4net using log4net.Core using log4net.Util.TypeConverters using interface attribute log4net.Layout.IRawLayout

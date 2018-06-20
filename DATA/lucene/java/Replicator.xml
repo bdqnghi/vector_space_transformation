@@ -1,0 +1,1 @@
+org.apache.lucene.replicator java.io.Closeable import java.io.IOException import java.io.InputStream import interface org.apache.lucene.replicator.Replicator super super extends

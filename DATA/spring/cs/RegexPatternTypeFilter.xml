@@ -1,0 +1,1 @@
+Spring.Context.Attributes.TypeFilters System using System.Text.RegularExpressions using class Spring.Context.Attributes.TypeFilters.RegexPatternTypeFilter super super ITypeFilter string public public return public override public override return

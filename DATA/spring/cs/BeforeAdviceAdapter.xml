@@ -1,0 +1,1 @@
+Spring.Aop.Framework.Adapter System using AopAlliance.Aop using AopAlliance.Intercept using class attribute Spring.Aop.Framework.Adapter.BeforeAdviceAdapter super super IAdvisorAdapter public virtual public virtual return is IMethodBeforeAdvice public virtual public virtual decl_stmt Spring.Aop.IMethodBeforeAdvice = return new

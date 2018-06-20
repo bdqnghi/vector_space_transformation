@@ -1,0 +1,1 @@
+org.apache.lucene.search org.apache.lucene.util.PriorityQueue import class org.apache.lucene.search.HitQueue super super extends protected protected return new protected final protected final if == return > else return <

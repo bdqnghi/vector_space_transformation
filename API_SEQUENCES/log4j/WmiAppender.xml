@@ -1,0 +1,1 @@
+log4net.Appender.WmiLayout.Format(LoggingEvent) log4net.Appender.WmiLayout.Format(LoggingEvent) log4net.Appender.WmiLayout.Format(LoggingEvent) log4net.Appender.WmiLayout.Format(LoggingEvent) log4net.Appender.WmiLayout.Format(LoggingEvent) IEvent.Fire() IEvent.Fire() IEvent.Fire() IEvent.Fire() IEvent.Fire()

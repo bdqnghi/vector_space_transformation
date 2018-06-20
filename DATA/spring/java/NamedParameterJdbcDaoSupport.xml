@@ -1,0 +1,1 @@
+org.springframework.jdbc.core.namedparam org.springframework.jdbc.core.support.JdbcDaoSupport import class org.springframework.jdbc.core.namedparam.NamedParameterJdbcDaoSupport super super extends NamedParameterJdbcTemplate protected protected = new public public return

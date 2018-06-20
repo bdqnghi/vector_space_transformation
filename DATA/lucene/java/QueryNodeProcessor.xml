@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.flexible.core.processors org.apache.lucene.queryparser.flexible.core.QueryNodeException import org.apache.lucene.queryparser.flexible.core.config.QueryConfigHandler import org.apache.lucene.queryparser.flexible.core.nodes.QueryNode import interface org.apache.lucene.queryparser.flexible.core.processors.QueryNodeProcessor

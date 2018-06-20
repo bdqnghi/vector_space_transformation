@@ -1,0 +1,1 @@
+Spring.Messaging.Nms.Listener Apache.NMS using Spring.Messaging.Nms.Connections using class Spring.Messaging.Nms.Listener.LocallyExposedNmsResourceHolder super super NmsResourceHolder

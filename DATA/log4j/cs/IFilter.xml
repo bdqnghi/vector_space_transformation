@@ -1,0 +1,1 @@
+log4net.Filter System using log4net.Core using interface log4net.Filter.IFilter super super IOptionHandler

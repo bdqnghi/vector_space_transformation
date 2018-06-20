@@ -1,0 +1,1 @@
+org.springframework.context.event.test java.util.UUID import class org.springframework.context.event.test.AbstractIdentifiable super super implements String public public return AbstractIdentifiable public public if == return if == || != return decl_stmt org.springframework.context.event.test.AbstractIdentifiable = return public public return

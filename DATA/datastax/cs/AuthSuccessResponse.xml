@@ -1,0 +1,1 @@
+Cassandra.Responses class Cassandra.Responses.AuthSuccessResponse super super Response decl byte byte internal static internal static return new

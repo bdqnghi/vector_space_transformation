@@ -1,0 +1,1 @@
+org.springframework.beans.factory.support org.springframework.beans.factory.BeanDefinitionStoreException import org.springframework.core.io.Resource import org.springframework.core.io.ResourceLoader import interface org.springframework.beans.factory.support.BeanDefinitionReader

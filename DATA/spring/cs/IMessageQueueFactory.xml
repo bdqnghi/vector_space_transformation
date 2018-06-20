@@ -1,0 +1,1 @@
+Spring.Messaging.Core System.Messaging using Spring.Messaging.Support using Spring.Messaging.Support.Converters using interface Spring.Messaging.Core.IMessageQueueFactory

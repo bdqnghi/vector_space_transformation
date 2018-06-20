@@ -1,0 +1,1 @@
+org.springframework.beans.factory.aspectj java.io.Serializable import org.springframework.beans.factory.annotation.Configurable import class annotation annotation org.springframework.beans.factory.aspectj.ShouldBeConfiguredBySpring super super implements String public public = public public return

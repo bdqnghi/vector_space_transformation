@@ -1,0 +1,1 @@
+org.springframework.jdbc.core.namedparam java.util.ArrayList import java.util.List import class org.springframework.jdbc.core.namedparam.ParsedSql decl List decl List int int String int return new < < return return = return = return = return public public return

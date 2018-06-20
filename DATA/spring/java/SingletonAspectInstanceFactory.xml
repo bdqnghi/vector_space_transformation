@@ -1,0 +1,1 @@
+org.springframework.aop.aspectj java.io.Serializable import org.springframework.core.Ordered import org.springframework.util.Assert import class annotation org.springframework.aop.aspectj.SingletonAspectInstanceFactory super super implements Object public final public final return public public return public public if instanceof return return protected protected < return

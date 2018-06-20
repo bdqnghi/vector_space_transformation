@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Standard System.Collections.Generic using System.IO using Lucene.Net.Analysis.Util using Lucene.Net.Util using class Lucene.Net.Analysis.Standard.StandardTokenizerFactory super super TokenizerFactory int var public override public override decl_stmt var = new = return

@@ -1,0 +1,1 @@
+org.apache.solr.util org.locationtech.spatial4j.distance.DistanceUtils import org.apache.lucene.util.LuceneTestCase import class org.apache.solr.util.DistanceUnitsTest super super extends public public throws *

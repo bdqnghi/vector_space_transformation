@@ -1,0 +1,1 @@
+org.apache.lucene.index java.lang.reflect.Method import java.lang.reflect.Modifier import org.apache.lucene.util.LuceneTestCase import class org.apache.lucene.index.TestMergePolicyWrapper super super extends public public throws for : if continue try catch + +

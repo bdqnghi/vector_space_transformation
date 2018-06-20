@@ -1,0 +1,1 @@
+example.scannable_scoped org.springframework.beans.factory.config.BeanDefinition import org.springframework.stereotype.Component import class annotation annotation example.scannable_scoped.CustomScopeAnnotationBean

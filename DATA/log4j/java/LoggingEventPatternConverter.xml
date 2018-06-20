@@ -1,0 +1,1 @@
+org.apache.log4j.pattern org.apache.log4j.spi.LoggingEvent import class org.apache.log4j.pattern.LoggingEventPatternConverter super super extends public public final final final final if instanceof public public return

@@ -1,0 +1,1 @@
+Spring.Data System using System.Runtime.Serialization using Spring.Dao using class attribute Spring.Data.CannotGetAdoConnectionException super super InvalidDataAccessResourceUsageException

@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj org.apache.solr.util.AbstractSolrTestCase import org.junit.BeforeClass import class org.apache.solr.client.solrj.SolrExampleTestBase super super extends public public return public static public static throws public public throws public public throws

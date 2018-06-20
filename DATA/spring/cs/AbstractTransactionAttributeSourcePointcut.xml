@@ -1,0 +1,1 @@
+Spring.Transaction.Interceptor System using System.Reflection using Spring.Aop.Support using class Spring.Transaction.Interceptor.AbstractTransactionAttributeSourcePointcut super super StaticMethodMatcherPointcut ITransactionAttributeSource public override public override decl_stmt Spring.Transaction.Interceptor.ITransactionAttributeSource = return == || !=

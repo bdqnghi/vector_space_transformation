@@ -1,0 +1,1 @@
+org.apache.log4j.helpers java.util.Hashtable import class org.apache.log4j.helpers.ThreadLocalMap super super extends Hashtable public final public final decl_stmt java.util.Hashtable = if != return call java.util.Hashtable.clone() call java.util.Hashtable.clone() call java.util.Hashtable.clone() call java.util.Hashtable.clone() call java.util.Hashtable.clone() else return

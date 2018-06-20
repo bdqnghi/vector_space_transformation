@@ -1,0 +1,1 @@
+Spring.Data.NHibernate.Generic System using System.Collections.Generic using NHibernate using NHibernate.Type using Spring.Dao using interface Spring.Data.NHibernate.Generic.IHibernateOperations super super ICommonHibernateOperations

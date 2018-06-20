@@ -1,0 +1,1 @@
+org.springframework.remoting.jaxws javax.jws.WebService import javax.xml.ws.Endpoint import javax.xml.ws.WebServiceProvider import class org.springframework.remoting.jaxws.SimpleJaxWsServiceExporter super super extends String String public public = protected protected protected protected String protected protected decl_stmt java.lang.String = + if = + return

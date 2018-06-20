@@ -1,0 +1,1 @@
+NetMQ.Tests.InProcActors.Echo System using NetMQ.Sockets using class NetMQ.Tests.InProcActors.Echo.EchoShimHandler super super IShimHandler NetMQMessage string public public while try decl_stmt NetMQMessage = decl_stmt string = if == break if == else catch

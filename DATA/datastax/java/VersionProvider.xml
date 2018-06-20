@@ -1,0 +1,1 @@
+com.datastax.driver.osgi com.jcabi.manifests.Manifests import java.util.regex.Matcher import java.util.regex.Pattern import class com.datastax.driver.osgi.VersionProvider String Pattern public static public static return

@@ -1,0 +1,1 @@
+org.springframework.jmx.export javax.management.ObjectName import interface org.springframework.jmx.export.MBeanExportOperations

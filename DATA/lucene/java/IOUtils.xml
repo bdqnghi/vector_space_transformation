@@ -1,0 +1,1 @@
+org.apache.solr.common.util java.io.Closeable import java.lang.invoke.MethodHandles import org.slf4j.Logger import org.slf4j.LoggerFactory import class org.apache.solr.common.util.IOUtils Logger public static public static try if != catch call Logger.error() call Logger.error() call Logger.error() call Logger.error() call Logger.error()

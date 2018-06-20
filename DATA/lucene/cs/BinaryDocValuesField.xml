@@ -1,0 +1,1 @@
+Lucene.Net.Documents System using Lucene.Net.Index using Lucene.Net.Util using class Lucene.Net.Documents.BinaryDocValuesField super super Field FieldType

@@ -1,0 +1,1 @@
+org.springframework.remoting.soap javax.xml.namespace.QName import org.springframework.remoting.RemoteInvocationFailureException import class annotation org.springframework.remoting.soap.SoapFaultException super super extends

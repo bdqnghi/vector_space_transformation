@@ -1,0 +1,1 @@
+Spring.Data.Objects.Generic System.Collections using System.Data using Spring.Data.Common using Spring.Data.Generic using class Spring.Data.Objects.Generic.MappingAdoQueryWithContext super super AdoQuery protected override < protected override < protected override < < return new < public public return <

@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.annotation org.junit.Test import org.springframework.test.context.ContextConfiguration import static static org.junit.Assert.* import class annotation org.springframework.test.context.junit4.annotation.BeanOverridingExplicitConfigClassesInheritedTests super super extends public public

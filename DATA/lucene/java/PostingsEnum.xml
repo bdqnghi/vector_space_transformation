@@ -1,0 +1,1 @@
+org.apache.lucene.index java.io.IOException import org.apache.lucene.search.DocIdSetIterator import org.apache.lucene.util.AttributeSource import org.apache.lucene.util.BytesRef import class org.apache.lucene.index.PostingsEnum super super extends short AttributeSource short short short short short public static public static return & == public public if == = new return

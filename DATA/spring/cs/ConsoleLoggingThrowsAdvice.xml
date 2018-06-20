@@ -1,0 +1,1 @@
+Spring.AopQuickStart.Aspects System using System.Reflection using Spring.Aop using class Spring.AopQuickStart.Aspects.ConsoleLoggingThrowsAdvice super super IThrowsAdvice public public

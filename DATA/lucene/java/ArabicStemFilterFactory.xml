@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.ar java.util.Map import org.apache.lucene.analysis.TokenStream import org.apache.lucene.analysis.ar.ArabicStemFilter import org.apache.lucene.analysis.util.TokenFilterFactory import class org.apache.lucene.analysis.ar.ArabicStemFilterFactory super super extends public public return new

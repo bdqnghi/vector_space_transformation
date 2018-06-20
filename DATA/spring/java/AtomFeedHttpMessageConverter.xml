@@ -1,0 +1,1 @@
+org.springframework.http.converter.feed com.rometools.rome.feed.atom.Feed import org.springframework.http.MediaType import class org.springframework.http.converter.feed.AtomFeedHttpMessageConverter super super extends protected protected < return

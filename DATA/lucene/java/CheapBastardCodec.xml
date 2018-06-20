@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.cheapbastard org.apache.lucene.codecs.FilterCodec import org.apache.lucene.codecs.PostingsFormat import org.apache.lucene.util.TestUtil import class org.apache.lucene.codecs.cheapbastard.CheapBastardCodec super super extends PostingsFormat public public return

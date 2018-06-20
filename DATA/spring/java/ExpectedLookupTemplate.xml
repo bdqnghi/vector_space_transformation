@@ -1,0 +1,1 @@
+org.springframework.tests.mock.jndi java.util.Map import java.util.concurrent.ConcurrentHashMap import javax.naming.NamingException import org.springframework.jndi.JndiTemplate import class org.springframework.tests.mock.jndi.ExpectedLookupTemplate super super extends decl Map public public Object public public throws decl_stmt java.lang.Object = if == throw new + + + return

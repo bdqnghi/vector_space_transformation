@@ -1,0 +1,1 @@
+org.springframework.beans java.beans.PropertyEditorSupport import java.util.Properties import org.springframework.beans.propertyeditors.PropertiesEditor import class org.springframework.beans.PropertyValuesEditor super super extends PropertiesEditor Properties public public throws decl_stmt java.util.Properties = new

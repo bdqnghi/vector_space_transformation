@@ -1,0 +1,1 @@
+org.springframework.jms.core class org.springframework.jms.core.JmsTemplateJtaTests super super extends protected protected return protected protected return

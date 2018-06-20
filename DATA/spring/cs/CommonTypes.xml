@@ -1,0 +1,1 @@
+Spring.Transaction System.Data using Spring.Transaction.Support using class Spring.Transaction.MockTxnDefinition super super ITransactionDefinition int TransactionPropagation bool decl System string return = return = return return = return return =

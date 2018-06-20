@@ -1,0 +1,1 @@
+Spring.Data System using System.Runtime.Serialization using Spring.Dao using class attribute Spring.Data.UncategorizedAdoException super super UncategorizedDataAccessException super ISerializable string string return return public override public override

@@ -1,0 +1,1 @@
+FactualDriver.Exceptions System using System.Net using System.Runtime.Serialization using class attribute FactualDriver.Exceptions.FactualApiException super super Exception public override public override

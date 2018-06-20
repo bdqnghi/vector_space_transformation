@@ -1,0 +1,1 @@
+test.mixin org.aopalliance.intercept.MethodInvocation import org.springframework.aop.support.DelegatingIntroductionInterceptor import class annotation test.mixin.LockMixin super super extends super implements boolean public public = public public = public public return public public throws if && == throw new return

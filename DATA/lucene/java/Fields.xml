@@ -1,0 +1,1 @@
+org.apache.lucene.index java.io.IOException import java.util.Iterator import class org.apache.lucene.index.Fields super super implements decl Fields

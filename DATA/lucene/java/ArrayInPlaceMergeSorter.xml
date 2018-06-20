@@ -1,0 +1,1 @@
+org.apache.lucene.util java.util.Comparator import class super super extends decl T decl Comparator protected protected return call decl Comparator.compare() call decl Comparator.compare() call decl Comparator.compare() call decl Comparator.compare() call decl Comparator.compare() protected protected

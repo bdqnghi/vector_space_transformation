@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Payloads Lucene.Net.Analysis.Tokenattributes using Lucene.Net.Index using class Lucene.Net.Analysis.Payloads.TokenOffsetPayloadTokenFilter super super TokenFilter IPayloadAttribute IOffsetAttribute decl byte Payload public sealed override public sealed override if decl_stmt byte = new decl_stmt Lucene.Net.Index.Payload = new = return else return

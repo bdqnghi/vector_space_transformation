@@ -1,0 +1,1 @@
+Spring.Data.NHibernate System using NHibernate using NHibernate.Context using NHibernate.Engine using class Spring.Data.NHibernate.SpringSessionContext super super ICurrentSessionContext ISessionFactoryImplementor public public try return catch throw new

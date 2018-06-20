@@ -1,0 +1,1 @@
+Lucene.Net.Index Lucene.Net.Search.Similarities using System.IO using Lucene.Net.Analysis.Analyzer Lucene.Net.Util.BytesRef Lucene.Net.Analysis.TokenStream interface Lucene.Net.Index.IndexableField

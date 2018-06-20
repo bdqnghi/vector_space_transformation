@@ -1,0 +1,1 @@
+org.apache.solr.analysis org.apache.solr.SolrTestCaseJ4 import org.junit.BeforeClass import class org.apache.solr.analysis.TestCharFilters super super extends public static public static throws public public public public

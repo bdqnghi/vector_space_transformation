@@ -1,0 +1,1 @@
+org.apache.solr.search org.apache.lucene.search.IndexSearcher import org.apache.lucene.search.TopDocsCollector import org.apache.lucene.search.Query import org.apache.solr.handler.component.MergeStrategy import java.io.IOException import class org.apache.solr.search.RankQuery super super extends

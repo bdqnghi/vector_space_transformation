@@ -1,0 +1,1 @@
+log4net.Layout.Pattern System using System.Text using System.IO using System.Collections using log4net.Core using log4net.Repository using class log4net.Layout.Pattern.PropertyPatternConverter super super PatternLayoutConverter override protected override protected if != else

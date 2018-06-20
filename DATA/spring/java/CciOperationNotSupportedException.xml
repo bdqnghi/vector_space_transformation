@@ -1,0 +1,1 @@
+org.springframework.jca.cci javax.resource.ResourceException import org.springframework.dao.InvalidDataAccessResourceUsageException import class annotation org.springframework.jca.cci.CciOperationNotSupportedException super super extends

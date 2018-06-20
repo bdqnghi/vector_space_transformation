@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.profile.xml org.junit.Test import org.springframework.test.context.ActiveProfiles import static static org.junit.Assert.* import class annotation org.springframework.test.context.junit4.profile.xml.DevProfileXmlConfigTests super super extends public public

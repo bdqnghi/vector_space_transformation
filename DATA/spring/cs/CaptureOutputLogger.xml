@@ -1,0 +1,1 @@
+Spring.Aspects.Exceptions Common.Logging using Common.Logging.Simple using class Spring.Aspects.Exceptions.CaptureOutputLogger super super TraceLogger string

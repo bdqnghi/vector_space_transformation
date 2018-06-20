@@ -1,0 +1,1 @@
+Lucene.Net.Codecs System using Lucene.Net.Index.BinaryDocValues Lucene.Net.Util.Bits Lucene.Net.Index.FieldInfo Lucene.Net.Index.NumericDocValues Lucene.Net.Index.SortedDocValues Lucene.Net.Index.SortedSetDocValues class Lucene.Net.Codecs.DocValuesProducer super super IDisposable public virtual public virtual

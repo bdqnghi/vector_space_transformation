@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.ext org.apache.lucene.index.Term import org.apache.lucene.queryparser.classic.ParseException import org.apache.lucene.search.Query import org.apache.lucene.search.TermQuery import class org.apache.lucene.queryparser.ext.ExtensionStub super super extends public public throws return new new

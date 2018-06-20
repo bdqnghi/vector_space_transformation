@@ -1,0 +1,1 @@
+Lucene.Net.Search.Highlight System using Lucene.Net.Analysis using Lucene.Net.Analysis.Tokenattributes using class Lucene.Net.Search.Highlight.SimpleFragmenter super super IFragmenter int int IOffsetAttribute int public public = < = bool public public decl_stmt bool = >= * if ++ return return =

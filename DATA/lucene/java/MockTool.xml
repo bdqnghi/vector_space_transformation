@@ -1,0 +1,1 @@
+org.apache.solr.velocity org.apache.solr.core.SolrCore import org.apache.velocity.tools.generic.LocaleConfig import class org.apache.solr.velocity.MockTool super super extends SolrCore public public return + + public public return

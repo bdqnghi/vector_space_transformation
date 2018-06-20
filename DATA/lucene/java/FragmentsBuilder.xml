@@ -1,0 +1,1 @@
+org.apache.lucene.search.vectorhighlight java.io.IOException import org.apache.lucene.index.IndexReader import org.apache.lucene.search.highlight.Encoder import interface org.apache.lucene.search.vectorhighlight.FragmentsBuilder

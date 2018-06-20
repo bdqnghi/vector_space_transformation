@@ -1,0 +1,1 @@
+Spring.NmsQuickStart.Client.Gateways Apache.NMS using Spring.Messaging.Nms.Core using class Spring.NmsQuickStart.Client.Gateways.RequestReplyNmsTemplate super super NmsTemplate ITemporaryQueue public public return decl_stmt ITemporaryQueue = try = = return return finally if !=

@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.payloads org.apache.lucene.util.ArrayUtil import org.apache.lucene.util.BytesRef import class org.apache.lucene.analysis.payloads.IntegerEncoder super super extends super implements decl byte int BytesRef public public decl_stmt int = decl_stmt byte = decl_stmt org.apache.lucene.util.BytesRef = new return

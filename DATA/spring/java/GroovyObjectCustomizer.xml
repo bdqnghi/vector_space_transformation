@@ -1,0 +1,1 @@
+org.springframework.scripting.groovy groovy.lang.GroovyObject import interface org.springframework.scripting.groovy.GroovyObjectCustomizer

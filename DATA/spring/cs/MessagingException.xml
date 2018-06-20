@@ -1,0 +1,1 @@
+Spring.Messaging System using System.Runtime.Serialization using class attribute Spring.Messaging.MessagingException super super ApplicationException

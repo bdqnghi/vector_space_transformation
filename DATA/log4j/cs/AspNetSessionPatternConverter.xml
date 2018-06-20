@@ -1,0 +1,1 @@
+log4net.Layout.Pattern System.IO using System.Web using log4net.Core using log4net.Util using class log4net.Layout.Pattern.AspNetSessionPatternConverter super super AspNetPatternLayoutConverter protected override protected override if != if != else else

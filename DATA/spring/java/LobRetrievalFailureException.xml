@@ -1,0 +1,1 @@
+org.springframework.jdbc java.io.IOException import org.springframework.dao.DataRetrievalFailureException import class annotation org.springframework.jdbc.LobRetrievalFailureException super super extends

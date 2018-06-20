@@ -1,0 +1,1 @@
+org.springframework.scripting.support org.junit.Test import org.springframework.beans.factory.BeanFactory import static static org.mockito.Mockito.* import class org.springframework.scripting.support.RefreshableScriptTargetSourceTests = public = public throws new

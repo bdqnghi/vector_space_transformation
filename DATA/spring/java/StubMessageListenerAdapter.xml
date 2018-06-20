@@ -1,0 +1,1 @@
+org.springframework.jms.listener.adapter class org.springframework.jms.listener.adapter.StubMessageListenerAdapter super super extends boolean public public return public public = protected protected

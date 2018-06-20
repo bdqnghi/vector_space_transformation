@@ -1,0 +1,1 @@
+Spring.Messaging.Nms.Support.Destinations Spring.Util using Apache.NMS using class Spring.Messaging.Nms.Support.Destinations.DynamicDestinationResolver super super IDestinationResolver public public if return else return protected internal virtual protected internal virtual return protected internal virtual protected internal virtual return

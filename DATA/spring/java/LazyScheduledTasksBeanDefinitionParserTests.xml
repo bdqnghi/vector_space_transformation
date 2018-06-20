@@ -1,0 +1,1 @@
+org.springframework.scheduling.config org.junit.Test import org.springframework.context.support.GenericXmlApplicationContext import class org.springframework.scheduling.config.LazyScheduledTasksBeanDefinitionParserTests Task = public = public decl_stmt org.springframework.scheduling.config.Task = new while ! try catch public public =

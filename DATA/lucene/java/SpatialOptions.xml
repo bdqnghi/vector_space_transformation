@@ -1,0 +1,1 @@
+org.apache.solr.search org.apache.solr.schema.SchemaField import class org.apache.solr.search.SpatialOptions double String SchemaField double boolean String

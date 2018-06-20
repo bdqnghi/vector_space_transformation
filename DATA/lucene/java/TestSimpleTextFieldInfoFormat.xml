@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.simpletext org.apache.lucene.codecs.Codec import org.apache.lucene.index.BaseFieldInfoFormatTestCase import class org.apache.lucene.codecs.simpletext.TestSimpleTextFieldInfoFormat super super extends Codec protected protected return

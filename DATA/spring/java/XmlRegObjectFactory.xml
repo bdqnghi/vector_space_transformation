@@ -1,0 +1,1 @@
+org.springframework.oxm.jaxb javax.xml.bind.JAXBElement import javax.xml.bind.annotation.XmlElementDecl import javax.xml.bind.annotation.XmlRegistry import javax.xml.namespace.QName import class annotation org.springframework.oxm.jaxb.XmlRegObjectFactory = public < = public < return new < new

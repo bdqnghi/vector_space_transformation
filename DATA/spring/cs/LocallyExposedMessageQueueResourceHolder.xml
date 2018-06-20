@@ -1,0 +1,1 @@
+Spring.Messaging.Core System.Messaging using class Spring.Messaging.Core.LocallyExposedMessageQueueResourceHolder super super MessageQueueResourceHolder

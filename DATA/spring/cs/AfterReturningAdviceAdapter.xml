@@ -1,0 +1,1 @@
+Spring.Aop.Framework.Adapter System using AopAlliance.Aop using AopAlliance.Intercept using class attribute Spring.Aop.Framework.Adapter.AfterReturningAdviceAdapter super super IAdvisorAdapter public virtual public virtual return is IAfterReturningAdvice public virtual public virtual decl_stmt Spring.Aop.IAfterReturningAdvice = return new

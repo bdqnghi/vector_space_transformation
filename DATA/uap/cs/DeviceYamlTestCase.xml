@@ -1,0 +1,1 @@
+UAParser.Tests System using System.Collections.Generic using System.Linq using System.Text using Xunit using class UAParser.Tests.DeviceYamlTestCase super super YamlTestCase DeviceYamlTestCase public static public static < decl_stmt UAParser.Tests.DeviceYamlTestCase = new = = return public override public override

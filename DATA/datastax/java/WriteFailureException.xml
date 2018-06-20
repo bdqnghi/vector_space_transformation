@@ -1,0 +1,1 @@
+com.datastax.driver.core.exceptions com.datastax.driver.core.ConsistencyLevel import com.datastax.driver.core.WriteType import java.net.InetSocketAddress import class annotation com.datastax.driver.core.exceptions.WriteFailureException super super extends int WriteType public public return public public return public public return new public public return new

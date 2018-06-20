@@ -1,0 +1,1 @@
+org.apache.solr.highlight org.apache.lucene.search.highlight.Encoder import org.apache.lucene.search.highlight.SimpleHTMLEncoder import org.apache.solr.common.params.SolrParams import class org.apache.solr.highlight.HtmlEncoder super super extends super implements public public return new public public return

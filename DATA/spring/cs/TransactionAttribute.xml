@@ -1,0 +1,1 @@
+Spring.Transaction.Interceptor System using System.Data using Spring.Transaction.Support using class attribute attribute Spring.Transaction.Interceptor.TransactionAttribute super super Attribute decl Type TransactionPropagation bool decl Type decl System int IsolationLevel return return return = return = return = return = return =

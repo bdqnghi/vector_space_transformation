@@ -1,0 +1,1 @@
+com.datastax.driver.core java.util.Collections import class com.datastax.driver.core.CoreHooks UserType

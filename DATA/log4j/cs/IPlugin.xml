@@ -1,0 +1,1 @@
+log4net.Plugin log4net.Repository using interface log4net.Plugin.IPlugin

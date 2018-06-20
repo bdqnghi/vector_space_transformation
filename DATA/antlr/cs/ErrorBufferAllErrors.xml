@@ -1,0 +1,1 @@
+Antlr4.Test.StringTemplate Antlr4.StringTemplate using Microsoft.VisualStudio.TestTools.UnitTesting using Antlr4.StringTemplate.Misc using class Antlr4.Test.StringTemplate.ErrorBufferAllErrors super super ErrorBuffer public override public override

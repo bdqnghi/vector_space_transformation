@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.tokenattributes org.apache.lucene.util.Attribute import org.apache.lucene.util.BytesRef import interface org.apache.lucene.analysis.tokenattributes.PayloadAttribute super super extends

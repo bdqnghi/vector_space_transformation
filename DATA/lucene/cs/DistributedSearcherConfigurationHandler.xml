@@ -1,0 +1,1 @@
+Lucene.Net.Distributed.Configuration System using System.Configuration using System.Xml using class Lucene.Net.Distributed.Configuration.DistributedSearcherConfigurationHandler super super IConfigurationSectionHandler DistributedSearchers public public decl_stmt Lucene.Net.Distributed.Configuration.DistributedSearchers = new return

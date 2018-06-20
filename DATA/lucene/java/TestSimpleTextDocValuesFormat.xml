@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.simpletext org.apache.lucene.codecs.Codec import org.apache.lucene.index.BaseDocValuesFormatTestCase import class org.apache.lucene.codecs.simpletext.TestSimpleTextDocValuesFormat super super extends Codec protected protected return

@@ -1,0 +1,1 @@
+Lucene.Net.Spatial.Util System.Collections.Generic using Spatial4n.Core.Shapes using class int decl IList public public decl_stmt System.Collections.Generic.IList < = if == = = new < call decl IList.Add() call decl IList.Add() call decl IList.Add() call decl IList.Add() call decl IList.Add() public < public < return

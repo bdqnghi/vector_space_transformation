@@ -1,0 +1,1 @@
+Cassandra.Mapping System.Threading.Tasks using interface Cassandra.Mapping.IMapper super super ICqlQueryAsyncClient super ICqlWriteAsyncClient super ICqlQueryClient super ICqlWriteClient

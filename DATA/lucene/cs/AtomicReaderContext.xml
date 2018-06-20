@@ -1,0 +1,1 @@
+Lucene.Net.Index System.Collections.Generic using System.Diagnostics using class Lucene.Net.Index.AtomicReaderContext super super IndexReaderContext int decl IList int AtomicReader if ! throw new != return return return return

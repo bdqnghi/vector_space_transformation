@@ -1,0 +1,1 @@
+org.apache.lucene.search java.io.IOException import org.apache.lucene.index.IndexReader import class org.apache.lucene.search.Query public final public final return public public throws throw new + + public public throws return public public return public public if == return return ==

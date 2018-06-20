@@ -1,0 +1,1 @@
+log4net.Tests.Appender.AdoNet System using System.Data using class log4net.Tests.Appender.AdoNet.Log4NetConnection super super IDbConnection string bool Log4NetConnection public public = return : return = public public return new public public return new public public = return public public throw new public public throw new throw new throw new public public throw new

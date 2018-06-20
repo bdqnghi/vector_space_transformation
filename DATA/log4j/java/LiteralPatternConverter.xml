@@ -1,0 +1,1 @@
+org.apache.log4j.pattern org.apache.log4j.spi.LoggingEvent import class org.apache.log4j.pattern.LiteralPatternConverter super super extends String public public final final final final public public final final final final

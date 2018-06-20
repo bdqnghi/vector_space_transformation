@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.orm.repository org.springframework.test.context.junit4.orm.domain.Person import interface org.springframework.test.context.junit4.orm.repository.PersonRepository

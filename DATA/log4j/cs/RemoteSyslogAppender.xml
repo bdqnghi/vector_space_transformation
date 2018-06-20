@@ -1,0 +1,1 @@
+log4net.Appender System using log4net.Core using log4net.Appender using log4net.Util using log4net.Layout using System.Text using class log4net.Appender.RemoteSyslogAppender super super UdpAppender PatternLayout int int LevelMapping int return = return = return =

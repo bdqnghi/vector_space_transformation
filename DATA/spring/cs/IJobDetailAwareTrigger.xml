@@ -1,0 +1,1 @@
+Spring.Scheduling.Quartz Quartz using interface Spring.Scheduling.Quartz.IJobDetailAwareTrigger

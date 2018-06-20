@@ -1,0 +1,1 @@
+Spring.Aop.Framework.Adapter AopAlliance.Aop using AopAlliance.Intercept using interface Spring.Aop.Framework.Adapter.IAdvisorAdapter

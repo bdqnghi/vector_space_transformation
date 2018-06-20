@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.response org.apache.solr.common.SolrDocumentList import java.io.Serializable import class org.apache.solr.client.solrj.response.Group super super implements SolrDocumentList String public public return public public return

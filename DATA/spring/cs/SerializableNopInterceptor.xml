@@ -1,0 +1,1 @@
+Spring.Aop.Interceptor System using System.Runtime.Serialization using class attribute Spring.Aop.Interceptor.SerializableNopInterceptor super super NopInterceptor super ISerializable public public

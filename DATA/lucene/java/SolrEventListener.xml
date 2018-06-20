@@ -1,0 +1,1 @@
+org.apache.solr.core org.apache.solr.search.SolrIndexSearcher import org.apache.solr.util.plugin.NamedListInitializedPlugin import interface org.apache.solr.core.SolrEventListener super super extends

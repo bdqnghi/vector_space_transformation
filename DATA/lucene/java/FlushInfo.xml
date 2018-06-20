@@ -1,0 +1,1 @@
+org.apache.lucene.store class org.apache.lucene.store.FlushInfo int long int int public public decl_stmt int final final = decl_stmt int = = * + ^ >>> = * + return FlushInfo public public if == return if == return if != return decl_stmt org.apache.lucene.store.FlushInfo = if != return if != return return public public return + + + +

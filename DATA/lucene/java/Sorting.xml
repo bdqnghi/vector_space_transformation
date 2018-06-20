@@ -1,0 +1,1 @@
+org.apache.solr.search org.apache.lucene.search.* import class org.apache.solr.search.Sorting SortField public static public static decl_stmt org.apache.lucene.search.SortField = new return SortField public static public static decl_stmt org.apache.lucene.search.SortField = new return private static private static if && throw new if && else if && !

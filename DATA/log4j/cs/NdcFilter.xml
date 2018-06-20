@@ -1,0 +1,1 @@
+log4net.Filter System using System.Text.RegularExpressions using log4net using log4net.Core using log4net.Util using class log4net.Filter.NdcFilter super super PropertyFilter

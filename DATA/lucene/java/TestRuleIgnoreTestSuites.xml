@@ -1,0 +1,1 @@
+org.apache.lucene.util org.junit.rules.TestRule import org.junit.runner.Description import org.junit.runners.model.Statement import class org.apache.lucene.util.TestRuleIgnoreTestSuites super super implements String public public final final final final return new public public throws if public public throws if public static public static return

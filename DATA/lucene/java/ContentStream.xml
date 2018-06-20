@@ -1,0 +1,1 @@
+org.apache.solr.common.util java.io.IOException import java.io.InputStream import java.io.Reader import interface org.apache.solr.common.util.ContentStream

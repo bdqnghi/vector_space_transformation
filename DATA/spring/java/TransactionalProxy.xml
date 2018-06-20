@@ -1,0 +1,1 @@
+org.springframework.transaction.interceptor org.springframework.aop.SpringProxy import interface org.springframework.transaction.interceptor.TransactionalProxy super super extends

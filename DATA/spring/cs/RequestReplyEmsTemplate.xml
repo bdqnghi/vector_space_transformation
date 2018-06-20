@@ -1,0 +1,1 @@
+Spring.EmsQuickStart.Client.Gateways Spring.Messaging.Ems.Common using Spring.Messaging.Ems.Core using TIBCO.EMS using class Spring.EmsQuickStart.Client.Gateways.RequestReplyEmsTemplate super super EmsTemplate TemporaryQueue public public return decl_stmt TemporaryQueue = try = = return return finally

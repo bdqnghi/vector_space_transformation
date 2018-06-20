@@ -1,0 +1,1 @@
+Spring.Northwind.Service System using Common.Logging using Spring.Northwind.Domain using class Spring.Northwind.Service.FedExShippingService super super IShippingService ILog public public call ILog.Info() call ILog.Info() call ILog.Info() call ILog.Info() call ILog.Info() +

@@ -1,0 +1,1 @@
+org.apache.log4j.spi java.io.Writer import class org.apache.log4j.spi.NullWriter super super extends public public public public public public

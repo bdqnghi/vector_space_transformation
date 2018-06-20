@@ -1,0 +1,1 @@
+org.apache.lucene.search.spans org.apache.lucene.search.Query import org.apache.lucene.search.CheckHits import class org.apache.lucene.search.spans.TestSpanExplanationsOfNonMatches super super extends public public throws

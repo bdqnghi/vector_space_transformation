@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.De System using System.Collections.Generic using System.Linq using System.Text using class Lucene.Net.Analysis.De.GermanDIN2Stemmer super super GermanStemmer protected override protected override for = < ++ if == switch - case case case break

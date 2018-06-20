@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Tokenattributes System using System.Text using Lucene.Net.Util using interface Lucene.Net.Analysis.Tokenattributes.ICharTermAttribute super super IAttribute super ICloneable

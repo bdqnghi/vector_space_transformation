@@ -1,0 +1,1 @@
+com.foo org.springframework.beans.factory.xml.NamespaceHandlerSupport import class com.foo.ComponentNamespaceHandler super super extends public public new

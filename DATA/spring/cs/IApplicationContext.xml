@@ -1,0 +1,1 @@
+Spring.Context System using Spring.Core.IO using Spring.Objects.Events using Spring.Objects.Factory using Spring.Objects.Factory.Config using interface Spring.Context.IApplicationContext super super IListableObjectFactory super IHierarchicalObjectFactory super IMessageSource super IApplicationEventPublisher super IResourceLoader super IEventRegistry super IDisposable

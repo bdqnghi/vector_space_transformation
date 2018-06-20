@@ -1,0 +1,1 @@
+Spring.NmsQuickStart.Client.Gateways System using Apache.NMS using Spring.Messaging.Nms.Core using Spring.NmsQuickStart.Common.Data using Spring.Objects.Factory using class Spring.NmsQuickStart.Client.Gateways.NmsStockServiceGateway super super NmsGatewaySupport super IStockService IDestination = public public = = new return

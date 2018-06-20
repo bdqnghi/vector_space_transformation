@@ -1,0 +1,1 @@
+org.apache.solr.search.stats org.apache.lucene.search.CollectionStatistics import class org.apache.solr.search.stats.CollectionStats long String long long long public public += if < || < = - else += if < || < = - else += if < || < = - else += public public return new public public return

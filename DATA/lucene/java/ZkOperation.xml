@@ -1,0 +1,1 @@
+org.apache.solr.common.cloud org.apache.zookeeper.KeeperException import class org.apache.solr.common.cloud.ZkOperation

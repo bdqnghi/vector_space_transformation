@@ -1,0 +1,1 @@
+log4net.Layout System using System.Text using log4net.Core using log4net.Util using class log4net.Layout.RawPropertyLayout super super IRawLayout string return = public virtual public virtual return

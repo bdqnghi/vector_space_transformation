@@ -1,0 +1,1 @@
+Spring.DataQuickStart.Dao.Template System.Collections using Spring.Data.Common using Spring.Data.Objects using class Spring.DataQuickStart.Dao.Template.CustOrdersDetailStoredProc super super StoredProcedure string IDictionary public virtual public virtual decl_stmt System.Collections.Generic.IDictionary = return as

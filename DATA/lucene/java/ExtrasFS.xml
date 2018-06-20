@@ -1,0 +1,1 @@
+org.apache.lucene.mockfile java.io.IOException import java.nio.file.FileSystem import java.nio.file.Files import java.nio.file.Path import java.nio.file.attribute.FileAttribute import class org.apache.lucene.mockfile.ExtrasFS super super extends boolean boolean Path public public < throws if try decl_stmt java.nio.file.Path = if else catch

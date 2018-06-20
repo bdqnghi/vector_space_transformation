@@ -1,0 +1,1 @@
+Spring.Core.IO System using System.ComponentModel using System.IO using interface attribute Spring.Core.IO.IResource super super IInputStreamSource

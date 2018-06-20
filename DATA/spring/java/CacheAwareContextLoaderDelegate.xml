@@ -1,0 +1,1 @@
+org.springframework.test.context org.springframework.context.ApplicationContext import org.springframework.context.ConfigurableApplicationContext import org.springframework.test.annotation.DirtiesContext.HierarchyMode import interface org.springframework.test.context.CacheAwareContextLoaderDelegate

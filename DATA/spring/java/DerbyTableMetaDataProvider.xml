@@ -1,0 +1,1 @@
+org.springframework.jdbc.core.metadata java.sql.DatabaseMetaData import java.sql.SQLException import class org.springframework.jdbc.core.metadata.DerbyTableMetaDataProvider super super extends boolean public public throws if ! + + + + = boolean public public decl_stmt boolean = if ! return return

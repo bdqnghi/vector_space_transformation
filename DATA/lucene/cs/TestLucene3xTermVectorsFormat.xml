@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene3x NUnit.Framework using System.Collections.Generic using Lucene.Net.Index.BaseTermVectorsFormatTestCase Lucene.Net.Util.LuceneTestCase class Lucene.Net.Codecs.Lucene3x.TestLucene3xTermVectorsFormat super super BaseTermVectorsFormatTestCase public override public override = return new protected override < protected override < return

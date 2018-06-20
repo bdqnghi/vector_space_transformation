@@ -1,0 +1,1 @@
+org.apache.solr.schema class org.apache.solr.schema.CoordinateFieldType super super extends int int String public public return

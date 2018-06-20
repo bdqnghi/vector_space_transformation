@@ -1,0 +1,1 @@
+Spring.Core System.Reflection using System.Text.RegularExpressions using Spring.Objects.Support using Spring.Util using class Spring.Core.RegularExpressionMethodNameCriteria super super RegularExpressionCriteria string bool MethodInfo public override public override decl_stmt bool = decl_stmt System.Reflection.MethodInfo = as if != = return

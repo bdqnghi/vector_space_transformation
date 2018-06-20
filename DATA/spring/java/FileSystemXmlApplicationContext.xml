@@ -1,0 +1,1 @@
+org.springframework.context.support org.springframework.beans.BeansException import org.springframework.context.ApplicationContext import org.springframework.core.io.FileSystemResource import org.springframework.core.io.Resource import class org.springframework.context.support.FileSystemXmlApplicationContext super super extends protected protected if != && = return new

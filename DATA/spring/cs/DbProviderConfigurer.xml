@@ -1,0 +1,1 @@
+Spring.Data.Common System using Common.Logging using Spring.Core using Spring.Core.IO using Spring.Objects.Factory.Config using class Spring.Data.Common.DbProviderConfigurer super super IObjectFactoryPostProcessor super IOrdered IResource ILog int return = public public = return

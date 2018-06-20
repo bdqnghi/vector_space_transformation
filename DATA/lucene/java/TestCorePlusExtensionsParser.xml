@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.xml org.apache.lucene.analysis.Analyzer import org.apache.lucene.search.Query import class org.apache.lucene.queryparser.xml.TestCorePlusExtensionsParser super super extends protected protected return new Query public public throws decl_stmt org.apache.lucene.search.Query = if

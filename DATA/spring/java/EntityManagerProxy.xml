@@ -1,0 +1,1 @@
+org.springframework.orm.jpa javax.persistence.EntityManager import interface org.springframework.orm.jpa.EntityManagerProxy super super extends

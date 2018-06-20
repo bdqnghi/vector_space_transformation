@@ -1,0 +1,1 @@
+org.apache.log4j.spi interface org.apache.log4j.spi.ErrorCode int int int int int int int

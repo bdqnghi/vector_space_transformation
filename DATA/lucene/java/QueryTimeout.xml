@@ -1,0 +1,1 @@
+org.apache.lucene.index interface org.apache.lucene.index.QueryTimeout public default public default return

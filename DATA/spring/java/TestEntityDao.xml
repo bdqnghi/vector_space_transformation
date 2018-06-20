@@ -1,0 +1,1 @@
+org.springframework.test.context.transaction.ejb.dao interface org.springframework.test.context.transaction.ejb.dao.TestEntityDao

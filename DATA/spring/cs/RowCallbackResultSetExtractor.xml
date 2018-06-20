@@ -1,0 +1,1 @@
+Spring.Data.Support System.Data using Spring.Util using class Spring.Data.Support.RowCallbackResultSetExtractor super super IResultSetExtractor RowCallbackDelegate IRowCallback public public if != while call IRowCallback.ProcessRow() call IRowCallback.ProcessRow() call IRowCallback.ProcessRow() call IRowCallback.ProcessRow() call IRowCallback.ProcessRow() else while return

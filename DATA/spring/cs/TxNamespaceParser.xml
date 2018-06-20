@@ -1,0 +1,1 @@
+Spring.Transaction.Config Spring.Objects.Factory.Xml using class attribute Spring.Transaction.Config.TxNamespaceParser super super NamespaceParserSupport public override public override new new

@@ -1,0 +1,1 @@
+Spring.Web.Conversation System using System.Collections.Generic using NHibernate using Spring.Data.Common using interface Spring.Web.Conversation.IConversationState super

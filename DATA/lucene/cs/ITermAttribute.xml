@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Tokenattributes Lucene.Net.Util using System using interface Lucene.Net.Analysis.Tokenattributes.ITermAttribute super super IAttribute

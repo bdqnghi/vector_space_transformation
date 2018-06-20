@@ -1,0 +1,1 @@
+log4net.Util.TypeConverters System using System.Text using class log4net.Util.TypeConverters.EncodingConverter super super IConvertFrom public public return == typeof string string public public decl_stmt string = as string if != return throw typeof

@@ -1,0 +1,1 @@
+examples.subclass org.apache.log4j.* import examples.customLevel.XLevel import class examples.subclass.MyLogger super super extends String MyLoggerFactory public public + public static public static return public public

@@ -1,0 +1,1 @@
+org.apache.solr.search org.apache.lucene.queryparser.xml.CoreParser import org.apache.lucene.queryparser.xml.TestCoreParser import class org.apache.solr.search.TestXmlQParser super super extends CoreParser protected protected if == = new return

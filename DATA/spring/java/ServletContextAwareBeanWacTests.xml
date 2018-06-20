@@ -1,0 +1,1 @@
+org.springframework.test.context.web org.junit.Test import static static org.springframework.test.context.junit4.JUnitTestingUtils.* import class org.springframework.test.context.web.ServletContextAwareBeanWacTests public public throws

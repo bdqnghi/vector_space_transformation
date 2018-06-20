@@ -1,0 +1,1 @@
+org.springframework.oxm.jaxb javax.activation.DataHandler import javax.xml.bind.annotation.XmlAttachmentRef import javax.xml.bind.annotation.XmlElement import javax.xml.bind.annotation.XmlRootElement import class annotation org.springframework.oxm.jaxb.BinaryObject DataHandler decl byte DataHandler public public return public public return public public return

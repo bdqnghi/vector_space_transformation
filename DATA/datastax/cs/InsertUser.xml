@@ -1,0 +1,1 @@
+Cassandra.Tests.Mapping.Pocos System using System.Collections.Generic using Cassandra.Mapping using Cassandra.Mapping.Attributes using class attribute Cassandra.Tests.Mapping.Pocos.InsertUser

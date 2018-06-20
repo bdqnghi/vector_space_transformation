@@ -1,0 +1,1 @@
+org.apache.lucene.util java.net.URL import java.net.URLClassLoader import class org.apache.lucene.util.TestSPIClassIterator super super extends ClassLoader ClassLoader public public throws decl_stmt java.lang.ClassLoader final final = decl_stmt java.lang.ClassLoader final final = new private private throws return

@@ -1,0 +1,1 @@
+Spring.Data.Support System.Data using Spring.Transaction.Support using class Spring.Data.Support.ConnectionHolder super super ResourceHolderSupport IDbConnection IDbTransaction bool return = return = return != return = public override public override =

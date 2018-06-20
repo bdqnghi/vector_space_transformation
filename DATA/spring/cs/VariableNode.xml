@@ -1,0 +1,1 @@
+Spring.Expressions System using System.Runtime.Serialization using class attribute Spring.Expressions.VariableNode super super BaseNode string protected override protected override decl_stmt string = if == return else if == return return string protected override protected override decl_stmt string = if == || == throw new + + if == throw new =

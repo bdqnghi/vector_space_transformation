@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.SimpleText Index.SegmentReadState Index.SegmentWriteState class Lucene.Net.Codecs.SimpleText.SimpleTextNormsFormat super super NormsFormat string public override public override return new public override public override return new

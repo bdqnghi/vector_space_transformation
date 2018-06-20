@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.icu org.apache.lucene.analysis.TokenStream import com.ibm.icu.text.Normalizer2 import class org.apache.lucene.analysis.icu.ICUFoldingFilter super super extends Normalizer2

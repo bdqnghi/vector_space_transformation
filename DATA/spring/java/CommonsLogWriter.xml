@@ -1,0 +1,1 @@
+org.springframework.util java.io.Writer import org.apache.commons.logging.Log import class org.springframework.util.CommonsLogWriter super super extends StringBuilder Log public public if == && > else char public public for = < ++ decl_stmt char = + if == && > else public public public public

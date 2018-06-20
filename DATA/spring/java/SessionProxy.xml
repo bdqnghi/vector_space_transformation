@@ -1,0 +1,1 @@
+org.springframework.jms.connection javax.jms.Session import interface org.springframework.jms.connection.SessionProxy super super extends

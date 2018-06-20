@@ -1,0 +1,1 @@
+org.springframework.test.context.transaction.ejb org.springframework.test.annotation.Rollback import org.springframework.test.context.transaction.TransactionalTestExecutionListener import class annotation org.springframework.test.context.transaction.ejb.RollbackForRequiresNewEjbTxDaoTests super super extends

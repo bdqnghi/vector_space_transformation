@@ -1,0 +1,1 @@
+org.apache.lucene.document org.apache.lucene.index.IndexOptions import class annotation org.apache.lucene.document.LegacyDoubleField super super extends FieldType FieldType

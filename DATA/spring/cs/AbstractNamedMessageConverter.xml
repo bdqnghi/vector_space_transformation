@@ -1,0 +1,1 @@
+Spring.NmsQuickStart.Common.Converters System using Apache.NMS using Spring.Objects.Factory using class Spring.NmsQuickStart.Common.Converters.AbstractNamedMessageConverter super super INamedMessageConverter super IObjectNameAware string return = =

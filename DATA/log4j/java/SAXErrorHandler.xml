@@ -1,0 +1,1 @@
+org.apache.log4j.xml org.xml.sax.ErrorHandler import org.xml.sax.SAXParseException import org.apache.log4j.helpers.LogLog import class org.apache.log4j.xml.SAXErrorHandler super super implements public public final final public public final final public public final final private static private static final final final final + + +

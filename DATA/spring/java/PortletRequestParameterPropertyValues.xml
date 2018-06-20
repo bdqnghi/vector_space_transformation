@@ -1,0 +1,1 @@
+org.springframework.web.portlet.bind javax.portlet.PortletRequest import org.springframework.beans.MutablePropertyValues import org.springframework.web.portlet.util.PortletUtils import class annotation org.springframework.web.portlet.bind.PortletRequestParameterPropertyValues super super extends String

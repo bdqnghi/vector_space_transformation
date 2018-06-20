@@ -1,0 +1,1 @@
+org.egothor.stemmer class org.egothor.stemmer.Optimizer2 super super extends Cell public public if == && == && == decl_stmt org.apache.lucene.spatial.prefix.tree.Cell = new += return else return

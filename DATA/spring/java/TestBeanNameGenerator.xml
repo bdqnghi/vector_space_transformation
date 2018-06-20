@@ -1,0 +1,1 @@
+org.springframework.context.annotation org.springframework.beans.factory.config.BeanDefinition import org.springframework.beans.factory.support.BeanDefinitionRegistry import class org.springframework.context.annotation.TestBeanNameGenerator super super extends String public public decl_stmt java.lang.String = return +

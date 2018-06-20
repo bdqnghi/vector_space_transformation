@@ -1,0 +1,1 @@
+Lucene.Net.Analysis Lucene.Net.Analysis.Tokenattributes using System.IO using Lucene.Net.Util.BytesRef class Lucene.Net.Analysis.MockPayloadAnalyzer super super Analyzer Tokenizer public override public override decl_stmt Lucene.Net.Analysis.Tokenizer = new return new new

@@ -1,0 +1,1 @@
+org.apache.solr.schema org.apache.lucene.spatial.prefix.TermQueryPrefixTreeStrategy import class org.apache.solr.schema.SpatialTermQueryPrefixTreeFieldType super super extends protected protected return new

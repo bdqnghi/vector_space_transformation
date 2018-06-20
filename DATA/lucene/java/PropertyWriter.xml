@@ -1,0 +1,1 @@
+org.apache.solr.handler.dataimport.config java.util.HashMap import java.util.Map import class org.apache.solr.handler.dataimport.config.PropertyWriter String decl Map public < public < return public public return

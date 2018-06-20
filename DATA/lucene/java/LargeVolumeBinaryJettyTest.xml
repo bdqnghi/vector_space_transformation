@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.embedded org.apache.solr.client.solrj.LargeVolumeTestBase import org.apache.solr.util.ExternalPaths import org.junit.BeforeClass import class org.apache.solr.client.solrj.embedded.LargeVolumeBinaryJettyTest super super extends public static public static throws

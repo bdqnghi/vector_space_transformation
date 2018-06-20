@@ -1,0 +1,1 @@
+org.springframework.jdbc.support.xml org.springframework.dao.InvalidDataAccessApiUsageException import class annotation org.springframework.jdbc.support.xml.SqlXmlFeatureNotImplementedException super super extends

@@ -1,0 +1,1 @@
+Spring.Aspects.Logging AopAlliance.Intercept using Common.Logging using class Spring.Aspects.Logging.TestableSimpleLoggingAdvice super super SimpleLoggingAdvice public public return public public return

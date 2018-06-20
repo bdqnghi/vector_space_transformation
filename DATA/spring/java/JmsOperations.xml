@@ -1,0 +1,1 @@
+org.springframework.jms.core javax.jms.Destination import javax.jms.Message import javax.jms.Queue import org.springframework.jms.JmsException import interface org.springframework.jms.core.JmsOperations

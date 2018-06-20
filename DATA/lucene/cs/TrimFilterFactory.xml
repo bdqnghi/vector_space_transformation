@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Miscellaneous System.Collections.Generic using Lucene.Net.Analysis.Util using class Lucene.Net.Analysis.Miscellaneous.TrimFilterFactory super super TokenFilterFactory bool var public override public override decl_stmt var = new return

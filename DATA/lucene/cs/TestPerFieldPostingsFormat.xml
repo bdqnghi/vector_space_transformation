@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Perfield System using System.Collections.Generic using NUnit.Framework using Lucene.Net.Index.BasePostingsFormatTestCase Lucene.Net.Index.RandomCodec class attribute Lucene.Net.Codecs.Perfield.TestPerFieldPostingsFormat super super BasePostingsFormatTestCase return new new new < public override public override

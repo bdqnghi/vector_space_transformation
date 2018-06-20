@@ -1,0 +1,1 @@
+org.apache.log4j.spi java.util.Enumeration import org.apache.log4j.Appender import org.apache.log4j.Category import org.apache.log4j.Level import org.apache.log4j.Logger import interface org.apache.log4j.spi.LoggerRepository

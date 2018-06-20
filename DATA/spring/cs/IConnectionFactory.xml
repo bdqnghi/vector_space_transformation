@@ -1,0 +1,1 @@
+Spring.Messaging.Ems.Common System using System.IO using System.Runtime.Serialization using TIBCO.EMS using interface Spring.Messaging.Ems.Common.IConnectionFactory super super ISerializable super ICloneable

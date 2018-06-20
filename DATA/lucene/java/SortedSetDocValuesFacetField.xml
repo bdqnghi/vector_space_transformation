@@ -1,0 +1,1 @@
+org.apache.lucene.facet.sortedset org.apache.lucene.document.Field import org.apache.lucene.document.FieldType import org.apache.lucene.facet.FacetField import org.apache.lucene.index.IndexOptions import class org.apache.lucene.facet.sortedset.SortedSetDocValuesFacetField super super extends String FieldType String public public return + + + +

@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.ja.tokenattributes org.apache.lucene.analysis.ja.Token import org.apache.lucene.util.Attribute import interface org.apache.lucene.analysis.ja.tokenattributes.ReadingAttribute super super extends

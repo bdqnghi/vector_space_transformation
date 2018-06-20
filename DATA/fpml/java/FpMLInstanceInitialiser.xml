@@ -1,0 +1,1 @@
+com.handcoded.fpml.meta org.w3c.dom.Element import com.handcoded.meta.DefaultInstanceInitialiser import com.handcoded.meta.SchemaRelease import class com.handcoded.fpml.meta.FpMLInstanceInitialiser super super extends int public public decl_stmt int = if <= else

@@ -1,0 +1,1 @@
+Spring.Data System using System.Data using Spring.Data.Common using Spring.Data.Objects using Spring.Objects using class Spring.Data.TestObjectQuery super super MappingAdoQuery string TestObject protected override protected override decl_stmt Spring.Data.NHibernate.TestObject = new = = = return

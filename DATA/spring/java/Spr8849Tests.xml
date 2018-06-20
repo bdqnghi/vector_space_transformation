@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.spr8849 org.junit.runner.RunWith import org.junit.runners.Suite import org.junit.runners.Suite.SuiteClasses import class annotation annotation annotation org.springframework.test.context.junit4.spr8849.Spr8849Tests

@@ -1,0 +1,1 @@
+com.datastax.driver.osgi.api interface com.datastax.driver.osgi.api.MailboxService

@@ -1,0 +1,1 @@
+org.apache.lucene.search.suggest java.util.Set import org.apache.lucene.util.BytesRef import class org.apache.lucene.search.suggest.Input BytesRef boolean decl Set boolean long BytesRef public public return public public return

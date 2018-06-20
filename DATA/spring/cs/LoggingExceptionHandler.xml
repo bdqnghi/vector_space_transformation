@@ -1,0 +1,1 @@
+Spring.Messaging.Nms.Integration System using Spring.Messaging.Nms.Core using Common.Logging using class Spring.Messaging.Nms.Integration.LoggingExceptionHandler super super IExceptionListener ILog public public call ILog.Error() call ILog.Error() call ILog.Error() call ILog.Error() call ILog.Error()

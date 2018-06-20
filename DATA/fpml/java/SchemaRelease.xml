@@ -1,0 +1,1 @@
+com.handcoded.fpml.meta com.handcoded.fpml.schemes.SchemeCollection import com.handcoded.meta.InstanceInitialiser import com.handcoded.meta.SchemaRecogniser import com.handcoded.meta.Specification import class com.handcoded.fpml.meta.SchemaRelease super super extends super implements SchemeDefaults SchemeCollection public final public final return public final public final return

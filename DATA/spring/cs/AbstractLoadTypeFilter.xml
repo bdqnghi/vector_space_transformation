@@ -1,0 +1,1 @@
+Spring.Context.Attributes.TypeFilters System using Spring.Core.TypeResolution using Common.Logging using class Spring.Context.Attributes.TypeFilters.AbstractLoadTypeFilter super super ITypeFilter ILog Type protected protected try = ! : catch = call ILog.Error() call ILog.Error() call ILog.Error() call ILog.Error() call ILog.Error() +

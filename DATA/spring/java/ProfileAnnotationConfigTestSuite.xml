@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.profile.annotation org.junit.runner.RunWith import org.junit.runners.Suite import org.junit.runners.Suite.SuiteClasses import class annotation comment annotation org.springframework.test.context.junit4.profile.annotation.ProfileAnnotationConfigTestSuite

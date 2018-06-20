@@ -1,0 +1,1 @@
+org.apache.lucene.search.similarities static static org.apache.lucene.search.similarities.SimilarityBase.log2 import class org.apache.lucene.search.similarities.BasicModelP super super extends double float public final public final decl_stmt float = + / + return * / + + / * - * + * * * public public return

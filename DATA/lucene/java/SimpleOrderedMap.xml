@@ -1,0 +1,1 @@
+org.apache.solr.common.util java.util.* import class super super extends decl ArrayList public < public < decl_stmt java.util.ArrayList < = new <> call decl ArrayList.addAll() call decl ArrayList.addAll() call decl ArrayList.addAll() call decl ArrayList.addAll() call decl ArrayList.addAll() return new <>

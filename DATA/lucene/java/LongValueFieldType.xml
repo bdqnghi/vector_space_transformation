@@ -1,0 +1,1 @@
+org.apache.solr.schema interface org.apache.solr.schema.LongValueFieldType super super extends

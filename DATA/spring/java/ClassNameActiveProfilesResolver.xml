@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.profile.resolver org.springframework.test.context.ActiveProfilesResolver import class org.springframework.test.context.junit4.profile.resolver.ClassNameActiveProfilesResolver super super implements public public < return new

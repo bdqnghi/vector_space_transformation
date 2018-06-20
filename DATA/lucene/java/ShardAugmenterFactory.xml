@@ -1,0 +1,1 @@
+org.apache.solr.response.transform org.apache.solr.common.params.ShardParams import org.apache.solr.common.params.SolrParams import org.apache.solr.request.SolrQueryRequest import class org.apache.solr.response.transform.ShardAugmenterFactory super super extends String public public decl_stmt java.lang.String = if == if = else = return new

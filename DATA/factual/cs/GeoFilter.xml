@@ -1,0 +1,1 @@
+FactualDriver.Filters FactualDriver.JsonConverters using Newtonsoft.Json using class attribute FactualDriver.Filters.GeoFilter super super IFilter string string string string return = return = return = return =

@@ -1,0 +1,1 @@
+Spring.Data.NHibernate System.Data using log4net using Spring.Data.Core using Spring.Data.Support using class Spring.Data.NHibernate.AuditDao super super AdoDaoSupport super IAuditDao ILog public public call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug() call ILog.Debug()

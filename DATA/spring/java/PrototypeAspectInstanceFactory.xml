@@ -1,0 +1,1 @@
+org.springframework.aop.aspectj.annotation java.io.Serializable import org.springframework.beans.factory.BeanFactory import class annotation org.springframework.aop.aspectj.annotation.PrototypeAspectInstanceFactory super super extends super implements

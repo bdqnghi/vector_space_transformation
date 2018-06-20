@@ -1,0 +1,1 @@
+org.tartarus.snowball java.lang.invoke.MethodHandle import java.lang.invoke.MethodHandles import java.lang.invoke.MethodType import java.util.Locale import class org.tartarus.snowball.Among MethodHandle decl char int int int

@@ -1,0 +1,1 @@
+org.springframework.context.annotation4 org.springframework.context.annotation.Bean import org.springframework.tests.sample.beans.TestBean import class org.springframework.context.annotation4.SimpleBean public public return new

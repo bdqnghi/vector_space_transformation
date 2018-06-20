@@ -1,0 +1,1 @@
+Lucene.Net.Util System.Threading using com.carrotsearch.randomizedtesting.ThreadFilter class Lucene.Net.Util.QuickPatchThreadsFilter super super ThreadFilter bool decl StackTraceElement public override public override if decl_stmt StackTraceElement = if > && - return return

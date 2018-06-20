@@ -1,0 +1,1 @@
+Cassandra.Data System.Data.Common using class Cassandra.Data.CqlDataAdapter super super DbDataAdapter

@@ -1,0 +1,1 @@
+org.springframework.jmx.export.annotation javax.management.MXBean import org.junit.Test import org.springframework.jmx.support.JmxUtils import static static org.junit.Assert.* import class org.springframework.jmx.export.annotation.JmxUtilsAnnotationTests public public throws public public throws public public return public public return

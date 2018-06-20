@@ -1,0 +1,1 @@
+org.springframework.mail.javamail javax.activation.FileTypeMap import javax.mail.Session import javax.mail.internet.MimeMessage import class org.springframework.mail.javamail.SmartMimeMessage super super extends FileTypeMap String public final public final return public final public final return

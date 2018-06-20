@@ -1,0 +1,1 @@
+SpringAir.Data.Ado System using System.Data using Spring.Data using SpringAir.Domain using class SpringAir.Data.Ado.AircraftMapper super super IRowMapper string long public public decl_stmt long = decl_stmt string = return new new

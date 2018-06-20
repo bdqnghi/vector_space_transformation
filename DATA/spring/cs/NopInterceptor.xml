@@ -1,0 +1,1 @@
+Spring.Aop.Interceptor System using System.Reflection using class Spring.Aop.Interceptor.NopInterceptor super super IMethodBeforeAdvice int int return return public public ++ public override public override if ! is return if == return return == && == public override public override return + *

@@ -1,0 +1,1 @@
+Lucene.Net.Distributed.Configuration System using System.Configuration using System.Xml using class Lucene.Net.Distributed.Configuration.LuceneServerIndexConfigurationHandler super super IConfigurationSectionHandler LuceneServerIndexes public public decl_stmt Lucene.Net.Distributed.Configuration.LuceneServerIndexes = new return

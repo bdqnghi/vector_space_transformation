@@ -1,0 +1,1 @@
+org.springframework.context.annotation example.scannable.FooService import org.springframework.core.convert.converter.Converter import class org.springframework.context.annotation.FooServiceDependentConverter super super implements FooService public public = public public return new

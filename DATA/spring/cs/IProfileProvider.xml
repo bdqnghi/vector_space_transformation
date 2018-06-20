@@ -1,0 +1,1 @@
+Spring.Web.Providers System using System.Collections.Specialized using System.Configuration using System.Web.Profile using interface Spring.Web.Providers.IProfileProvider

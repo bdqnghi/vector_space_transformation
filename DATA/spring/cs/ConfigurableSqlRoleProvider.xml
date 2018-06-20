@@ -1,0 +1,1 @@
+Spring.Web.Providers System.Collections.Specialized using System.Security.Permissions using System.Web using System.Web.Security using class attribute attribute Spring.Web.Providers.ConfigurableSqlRoleProvider super super SqlRoleProvider super IRoleProvider bool string NameValueCollection return = return = public override public override lock if return if != foreach in = = =

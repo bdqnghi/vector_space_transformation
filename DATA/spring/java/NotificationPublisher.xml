@@ -1,0 +1,1 @@
+org.springframework.jmx.export.notification javax.management.Notification import interface org.springframework.jmx.export.notification.NotificationPublisher

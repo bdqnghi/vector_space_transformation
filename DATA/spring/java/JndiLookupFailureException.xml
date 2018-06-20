@@ -1,0 +1,1 @@
+org.springframework.jndi javax.naming.NamingException import org.springframework.core.NestedRuntimeException import class annotation org.springframework.jndi.JndiLookupFailureException super super extends

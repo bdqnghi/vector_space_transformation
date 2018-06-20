@@ -1,0 +1,1 @@
+org.apache.solr.util.stats java.lang.management.ManagementFactory import java.lang.management.ThreadMXBean import org.apache.solr.common.util.SuppressForbidden import class org.apache.solr.util.stats.Clock Clock = public = public return public static public static return public public return public public return

@@ -1,0 +1,1 @@
+org.springframework.web.portlet.context javax.portlet.PortletConfig import org.springframework.beans.factory.Aware import interface org.springframework.web.portlet.context.PortletConfigAware super super extends

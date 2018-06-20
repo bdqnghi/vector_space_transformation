@@ -1,0 +1,1 @@
+org.apache.solr.handler.clustering org.apache.solr.common.util.NamedList import org.apache.solr.common.params.SolrParams import org.apache.solr.search.DocSet import class org.apache.solr.handler.clustering.DocumentClusteringEngine super super extends

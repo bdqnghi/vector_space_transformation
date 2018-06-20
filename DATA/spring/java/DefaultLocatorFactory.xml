@@ -1,0 +1,1 @@
+org.springframework.context.access org.springframework.beans.FatalBeanException import org.springframework.beans.factory.access.BeanFactoryLocator import class org.springframework.context.access.DefaultLocatorFactory public static public static throws return public static public static throws return

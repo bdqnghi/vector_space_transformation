@@ -1,0 +1,1 @@
+HandCoded.Validation System using System.Collections.Generic using System.Xml using HandCoded.Xml using class HandCoded.Validation.DelegatedPrecondition super super Precondition PreconditionDelegate public override public override < return

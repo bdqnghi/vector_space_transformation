@@ -1,0 +1,1 @@
+org.springframework.jdbc.datasource.embedded org.springframework.util.Assert import class org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseConfigurerFactory public static public static throws try switch case return case return case return default: throw new + + catch throw new + +

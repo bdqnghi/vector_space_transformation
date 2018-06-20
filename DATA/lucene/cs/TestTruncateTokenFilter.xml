@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.miscellaneous org.junit.Test class org.apache.lucene.analysis.miscellaneous.TestTruncateTokenFilter super super BaseTokenStreamTestCase TokenStream public virtual public virtual decl_stmt Lucene.Net.Analysis.TokenStream = new new = new new public virtual public virtual new new new -

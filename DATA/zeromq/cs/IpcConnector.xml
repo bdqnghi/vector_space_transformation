@@ -1,0 +1,1 @@
+NetMQ.Core.Transports.Ipc JetBrains.Annotations using NetMQ.Core.Transports.Tcp using class NetMQ.Core.Transports.Ipc.IpcConnector super super TcpConnector

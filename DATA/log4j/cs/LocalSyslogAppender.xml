@@ -1,0 +1,1 @@
+log4net.Appender System using System.Runtime.InteropServices using log4net.Core using log4net.Appender using log4net.Util using log4net.Layout using class log4net.Appender.LocalSyslogAppender super super AppenderSkeleton string IntPtr LevelMapping return = return = return return =

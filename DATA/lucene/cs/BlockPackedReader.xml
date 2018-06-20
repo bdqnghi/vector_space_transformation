@@ -1,0 +1,1 @@
+Lucene.Net.Util.Packed Lucene.Net.Store using System using System.Diagnostics using class Lucene.Net.Util.Packed.BlockPackedReader super super LongValues decl long int decl Reader long decl PackedInts int int public override public override >= && < decl_stmt int = ulong >> decl_stmt int = & return == : + long public public decl_stmt long = foreach in += return

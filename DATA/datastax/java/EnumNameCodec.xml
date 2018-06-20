@@ -1,0 +1,1 @@
+com.datastax.driver.extras.codecs.enums com.datastax.driver.core.TypeCodec import com.datastax.driver.extras.codecs.ParsingCodec import class super super extends decl Class protected protected return == : protected protected return == :

@@ -1,0 +1,1 @@
+org.apache.lucene.queryparser.flexible.core.nodes org.apache.lucene.queryparser.flexible.core.parser.EscapeQuerySyntax import java.util.List import java.util.Map import interface org.apache.lucene.queryparser.flexible.core.nodes.QueryNode

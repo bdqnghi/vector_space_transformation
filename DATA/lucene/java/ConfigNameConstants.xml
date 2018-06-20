@@ -1,0 +1,1 @@
+org.apache.solr.handler.dataimport.config org.apache.solr.handler.data.SolrWriter import java.util.Collections import java.util.HashSet import java.util.Set import class org.apache.solr.handler.dataimport.config.ConfigNameConstants String String String String String String String String String String decl Set String

@@ -1,0 +1,1 @@
+org.apache.solr.handler.component java.io.IOException import java.util.Map import org.apache.lucene.index.LeafReaderContext import org.apache.lucene.util.BytesRef import org.apache.solr.common.util.NamedList import interface org.apache.solr.handler.component.StatsValues

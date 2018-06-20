@@ -1,0 +1,1 @@
+Spring.Objects.Support System using System.Reflection using Spring.Util using class Spring.Objects.Support.InstanceEventHandlerValue super super AbstractWiringEventHandlerValue BindingFlags Delegate MethodInfo protected override protected override decl_stmt System.Reflection.MethodInfo = decl_stmt System.Delegate = if = else = return

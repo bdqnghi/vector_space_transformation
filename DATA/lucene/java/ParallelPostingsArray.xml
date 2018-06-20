@@ -1,0 +1,1 @@
+org.apache.lucene.index org.apache.lucene.util.ArrayUtil import class org.apache.lucene.index.ParallelPostingsArray decl int int decl int decl int int return return new int ParallelPostingsArray final final decl_stmt int = + decl_stmt org.apache.lucene.index.ParallelPostingsArray = return

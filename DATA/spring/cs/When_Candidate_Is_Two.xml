@@ -1,0 +1,1 @@
+Tests.EvaluationEngine NUnit.Framework using Primes using class attribute Tests.EvaluationEngine.When_Candidate_Is_Two var public public decl_stmt var = new call var.IsPrime() call var.IsPrime() call var.IsPrime() call var.IsPrime() call var.IsPrime()

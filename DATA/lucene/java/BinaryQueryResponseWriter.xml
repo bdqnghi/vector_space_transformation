@@ -1,0 +1,1 @@
+org.apache.solr.response java.io.OutputStream import java.io.IOException import org.apache.solr.request.SolrQueryRequest import interface org.apache.solr.response.BinaryQueryResponseWriter super super extends

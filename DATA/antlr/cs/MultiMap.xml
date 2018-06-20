@@ -1,0 +1,1 @@
+Antlr4.StringTemplate.Misc System.Collections.Generic using class super decl List public virtual public virtual decl_stmt System.Collections.Generic.List < if ! out = new < call decl List.Add() call decl List.Add() call decl List.Add() call decl List.Add() call decl List.Add()

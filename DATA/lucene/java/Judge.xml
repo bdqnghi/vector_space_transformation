@@ -1,0 +1,1 @@
+org.apache.lucene.benchmark.quality java.io.PrintWriter import interface org.apache.lucene.benchmark.quality.Judge

@@ -1,0 +1,1 @@
+org.springframework.aop.config org.junit.Test import org.springframework.beans.factory.BeanCreationException import org.springframework.context.support.ClassPathXmlApplicationContext import static static org.junit.Assert.* import class org.springframework.aop.config.AopNamespaceHandlerArgNamesTests public public new + public public try new + catch

@@ -1,0 +1,1 @@
+org.springframework.aop.framework.adapter org.aopalliance.intercept.MethodInterceptor import org.springframework.aop.Advisor import interface org.springframework.aop.framework.adapter.AdvisorAdapterRegistry

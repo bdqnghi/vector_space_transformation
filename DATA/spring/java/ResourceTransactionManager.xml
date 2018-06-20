@@ -1,0 +1,1 @@
+org.springframework.transaction.support org.springframework.transaction.PlatformTransactionManager import interface org.springframework.transaction.support.ResourceTransactionManager super super extends

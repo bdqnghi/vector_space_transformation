@@ -1,0 +1,1 @@
+org.springframework.jdbc.datasource java.sql.Connection import org.springframework.util.Assert import class org.springframework.jdbc.datasource.SimpleConnectionHandle super super implements Connection public public return public public public public return +

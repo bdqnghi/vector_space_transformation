@@ -1,0 +1,1 @@
+org.springframework.tests.sample.beans.subpkg org.springframework.aop.aspectj.AspectJExpressionPointcutTests import class org.springframework.tests.sample.beans.subpkg.DeepBean public public

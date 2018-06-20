@@ -1,0 +1,1 @@
+org.apache.solr.search.similarities org.apache.lucene.search.similarities.Similarity import org.apache.solr.schema.SimilarityFactory import class org.apache.solr.search.similarities.CustomSimilarityFactory super super extends public public return new

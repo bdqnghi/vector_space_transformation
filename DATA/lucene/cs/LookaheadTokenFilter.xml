@@ -1,0 +1,1 @@
+Lucene.Net.Analysis Lucene.Net.Analysis.Tokenattributes using System using System.Collections.Generic using System.Diagnostics using Lucene.Net.Util.AttributeSource class Lucene.Net.Analysis.LookaheadTokenFilter public public = = - = - public virtual public virtual public virtual public virtual < return ++

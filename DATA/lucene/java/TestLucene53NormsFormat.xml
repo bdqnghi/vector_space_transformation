@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.lucene53 org.apache.lucene.codecs.Codec import org.apache.lucene.codecs.lucene60.Lucene60Codec import org.apache.lucene.index.BaseNormsFormatTestCase import class org.apache.lucene.codecs.lucene53.TestLucene53NormsFormat super super extends Codec protected protected return

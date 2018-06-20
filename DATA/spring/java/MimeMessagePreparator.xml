@@ -1,0 +1,1 @@
+org.springframework.mail.javamail javax.mail.internet.MimeMessage import interface org.springframework.mail.javamail.MimeMessagePreparator

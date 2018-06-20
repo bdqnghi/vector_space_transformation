@@ -1,0 +1,1 @@
+com.datastax.driver.core org.slf4j.Logger import org.slf4j.LoggerFactory import class com.datastax.driver.core.ExceptionCatchingRunnable super super implements Logger public public try catch catch call Logger.error() call Logger.error() call Logger.error() call Logger.error() call Logger.error()

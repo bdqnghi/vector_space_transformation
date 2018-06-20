@@ -1,0 +1,1 @@
+Spring.Aop.Framework.AutoProxy System using Spring.Objects using Spring.Objects.Factory using class Spring.Aop.Framework.AutoProxy.CreatesTestObject super super IFactoryObject super IInitializingObject bool ITestObject public public if ! return else return if ! return else return typeof return public public = new =

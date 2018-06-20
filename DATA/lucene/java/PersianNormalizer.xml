@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.fa static static org.apache.lucene.analysis.util.StemmerUtil.* import class org.apache.lucene.analysis.fa.PersianNormalizer char char char char char char char char char public public for = < ++ switch case case = break case = break case case = break case = -- break default: break return

@@ -1,0 +1,1 @@
+org.springframework.beans.factory.xml org.w3c.dom.Document import org.springframework.beans.factory.BeanDefinitionStoreException import interface org.springframework.beans.factory.xml.BeanDefinitionDocumentReader

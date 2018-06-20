@@ -1,0 +1,1 @@
+Lucene.Net.Facet Lucene.Net.Support using Lucene.Net.Documents.Document Lucene.Net.Documents.Field Lucene.Net.Documents.FieldType class Lucene.Net.Facet.FacetField super super Field string FieldType decl string public override public override return + + + + public static public static if throw new +

@@ -1,0 +1,1 @@
+Spring.NmsQuickStart.Common.Converters System using Spring.Messaging.Nms.Support.Converter using interface Spring.NmsQuickStart.Common.Converters.INamedMessageConverter super super IMessageConverter

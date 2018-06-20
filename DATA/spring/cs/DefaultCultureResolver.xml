@@ -1,0 +1,1 @@
+Spring.Globalization.Resolvers System.Globalization using System.Threading using class Spring.Globalization.Resolvers.DefaultCultureResolver super super ICultureResolver CultureInfo return = protected virtual protected virtual if != return else return public virtual public virtual return public virtual public virtual =

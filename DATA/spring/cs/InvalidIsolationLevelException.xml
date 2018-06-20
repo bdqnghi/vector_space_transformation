@@ -1,0 +1,1 @@
+Spring.Transaction System using System.Runtime.Serialization using class attribute Spring.Transaction.InvalidIsolationLevelException super super TransactionUsageException

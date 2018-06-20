@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene3x System using Lucene.Net.Store.Directory Lucene.Net.Index.FieldInfos Lucene.Net.Store.IOContext Lucene.Net.Index.SegmentInfo class attribute Lucene.Net.Codecs.Lucene3x.Lucene3xStoredFieldsFormat super super StoredFieldsFormat public override public override return new public override public override throw new

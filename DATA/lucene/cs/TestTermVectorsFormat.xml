@@ -1,0 +1,1 @@
+Lucene.Net.Index NUnit.Framework using System.Collections.Generic using Lucene.Net.Codecs.Codec Lucene.Net.Codecs.Lucene3x.Lucene3xCodec class attribute Lucene.Net.Index.TestTermVectorsFormat super super BaseTermVectorsFormatTestCase return protected override < protected override < if is return else return public override public override

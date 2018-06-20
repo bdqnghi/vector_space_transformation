@@ -1,0 +1,1 @@
+Spring.DataQuickStart.Dao.Template System.Data using Spring.Data using Spring.DataQuickStart.Domain using class Spring.DataQuickStart.Dao.Template.CustomerRowMapper super super IRowMapper Customer public public decl_stmt Spring.DataQuickStart.Domain.Customer = new = = = = = = = = = = = return

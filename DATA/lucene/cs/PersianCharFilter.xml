@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.fa class org.apache.lucene.analysis.fa.PersianCharFilter super super CharFilter int int public override public override decl_stmt int = if > decl_stmt int = + while < if == = ++ return int public override public override decl_stmt int = if == return else return protected internal override protected internal override return

@@ -1,0 +1,1 @@
+Cassandra.Data System using System.Data using System.Data.Common using class Cassandra.Data.CqlParameter super super DbParameter object bool string return if != throw new return = return return = return return = public override public override private private if throw new = : +

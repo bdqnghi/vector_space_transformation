@@ -1,0 +1,1 @@
+log4net.Filter System using log4net.Core using class log4net.Filter.DenyAllFilter super super FilterSkeleton override public override public return

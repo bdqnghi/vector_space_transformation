@@ -1,0 +1,1 @@
+org.springframework.jdbc.support.lob java.io.InputStream import java.io.Reader import java.sql.ResultSet import java.sql.SQLException import interface org.springframework.jdbc.support.lob.LobHandler

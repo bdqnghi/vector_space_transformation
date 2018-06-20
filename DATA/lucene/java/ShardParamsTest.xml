@@ -1,0 +1,1 @@
+org.apache.solr.common.params org.apache.lucene.util.LuceneTestCase import class org.apache.solr.common.params.ShardParamsTest super super extends public public public public public public public public public public public public public public public public public public public public public public public public

@@ -1,0 +1,1 @@
+org.springframework.util java.util.UUID import interface org.springframework.util.IdGenerator

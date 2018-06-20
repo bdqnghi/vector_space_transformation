@@ -1,0 +1,1 @@
+NetMQ.Tests.InProcActors.ExceptionShimExample System using NetMQ.Sockets using class NetMQ.Tests.InProcActors.ExceptionShimExample.ExceptionShimHandler super super IShimHandler NetMQMessage string public public while try decl_stmt NetMQMessage = decl_stmt string = if == break throw new catch

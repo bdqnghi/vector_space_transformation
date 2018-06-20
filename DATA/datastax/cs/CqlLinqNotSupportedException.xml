@@ -1,0 +1,1 @@
+Cassandra.Data.Linq System using System.Linq.Expressions using class Cassandra.Data.Linq.CqlLinqNotSupportedException super super NotSupportedException

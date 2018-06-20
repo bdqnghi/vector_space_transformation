@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.miscellaneous class org.apache.lucene.analysis.miscellaneous.TestPrefixAndSuffixAwareTokenFilter super super BaseTokenStreamTestCase PrefixAndSuffixAwareTokenFilter public virtual public virtual decl_stmt Lucene.Net.Analysis.Miscellaneous.PrefixAndSuffixAwareTokenFilter = new new new new new new new new private static private static return new

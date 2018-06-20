@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.lucene50 org.apache.lucene.codecs.Codec import org.apache.lucene.index.BaseSegmentInfoFormatTestCase import org.apache.lucene.util.TestUtil import org.apache.lucene.util.Version import class org.apache.lucene.codecs.lucene50.TestLucene50SegmentInfoFormat super super extends protected protected return new protected protected return

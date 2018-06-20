@@ -1,0 +1,1 @@
+org.apache.solr.spelling org.apache.lucene.analysis.Token import org.apache.lucene.index.IndexReader import org.apache.lucene.search.spell.SuggestMode import org.apache.solr.common.params.SolrParams import java.util.Collection import class org.apache.solr.spelling.SpellingOptions int SuggestMode SolrParams boolean int decl Collection IndexReader float

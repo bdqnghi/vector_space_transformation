@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Core System.Collections.Generic using Lucene.Net.Analysis.Util using class Lucene.Net.Analysis.Core.UpperCaseFilterFactory super super TokenFilterFactory super MultiTermAwareComponent public override public override return new return

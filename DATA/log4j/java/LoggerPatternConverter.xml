@@ -1,0 +1,1 @@
+org.apache.log4j.pattern org.apache.log4j.spi.LoggingEvent import class org.apache.log4j.pattern.LoggerPatternConverter super super extends LoggerPatternConverter public static public static final final final if == || == return return new int public public final final final final decl_stmt int final final =

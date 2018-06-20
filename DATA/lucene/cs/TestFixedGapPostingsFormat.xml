@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.blockterms org.apache.lucene.codecs.lucene41ords.Lucene41WithOrds org.apache.lucene.index.BasePostingsFormatTestCase org.apache.lucene.util.TestUtil class org.apache.lucene.codecs.blockterms.TestFixedGapPostingsFormat super super BasePostingsFormatTestCase Codec return

@@ -1,0 +1,1 @@
+org.springframework.cache.jcache.config org.springframework.cache.annotation.CachingConfigurerSupport import org.springframework.cache.interceptor.CacheResolver import class org.springframework.cache.jcache.config.JCacheConfigurerSupport super super extends super implements public public return

@@ -1,0 +1,1 @@
+SpringAir.Data.Ado System.Collections using System.Data using Spring.Data using Spring.Data.Core using Spring.Data.Support using Spring.Caching using SpringAir.Domain using class SpringAir.Data.Ado.AircraftDao super super AdoDaoSupport super IAircraftDao string string IRowMapper = = public = = public return = public = public return =

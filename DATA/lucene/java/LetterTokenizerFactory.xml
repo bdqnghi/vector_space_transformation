@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.core org.apache.lucene.analysis.util.TokenizerFactory import org.apache.lucene.util.AttributeFactory import java.util.Map import class org.apache.lucene.analysis.core.LetterTokenizerFactory super super extends public public return new

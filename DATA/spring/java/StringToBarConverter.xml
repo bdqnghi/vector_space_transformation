@@ -1,0 +1,1 @@
+org.springframework.context.conversionservice org.springframework.core.convert.converter.Converter import class org.springframework.context.conversionservice.StringToBarConverter super super implements public public return new

@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.hunspell class org.apache.lucene.analysis.hunspell.ISO8859_14Decoder super super CharsetDecoder decl char

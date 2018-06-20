@@ -1,0 +1,1 @@
+Spring.Aop.Framework.Adapter AopAlliance.Intercept using interface Spring.Aop.Framework.Adapter.IAdvisorAdapterRegistry

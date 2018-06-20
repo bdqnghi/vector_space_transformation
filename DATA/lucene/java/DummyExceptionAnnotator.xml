@@ -1,0 +1,1 @@
+org.apache.solr.uima.processor.an org.apache.uima.analysis_component.JCasAnnotator_ImplBase import org.apache.uima.analysis_engine.AnalysisEngineProcessException import org.apache.uima.jcas.JCas import class org.apache.solr.uima.processor.an.DummyExceptionAnnotator super super extends public public throws throw new

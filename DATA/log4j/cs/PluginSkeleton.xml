@@ -1,0 +1,1 @@
+log4net.Plugin log4net.Repository using class log4net.Plugin.PluginSkeleton super super IPlugin ILoggerRepository string return = public virtual public virtual = public virtual public virtual return =

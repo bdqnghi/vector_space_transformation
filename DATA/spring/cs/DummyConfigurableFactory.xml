@@ -1,0 +1,1 @@
+Spring.Objects.Factory Spring.Objects.Factory.Config using class Spring.Objects.Factory.DummyConfigurableFactory super super DummyFactory super IConfigurableFactoryObject IObjectDefinition return =

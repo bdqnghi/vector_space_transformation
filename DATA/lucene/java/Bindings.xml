@@ -1,0 +1,1 @@
+org.apache.lucene.expressions org.apache.lucene.queries.function.ValueSource import class org.apache.lucene.expressions.Bindings protected final protected final return new

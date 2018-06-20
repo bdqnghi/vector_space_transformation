@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene42 System using Lucene.Net.Util.Packed.PackedInts Lucene.Net.Index.SegmentReadState Lucene.Net.Index.SegmentWriteState class attribute Lucene.Net.Codecs.Lucene42.Lucene42DocValuesFormat super super DocValuesFormat string int string float string string public override public override throw new public override public override return new

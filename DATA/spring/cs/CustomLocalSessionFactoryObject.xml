@@ -1,0 +1,1 @@
+Spring.Northwind.Dao.NHibernate NHibernate.Bytecode using Spring.Data.NHibernate using Spring.Data.NHibernate.Bytecode using class Spring.Northwind.Dao.NHibernate.CustomLocalSessionFactoryObject super super LocalSessionFactoryObject return new

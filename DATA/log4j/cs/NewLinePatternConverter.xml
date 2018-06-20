@@ -1,0 +1,1 @@
+log4net.Util.PatternStringConverters System using System.Text using System.IO using log4net.Util using log4net.Core using class log4net.Util.PatternStringConverters.NewLinePatternConverter super super LiteralPatternConverter super IOptionHandler public public if == = else if == = else =

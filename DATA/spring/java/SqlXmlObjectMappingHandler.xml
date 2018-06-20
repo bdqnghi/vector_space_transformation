@@ -1,0 +1,1 @@
+org.springframework.jdbc.support.xml java.sql.ResultSet import java.sql.SQLException import interface org.springframework.jdbc.support.xml.SqlXmlObjectMappingHandler super super extends

@@ -1,0 +1,1 @@
+org.springframework.test.context.cache org.springframework.context.ApplicationContext import org.springframework.test.annotation.DirtiesContext.HierarchyMode import org.springframework.test.context.MergedContextConfiguration import interface org.springframework.test.context.cache.ContextCache String String int

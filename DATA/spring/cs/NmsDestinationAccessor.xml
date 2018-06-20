@@ -1,0 +1,1 @@
+Spring.Messaging.Nms.Support.Destinations Spring.Util using Apache.NMS using class Spring.Messaging.Nms.Support.Destinations.NmsDestinationAccessor super super NmsAccessor bool IDestinationResolver return = return = public virtual public virtual return

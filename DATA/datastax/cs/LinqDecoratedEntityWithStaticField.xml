@@ -1,0 +1,1 @@
+Cassandra.Tests.Mapping.Pocos Cassandra.Data.Linq using class attribute Cassandra.Tests.Mapping.Pocos.LinqDecoratedEntityWithStaticField

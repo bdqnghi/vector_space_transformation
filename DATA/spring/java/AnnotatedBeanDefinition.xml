@@ -1,0 +1,1 @@
+org.springframework.beans.factory.annotation org.springframework.beans.factory.config.BeanDefinition import org.springframework.core.type.AnnotationMetadata import org.springframework.core.type.MethodMetadata import interface org.springframework.beans.factory.annotation.AnnotatedBeanDefinition super super extends

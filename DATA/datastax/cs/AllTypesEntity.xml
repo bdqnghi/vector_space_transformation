@@ -1,0 +1,1 @@
+Cassandra.Tests.Mapping.Pocos System using System.Collections.Generic using System.Linq using Cassandra.Mapping.Utils using class Cassandra.Tests.Mapping.Pocos.AllTypesEntity

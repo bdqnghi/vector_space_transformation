@@ -1,0 +1,1 @@
+Lucene.Net.Analysis.Miscellaneous System.Collections.Generic using Lucene.Net.Analysis.Util using class Lucene.Net.Analysis.Miscellaneous.CodepointCountFilterFactory super super TokenFilterFactory int string string int public override public override return new

@@ -1,0 +1,1 @@
+org.springframework.http.client java.io.IOException import java.net.URI import org.springframework.http.HttpMethod import interface org.springframework.http.client.ClientHttpRequestFactory

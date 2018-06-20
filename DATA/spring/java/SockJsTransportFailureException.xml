@@ -1,0 +1,1 @@
+org.springframework.web.socket.sockjs class annotation org.springframework.web.socket.sockjs.SockJsTransportFailureException super super extends

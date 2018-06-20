@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.pattern System.Collections.Generic using Lucene.Net.Analysis.Util.TokenFilterFactory TokenFilterFactory class org.apache.lucene.analysis.pattern.PatternReplaceFilterFactory super super TokenFilterFactory Pattern bool string public override public override return new

@@ -1,0 +1,1 @@
+Lucene.Net.Search.Suggest System using System.Collections.Generic using System.Diagnostics using Lucene.Net.Util using class Lucene.Net.Search.Suggest.UnsortedInputIterator super super BufferedInputIterator BytesRef int BytesRef decl int == return public public if ++ < = return return if && < == return return if && < == return return

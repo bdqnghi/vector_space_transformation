@@ -1,0 +1,1 @@
+Spring.ServiceModel.Config Spring.Objects.Factory.Xml using class attribute Spring.ServiceModel.Config.WcfNamespaceParser super super NamespaceParserSupport string string string public override public override new

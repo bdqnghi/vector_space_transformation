@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Lucene40 System using Lucene.Net.Index.SegmentInfo class attribute Lucene.Net.Codecs.Lucene40.Lucene40SegmentInfoFormat super super SegmentInfoFormat int string SegmentInfoWriter string SegmentInfoReader int return return

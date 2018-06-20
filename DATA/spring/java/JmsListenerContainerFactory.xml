@@ -1,0 +1,1 @@
+org.springframework.jms.config org.springframework.jms.listener.MessageListenerContainer import interface

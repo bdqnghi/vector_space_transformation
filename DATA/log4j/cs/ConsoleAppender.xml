@@ -1,0 +1,1 @@
+log4net.Appender System using System.Globalization using log4net.Layout using log4net.Core using class log4net.Appender.ConsoleAppender super super AppenderSkeleton string bool string return : string decl_stmt string = if == = else = override protected override protected if else if else endif return

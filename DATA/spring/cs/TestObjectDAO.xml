@@ -1,0 +1,1 @@
+Spring.Data.Generic System.Collections.Generic using System.Data using Spring.Objects using class Spring.Data.Generic.TestObjectDao super super AdoDaoSupport super ITestObjectDao public < public < return new public public return new

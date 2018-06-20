@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.bloom org.apache.lucene.index.BasePostingsFormatTestCase org.apache.lucene.util.TestUtil class org.apache.lucene.codecs.bloom.TestBloomPostingsFormat super super BasePostingsFormatTestCase Codec return

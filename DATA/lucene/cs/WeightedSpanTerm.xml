@@ -1,0 +1,1 @@
+Lucene.Net.Search.Highlight System using System.Collections.Generic using System.Linq using System.Text using class Lucene.Net.Search.Highlight.WeightedSpanTerm super super WeightedTerm bool decl List public public foreach in if >= && <= return return public public < public public return public public = public < public < return

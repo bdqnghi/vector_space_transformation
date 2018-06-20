@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.pt class org.apache.lucene.analysis.pt.PortugueseMinimalStemmer super super extends Step public public return call Step.apply() call Step.apply() call Step.apply() call Step.apply() call Step.apply()

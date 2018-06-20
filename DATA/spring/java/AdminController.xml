@@ -1,0 +1,1 @@
+org.springframework.web.servlet.mvc.mapping org.springframework.web.servlet.mvc.multiaction.MultiActionController import class org.springframework.web.servlet.mvc.mapping.AdminController super super extends

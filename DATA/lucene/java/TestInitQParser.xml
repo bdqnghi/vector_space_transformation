@@ -1,0 +1,1 @@
+org.apache.solr.search org.apache.solr.SolrTestCaseJ4 import org.junit.Before import org.junit.Test import class org.apache.solr.search.TestInitQParser super super extends String private static private static decl_stmt java.lang.String = = public public throws public public throws

@@ -1,0 +1,1 @@
+Antlr3.Targets System.Collections.Generic using Antlr3.Codegen.CodeGenerator Antlr3.Tool.Grammar Antlr3.Tool.Rule Antlr3.Codegen.Target class Antlr3.Targets.JavaTarget super super Target return decl IEnumerable protected override protected override foreach in decl_stmt System.Collections.Generic.IEnumerable < = if != foreach in

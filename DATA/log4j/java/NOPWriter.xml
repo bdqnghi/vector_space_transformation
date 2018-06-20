@@ -1,0 +1,1 @@
+org.apache.log4j.performance java.io.Writer import java.io.IOException import class org.apache.log4j.performance.NOPWriter super super extends public public throws public public throws public public throws public public throws public public throws public public throws public public throws

@@ -1,0 +1,1 @@
+org.springframework.cache.jcache javax.cache.Caching import javax.cache.spi.CachingProvider import class org.springframework.cache.jcache.JCacheEhCache3AnnotationTests super super extends protected protected return

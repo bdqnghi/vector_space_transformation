@@ -1,0 +1,1 @@
+org.springframework.scripting org.springframework.tests.sample.beans.TestBean import interface org.springframework.scripting.TestBeanAwareMessenger super super extends

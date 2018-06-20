@@ -1,0 +1,1 @@
+org.apache.lucene.collation org.apache.lucene.analysis.TokenStream import org.apache.lucene.collation.tokenattributes.ICUCollatedTermAttributeImpl import org.apache.lucene.util.AttributeFactory import com.ibm.icu.text.Collator import class org.apache.lucene.collation.ICUCollationAttributeFactory super super extends Collator public public return new

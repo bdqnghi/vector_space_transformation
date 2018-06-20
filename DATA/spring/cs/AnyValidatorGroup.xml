@@ -1,0 +1,1 @@
+Spring.Validation System.Collections using System.Collections.Generic using Spring.Expressions using class Spring.Validation.AnyValidatorGroup super super BaseValidatorGroup bool ValidationErrors protected override protected override < decl_stmt Spring.Validation.ValidationErrors = new decl_stmt bool = foreach in = || if && break if ! return

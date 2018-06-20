@@ -1,0 +1,1 @@
+Lucene.Net.Codecs System using Lucene.Net.Util.Bits Lucene.Net.Store.DataInput Lucene.Net.Index.DocsAndPositionsEnum Lucene.Net.Index.DocsEnum Lucene.Net.Index.FieldInfo Lucene.Net.Store.IndexInput class Lucene.Net.Codecs.PostingsReaderBase super super IDisposable public public

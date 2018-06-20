@@ -1,0 +1,1 @@
+Spring.Calculator.Services Spring.Calculator.Domain using Spring.Calculator.Interfaces using class Spring.Calculator.Services.Calculator super super ICalculator int public public return + public public return - DivisionResult public public decl_stmt Spring.Calculator.Domain.DivisionResult = new = / = return public public return *

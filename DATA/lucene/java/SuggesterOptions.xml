@@ -1,0 +1,1 @@
+org.apache.solr.spelling.suggest org.apache.lucene.util.CharsRef import class org.apache.solr.spelling.suggest.SuggesterOptions int boolean CharsRef String boolean

@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.io.ops org.apache.solr.client.solrj.io.Tuple import interface org.apache.solr.client.solrj.io.ops.ReduceOperation super super extends

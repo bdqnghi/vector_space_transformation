@@ -1,0 +1,1 @@
+org.springframework.aop.support org.aopalliance.aop.Advice import org.springframework.aop.ClassFilter import org.springframework.aop.Pointcut import class annotation org.springframework.aop.support.NameMatchMethodPointcutAdvisor super super extends NameMatchMethodPointcut public public public public public public public public return public public return

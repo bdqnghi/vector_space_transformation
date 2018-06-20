@@ -1,0 +1,1 @@
+org.apache.solr.update.processor javax.script.ScriptEngine import interface org.apache.solr.update.processor.ScriptEngineCustomizer

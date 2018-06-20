@@ -1,0 +1,1 @@
+org.apache.lucene.search java.io.IOException import org.apache.lucene.index.LeafReaderContext import interface org.apache.lucene.search.Collector

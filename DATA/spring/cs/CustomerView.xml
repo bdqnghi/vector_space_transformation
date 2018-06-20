@@ -1,0 +1,1 @@
+System using System.Web using Spring.Northwind.Dao using Spring.Northwind.Domain using Spring.Web.UI using class .CustomerView super super Page ICustomerEditController ICustomerDao = = return override protected override protected private private private private private private protected protected protected protected

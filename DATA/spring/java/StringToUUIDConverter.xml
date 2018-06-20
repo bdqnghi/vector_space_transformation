@@ -1,0 +1,1 @@
+org.springframework.core.convert.support java.util.UUID import org.springframework.core.convert.converter.Converter import org.springframework.util.StringUtils import class org.springframework.core.convert.support.StringToUUIDConverter super super implements public public return :

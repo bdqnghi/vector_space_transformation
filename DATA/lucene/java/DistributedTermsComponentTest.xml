@@ -1,0 +1,1 @@
+org.apache.solr.handler.component org.apache.solr.BaseDistributedSearchTestCase import org.junit.Test import class org.apache.solr.handler.component.DistributedTermsComponentTest super super extends public public throws

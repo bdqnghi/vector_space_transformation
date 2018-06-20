@@ -1,0 +1,1 @@
+Spring.Context.Attributes Spring.Objects.Factory.Config using Spring.Objects.Factory.Support using class Spring.Context.Attributes.AttributeObjectNameGenerator super super IObjectNameGenerator string public public if is decl_stmt string = if ! return return private private return

@@ -1,0 +1,1 @@
+org.springframework.jms.core javax.jms.Session import static static org.mockito.BDDMockito.* import class org.springframework.jms.core.JmsTemplateTransactedTests super super extends Session public public throws = protected protected return protected protected return protected protected return

@@ -1,0 +1,1 @@
+Lucene.Net.Search Lucene.Net.Util using Lucene.Net.Util.BytesRef interface Lucene.Net.Search.IMaxNonCompetitiveBoostAttribute super super IAttribute

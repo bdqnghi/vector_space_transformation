@@ -1,0 +1,1 @@
+org.springframework.jdbc.core.simple java.util.Map import org.springframework.jdbc.core.namedparam.SqlParameterSource import org.springframework.jdbc.support.KeyHolder import org.springframework.jdbc.support.nativejdbc.NativeJdbcExtractor import interface org.springframework.jdbc.core.simple.SimpleJdbcInsertOperations

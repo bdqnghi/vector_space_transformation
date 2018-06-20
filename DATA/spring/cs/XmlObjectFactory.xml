@@ -1,0 +1,1 @@
+Spring.Objects.Factory.Xml System using Spring.Core.IO using Spring.Objects.Factory.Support using class attribute Spring.Objects.Factory.Xml.XmlObjectFactory super super DefaultListableObjectFactory return new

@@ -1,0 +1,1 @@
+NetMQ.Tests System using NUnit.Framework using class NetMQ.Tests.MockOutgoingSocket super super IOutgoingSocket TrySendDelegate public public ref ref return ref

@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.profile.importresource org.springframework.test.context.ActiveProfiles import org.springframework.test.context.ActiveProfilesResolver import class annotation org.springframework.test.context.junit4.profile.importresource.DevProfileResolverAnnotationConfigTests super super extends super implements public public < return new

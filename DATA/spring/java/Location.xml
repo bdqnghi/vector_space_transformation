@@ -1,0 +1,1 @@
+org.springframework.beans.factory.parsing org.springframework.core.io.Resource import org.springframework.util.Assert import class org.springframework.beans.factory.parsing.Location Object Resource public public return public public return

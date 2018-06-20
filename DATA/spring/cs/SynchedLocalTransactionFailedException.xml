@@ -1,0 +1,1 @@
+Spring.Messaging.Nms.Connections System using System.Runtime.Serialization using Apache.NMS using class attribute Spring.Messaging.Nms.Connections.SynchedLocalTransactionFailedException super super NMSException

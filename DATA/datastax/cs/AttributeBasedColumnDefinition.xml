@@ -1,0 +1,1 @@
+Cassandra.Mapping.Attributes System using System.Linq using System.Reflection using class Cassandra.Mapping.Attributes.AttributeBasedColumnDefinition super super IColumnDefinition bool Type Type bool bool bool bool bool bool bool MemberInfo string return return return return return return return return return return return return private static private static return !=

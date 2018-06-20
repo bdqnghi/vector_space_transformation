@@ -1,0 +1,1 @@
+org.springframework.jms.support.destination interface org.springframework.jms.support.destination.CachingDestinationResolver super super extends

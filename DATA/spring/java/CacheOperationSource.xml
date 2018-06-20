@@ -1,0 +1,1 @@
+org.springframework.cache.interceptor java.lang.reflect.Method import java.util.Collection import interface org.springframework.cache.interceptor.CacheOperationSource

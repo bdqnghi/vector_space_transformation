@@ -1,0 +1,1 @@
+org.apache.cordova.test org.apache.cordova.CordovaPlugin import org.apache.cordova.LOG import class org.apache.cordova.test.LifeCyclePlugin super super extends String String public public += public public += public public += public public +=

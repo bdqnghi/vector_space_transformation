@@ -1,0 +1,1 @@
+org.apache.solr.handler.dataimport java.util.Map import java.util.Set import org.apache.solr.common.SolrInputDocument import interface org.apache.solr.handler.dataimport.DIHWriter

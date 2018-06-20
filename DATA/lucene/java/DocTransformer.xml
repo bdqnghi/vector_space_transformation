@@ -1,0 +1,1 @@
+org.apache.solr.response.transform java.io.IOException import org.apache.solr.common.SolrDocument import org.apache.solr.response.QueryResponseWriter import org.apache.solr.response.ResultContext import org.apache.solr.search.SolrIndexSearcher import class org.apache.solr.response.transform.DocTransformer ResultContext public public = public public return public public return

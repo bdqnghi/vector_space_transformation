@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.it System.Collections.Generic using org.apache.lucene.analysis.util.TokenFilterFactory class org.apache.lucene.analysis.it.ItalianLightStemFilterFactory super super TokenFilterFactory public override public override return new

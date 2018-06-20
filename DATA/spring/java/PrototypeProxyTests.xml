@@ -1,0 +1,1 @@
+org.springframework.aop.config org.junit.Test import org.springframework.context.support.ClassPathXmlApplicationContext import class org.springframework.aop.config.PrototypeProxyTests public public new +

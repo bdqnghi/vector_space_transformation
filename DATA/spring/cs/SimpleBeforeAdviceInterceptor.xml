@@ -1,0 +1,1 @@
+Spring.Aop System using AopAlliance.Intercept using class Spring.Aop.SimpleBeforeAdviceInterceptor super super IMethodInterceptor ISimpleBeforeAdvice public public call ISimpleBeforeAdvice.Before() call ISimpleBeforeAdvice.Before() call ISimpleBeforeAdvice.Before() call ISimpleBeforeAdvice.Before() call ISimpleBeforeAdvice.Before() return

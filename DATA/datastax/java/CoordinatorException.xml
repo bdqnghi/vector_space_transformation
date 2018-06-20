@@ -1,0 +1,1 @@
+com.datastax.driver.core.exceptions java.net.InetAddress import java.net.InetSocketAddress import interface com.datastax.driver.core.exceptions.CoordinatorException

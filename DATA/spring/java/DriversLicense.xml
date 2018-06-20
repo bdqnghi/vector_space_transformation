@@ -1,0 +1,1 @@
+org.springframework.orm.jpa.domain javax.persistence.Entity import javax.persistence.Id import javax.persistence.Table import class annotation annotation org.springframework.orm.jpa.domain.DriversLicense String int public public return

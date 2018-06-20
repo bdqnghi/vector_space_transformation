@@ -1,0 +1,1 @@
+org.apache.solr.client.solrj.embedded org.apache.solr.client.solrj.SolrExampleTests import org.apache.solr.util.ExternalPaths import org.junit.BeforeClass import class org.apache.solr.client.solrj.embedded.SolrExampleEmbeddedTest super super extends public static public static throws

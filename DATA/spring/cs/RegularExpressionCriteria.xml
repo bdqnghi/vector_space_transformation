@@ -1,0 +1,1 @@
+Spring.Core System.Text.RegularExpressions using Spring.Core using Spring.Util using class Spring.Core.RegularExpressionCriteria super super ICriteria Regex string string RegexOptions return = : = new return = return = protected protected return

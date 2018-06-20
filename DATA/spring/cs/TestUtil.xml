@@ -1,0 +1,1 @@
+Spring.Scheduling.Quartz System using Quartz using Quartz.Impl using Quartz.Spi using class Spring.Scheduling.Quartz.TestUtil public static public static return IJobDetail TriggerFiredBundle public static public static decl_stmt IJobDetail = new decl_stmt TriggerFiredBundle = new return

@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.memory org.apache.lucene.index.BaseDocValuesFormatTestCase org.apache.lucene.util.TestUtil class org.apache.lucene.codecs.memory.TestDirectDocValuesFormat super super BaseDocValuesFormatTestCase Codec return

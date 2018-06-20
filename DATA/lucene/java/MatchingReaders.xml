@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.compressing org.apache.lucene.index.FieldInfo import org.apache.lucene.index.MergeState import org.apache.lucene.index.SegmentReader import class org.apache.lucene.codecs.compressing.MatchingReaders int decl boolean

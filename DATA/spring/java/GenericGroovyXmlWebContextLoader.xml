@@ -1,0 +1,1 @@
+org.springframework.test.context.web org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader import org.springframework.web.context.support.GenericWebApplicationContext import class org.springframework.test.context.web.GenericGroovyXmlWebContextLoader super super extends protected protected new protected protected return new protected protected throw new

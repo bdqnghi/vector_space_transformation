@@ -1,0 +1,1 @@
+org.springframework.test.context.junit4.aci.annotation org.springframework.context.annotation.Bean import org.springframework.context.annotation.Configuration import class annotation org.springframework.test.context.junit4.aci.annotation.BarConfig return

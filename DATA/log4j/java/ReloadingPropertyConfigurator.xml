@@ -1,0 +1,1 @@
+org.apache.log4j.varia java.io.InputStream import java.net.URL import org.apache.log4j.PropertyConfigurator import org.apache.log4j.spi.Configurator import org.apache.log4j.spi.LoggerRepository import class org.apache.log4j.varia.ReloadingPropertyConfigurator super super implements PropertyConfigurator public public public public

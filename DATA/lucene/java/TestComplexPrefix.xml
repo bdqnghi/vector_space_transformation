@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.hunspell org.junit.BeforeClass import class org.apache.lucene.analysis.hunspell.TestComplexPrefix super super extends public static public static throws public public

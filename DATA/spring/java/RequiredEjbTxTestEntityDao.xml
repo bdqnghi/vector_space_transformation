@@ -1,0 +1,1 @@
+org.springframework.test.context.transaction.ejb.dao javax.ejb.Local import javax.ejb.Stateless import javax.ejb.TransactionAttribute import javax.ejb.TransactionAttributeType import class annotation annotation annotation org.springframework.test.context.transaction.ejb.dao.RequiredEjbTxTestEntityDao super super extends public public return public public return

@@ -1,0 +1,1 @@
+System using Spring.Web.Conversation using Spring.Entities using NHibernate using class .SessionIsClosedA super IConversationState return = ISession SPCMasterEnt protected protected = try decl_stmt Spring.Messaging.Ems.Common.ISession = decl_stmt Spring.Entities.SPCMasterEnt = < = catch =

@@ -1,0 +1,1 @@
+log4net.Repository.Hierarchy log4net.Core using class log4net.Repository.Hierarchy.DefaultLoggerFactory super super ILoggerFactory public public if == return new return new

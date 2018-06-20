@@ -1,0 +1,1 @@
+org.springframework.beans.factory.access org.springframework.beans.factory.BeanFactory import interface org.springframework.beans.factory.access.BeanFactoryReference

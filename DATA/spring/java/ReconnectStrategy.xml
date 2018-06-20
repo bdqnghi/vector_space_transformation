@@ -1,0 +1,1 @@
+org.springframework.messaging.tcp interface org.springframework.messaging.tcp.ReconnectStrategy

@@ -1,0 +1,1 @@
+org.springframework.web.socket.config org.springframework.beans.factory.xml.NamespaceHandlerSupport import org.springframework.util.ClassUtils import class org.springframework.web.socket.config.WebSocketNamespaceHandler super super extends boolean public public new if new

@@ -1,0 +1,1 @@
+SpringAir.Service System using System.Runtime.Serialization using class attribute SpringAir.Service.CannotConfirmReservationException super super ApplicationException

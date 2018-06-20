@@ -1,0 +1,1 @@
+Lucene.Net.Codecs System.Diagnostics using Lucene.Net.Index.DocsEnum Lucene.Net.Index.OrdTermState Lucene.Net.Index.TermState class Lucene.Net.Codecs.BlockTermState super super OrdTermState long long int int BlockTermState public override public override is + decl_stmt Lucene.Net.Codecs.BlockTermState = = = = = public override public override return + + + + + + +

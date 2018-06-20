@@ -1,0 +1,1 @@
+Lucene.Net.Facet.Taxonomy System using System.Collections.Generic using Lucene.Net.Index using Lucene.Net.Index.TwoPhaseCommit interface Lucene.Net.Facet.Taxonomy.TaxonomyWriter super super IDisposable super TwoPhaseCommit

@@ -1,0 +1,1 @@
+Lucene.Net.Index System using System.Collections.Generic using class Lucene.Net.Index.Fields super decl Fields return long long Terms decl_stmt long = foreach in decl_stmt Lucene.Net.Index.Terms = if != decl_stmt long = call Terms.Size() call Terms.Size() call Terms.Size() call Terms.Size() call Terms.Size() if == - return - += return

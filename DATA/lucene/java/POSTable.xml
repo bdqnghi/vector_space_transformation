@@ -1,0 +1,1 @@
+org.apache.solr.rest org.restlet.representation.Representation import org.restlet.resource.Post import interface org.apache.solr.rest.POSTable

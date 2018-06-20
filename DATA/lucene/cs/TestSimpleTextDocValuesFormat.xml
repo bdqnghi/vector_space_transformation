@@ -1,0 +1,1 @@
+org.apache.lucene.codecs.simpletext org.apache.lucene.index.BaseDocValuesFormatTestCase class org.apache.lucene.codecs.simpletext.TestSimpleTextDocValuesFormat super super BaseDocValuesFormatTestCase Codec return

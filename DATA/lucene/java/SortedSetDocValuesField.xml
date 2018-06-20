@@ -1,0 +1,1 @@
+org.apache.lucene.document org.apache.lucene.index.DocValuesType import org.apache.lucene.util.BytesRef import class org.apache.lucene.document.SortedSetDocValuesField super super extends FieldType

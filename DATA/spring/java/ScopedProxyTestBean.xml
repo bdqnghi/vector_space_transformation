@@ -1,0 +1,1 @@
+example.scannable java.util.concurrent.Future import org.springframework.context.annotation.Scope import org.springframework.scheduling.annotation.AsyncResult import class annotation example.scannable.ScopedProxyTestBean super super implements public public return public < public < return new < public public return

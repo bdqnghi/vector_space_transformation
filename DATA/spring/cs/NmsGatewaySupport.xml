@@ -1,0 +1,1 @@
+Spring.Messaging.Nms.Core System using Common.Logging using Spring.Objects.Factory using Apache.NMS using class Spring.Messaging.Nms.Core.NmsGatewaySupport super super IInitializingObject ILog NmsTemplate return = return != : = protected virtual protected virtual return new public virtual public virtual if == throw new try catch throw new + protected virtual protected virtual

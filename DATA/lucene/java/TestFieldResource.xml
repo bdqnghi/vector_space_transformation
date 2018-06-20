@@ -1,0 +1,1 @@
+org.apache.solr.rest.schema org.apache.solr.rest.SolrRestletTestBase import org.junit.Test import class org.apache.solr.rest.schema.TestFieldResource super super extends public public throws public public throws public public throws decl String public public throws decl_stmt java.lang.String =

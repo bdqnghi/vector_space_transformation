@@ -1,0 +1,1 @@
+Spring System using System.IO using class Spring.StreamHelperDecorator StreamHelperCallback Stream public public decl_stmt System.IO.Stream = try out finally if != try call System.IO.Stream.Close() call System.IO.Stream.Close() call System.IO.Stream.Close() call System.IO.Stream.Close() call System.IO.Stream.Close() catch

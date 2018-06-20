@@ -1,0 +1,1 @@
+NetMQ.Core System.Net.Sockets using interface NetMQ.Core.IProactorEvents super super ITimerEvent

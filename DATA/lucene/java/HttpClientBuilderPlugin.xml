@@ -1,0 +1,1 @@
+org.apache.solr.security org.apache.solr.client.solrj.impl.SolrHttpClientBuilder import interface org.apache.solr.security.HttpClientBuilderPlugin

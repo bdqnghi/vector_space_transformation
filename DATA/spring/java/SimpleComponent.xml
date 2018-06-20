@@ -1,0 +1,1 @@
+org.springframework.context.annotation.componentscan.simple org.springframework.context.annotation.Bean import org.springframework.stereotype.Component import class annotation org.springframework.context.annotation.componentscan.simple.SimpleComponent public public return

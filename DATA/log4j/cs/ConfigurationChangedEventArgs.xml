@@ -1,0 +1,1 @@
+log4net.Repository System using System.Collections using class log4net.Repository.ConfigurationChangedEventArgs super super EventArgs ICollection return

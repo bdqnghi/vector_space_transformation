@@ -1,0 +1,1 @@
+Spring.Remoting System.Runtime.Remoting.Channels using NUnit.Framework using Spring.Context using Spring.Context.Support using class attribute Spring.Remoting.RemotingConfigurerTests super super BaseRemotingTestFixture IApplicationContext public public decl_stmt Spring.Context.IApplicationContext = new

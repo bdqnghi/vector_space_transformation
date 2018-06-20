@@ -1,0 +1,1 @@
+Lucene.Net.Codecs.Memory Lucene.Net.Index using Lucene.Net.Util.Packed using class Lucene.Net.Codecs.Memory.MemoryDocValuesFormat super super DocValuesFormat string int string float string string public override public override return new public override public override return new

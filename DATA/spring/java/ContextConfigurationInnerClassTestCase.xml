@@ -1,0 +1,1 @@
+org.springframework.test.context.support org.springframework.context.annotation.Configuration import class org.springframework.test.context.support.ContextConfigurationInnerClassTestCase

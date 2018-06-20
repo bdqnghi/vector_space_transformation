@@ -1,0 +1,1 @@
+org.apache.solr org.apache.solr.common.params.CommonParams import org.junit.BeforeClass import org.junit.Test import java.util.Set import class org.apache.solr.MinimalSchemaTest super super extends public static public static throws public public public public decl Set public public decl_stmt java.util.Set < = for : try if || || || || || || || continue + + catch throw new + +

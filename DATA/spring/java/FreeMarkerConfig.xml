@@ -1,0 +1,1 @@
+org.springframework.web.servlet.view.freemarker freemarker.ext.jsp.TaglibFactory import freemarker.template.Configuration import interface org.springframework.web.servlet.view.freemarker.FreeMarkerConfig

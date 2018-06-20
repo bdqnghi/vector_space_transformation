@@ -1,0 +1,1 @@
+org.apache.log4j junit.framework.TestCase import junit.framework.TestSuite import junit.framework.Test import class org.apache.log4j.Last super super extends public public TestSuite public static public static decl_stmt TestSuite = new call TestSuite.addTest() call TestSuite.addTest() call TestSuite.addTest() call TestSuite.addTest() call TestSuite.addTest() new return

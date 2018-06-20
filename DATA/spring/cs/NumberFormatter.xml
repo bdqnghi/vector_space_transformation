@@ -1,0 +1,1 @@
+Spring.Globalization.Formatters System using System.Globalization using Spring.Util using class Spring.Globalization.Formatters.NumberFormatter super super IFormatter NumberFormatInfo return = return = return = return = return = public public if ! throw new return NumberStyles public public if ! return decl_stmt NumberStyles = if == |= return

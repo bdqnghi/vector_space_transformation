@@ -1,0 +1,1 @@
+org.springframework.aop.aspectj org.junit.Test import org.springframework.aop.support.AopUtils import static static org.junit.Assert.* import class org.springframework.aop.aspectj.AroundAdviceCircularTests super super extends Object Object public public decl_stmt java.lang.Object = decl_stmt java.lang.Object =

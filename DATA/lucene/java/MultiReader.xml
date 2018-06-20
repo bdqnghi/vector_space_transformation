@@ -1,0 +1,1 @@
+org.apache.lucene.index java.io.IOException import class org.apache.lucene.index.MultiReader super super extends boolean IOException protected synchronized protected synchronized throws decl_stmt IOException = for final final : try if else catch if == = if != throw

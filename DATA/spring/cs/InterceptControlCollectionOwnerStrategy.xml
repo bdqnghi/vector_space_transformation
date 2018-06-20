@@ -1,0 +1,1 @@
+Spring.Web.Support System.Web.UI using Spring.Context using class Spring.Web.Support.InterceptControlCollectionOwnerStrategy super super IInterceptionStrategy Control public public decl_stmt System.Web.UI.Control = = is new : new return

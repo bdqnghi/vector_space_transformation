@@ -1,0 +1,1 @@
+org.apache.solr.core java.util.List import interface org.apache.solr.core.CoresLocator

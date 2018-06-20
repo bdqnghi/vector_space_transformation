@@ -1,0 +1,1 @@
+org.springframework.jmx.export.annotation org.springframework.beans.factory.FactoryBean import org.springframework.jmx.IJmxTestBean import class org.springframework.jmx.export.annotation.AnnotationTestBeanFactory super super implements FactoryCreatedAnnotationTestBean public public throws return public < extends extends public < extends extends return public public return

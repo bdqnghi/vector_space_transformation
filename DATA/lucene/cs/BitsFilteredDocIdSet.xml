@@ -1,0 +1,1 @@
+Lucene.Net.Search Lucene.Net.Util.Bits class Lucene.Net.Search.BitsFilteredDocIdSet super super FilteredDocIdSet Bits public static public static return == || == : new protected internal override protected internal override return call Bits.Get() call Bits.Get() call Bits.Get() call Bits.Get() call Bits.Get()

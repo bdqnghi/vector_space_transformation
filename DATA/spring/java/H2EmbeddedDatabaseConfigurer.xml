@@ -1,0 +1,1 @@
+org.springframework.jdbc.datasource.embedded java.sql.Driver import org.springframework.util.ClassUtils import class org.springframework.jdbc.datasource.embedded.H2EmbeddedDatabaseConfigurer super super extends H2EmbeddedDatabaseConfigurer decl Class public static synchronized public static synchronized throws if == = new < extends extends return public public

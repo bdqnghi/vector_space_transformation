@@ -1,0 +1,1 @@
+log4net.Appender System using log4net.Core using System.Management.Instrumentation using interface log4net.Appender.IWmiBoundEvent super super IEvent

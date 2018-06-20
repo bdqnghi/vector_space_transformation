@@ -1,0 +1,1 @@
+org.springframework.web.servlet.resource java.io.IOException import org.springframework.core.io.ByteArrayResource import org.springframework.core.io.Resource import class org.springframework.web.servlet.resource.TransformedResource super super extends long String public public return public public throws return

@@ -1,0 +1,1 @@
+org.springframework.web.portlet javax.portlet.PortletRequest import interface org.springframework.web.portlet.HandlerMapping

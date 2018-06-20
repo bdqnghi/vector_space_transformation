@@ -1,0 +1,1 @@
+org.apache.lucene.analysis.cn System using System.Collections.Generic using org.apache.lucene.analysis.core.StopFilterFactory org.apache.lucene.analysis.util.TokenFilterFactory class attribute org.apache.lucene.analysis.cn.ChineseFilterFactory super super TokenFilterFactory public override public override return new

@@ -1,0 +1,1 @@
+org.springframework.context.annotation org.springframework.beans.factory.support.BeanDefinitionRegistry import org.springframework.beans.factory.support.BeanDefinitionRegistryPostProcessor import org.springframework.core.type.AnnotationMetadata import interface org.springframework.context.annotation.ImportBeanDefinitionRegistrar

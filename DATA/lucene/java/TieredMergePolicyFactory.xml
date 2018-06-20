@@ -1,0 +1,1 @@
+org.apache.solr.index org.apache.lucene.index.MergePolicy import org.apache.lucene.index.TieredMergePolicy import org.apache.solr.core.SolrResourceLoader import org.apache.solr.schema.IndexSchema import class org.apache.solr.index.TieredMergePolicyFactory super super extends protected protected return new

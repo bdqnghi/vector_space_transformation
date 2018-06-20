@@ -1,0 +1,1 @@
+org.apache.solr.update.processor java.io.IOException import org.apache.solr.request.SolrQueryRequest import org.apache.solr.response.SolrQueryResponse import org.apache.solr.update.AddUpdateCommand import class org.apache.solr.update.processor.SimpleUpdateProcessorFactory super super extends public public return new public public throws public public throws

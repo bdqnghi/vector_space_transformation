@@ -1,0 +1,1 @@
+org.apache.lucene.search org.apache.lucene.util.AttributeImpl import org.apache.lucene.util.AttributeReflector import class org.apache.lucene.search.BoostAttributeImpl super super extends super implements float public public = public public return public public = public public public public
